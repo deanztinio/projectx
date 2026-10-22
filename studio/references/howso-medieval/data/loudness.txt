@@ -1,0 +1,32 @@
+# Loudness (ffmpeg ebur128 on the full mix)
+[Parsed_ebur128_0 @ 0x55b1853e3140] Summary:
+  Integrated loudness:
+    I:         -23.9 LUFS
+    Threshold: -34.3 LUFS
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -44.3 LUFS
+    LRA low:   -26.5 LUFS
+    LRA high:  -22.7 LUFS
+  True peak:
+    Peak:       -5.6 dBFS
+
+## Voice vs gaps, and every pause of 3 s or more
+momentary loudness while talking: median -23.6 LUFS
+momentary loudness in gaps (no talking): median -31.9 LUFS
+long pauses (>=3 s): pause start, length, M during pause (median / max), M in 3 s of speech before
+  2:39.63   8.7s  pause M  -31.2 /  -23.5   speech-before M  -23.1   'ents that combined to create medieval Europe.'
+  5:15.29   5.8s  pause M  -29.2 /  -27.7   speech-before M  -23.9   'e European history forever, the Carolingians.'
+  6:35.72   5.8s  pause M  -36.2 /  -24.0   speech-before M  -24.1   ' formed the bedrock of medieval civilization.'
+  7:58.10   5.6s  pause M  -37.1 /  -24.5   speech-before M  -26.5   'Europe was under siege.'
+  9:26.72   5.5s  pause M  -29.8 /  -23.9   speech-before M  -22.4   'alized states would emerge again in the West.'
+  10:55.56   3.1s  pause M  -40.4 /  -24.4   speech-before M  -24.6   'ility and confidence, ready to change course.'
+  11:05.61   4.0s  pause M  -36.2 /  -34.2   speech-before M  -23.4   'hering in 300 years of growth and prosperity.'
+  12:26.47   5.6s  pause M  -25.5 /  -21.9   speech-before M  -23.3   'al frontiers, they were also pushing outward.'
+  14:14.23   5.8s  pause M  -30.4 /  -21.6   speech-before M  -24.6   'The Catholic Church had awakened.'
+  15:49.72   5.4s  pause M  -30.6 /  -27.9   speech-before M  -24.2   'Then they followed suit.'
+  17:39.77   8.0s  pause M  -28.8 /  -20.9   speech-before M  -22.6   'A great calamity was approaching.'
+  18:52.19   5.9s  pause M  -23.9 /  -21.5   speech-before M  -24.9   'Yet, in the long run, change was inevitable.'
+  19:40.53   6.0s  pause M  -36.7 /  -29.0   speech-before M  -22.8   'sition between the medieval and modern world.'
+  20:26.08   5.8s  pause M  -24.4 /  -18.7   speech-before M  -24.0   'The sovereign state was emerging.'
+  21:18.48   5.8s  pause M  -35.5 /  -25.6   speech-before M  -23.0   'wait several centuries for their unification.'

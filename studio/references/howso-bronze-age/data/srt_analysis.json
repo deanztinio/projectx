@@ -1,0 +1,4048 @@
+{
+ "summary": {
+  "segments": 400,
+  "words": 2541,
+  "first_word": 0.42,
+  "last_word": 1323.09,
+  "speech_span_s": 1322.7,
+  "wpm_over_span": 115.3,
+  "wpm_while_talking": 142.4,
+  "sentences": 180,
+  "sentence_words_mean": 14.1,
+  "sentence_words_median": 13.0,
+  "sentence_words_p10_p90": [
+   7,
+   23
+  ],
+  "sentence_words_max": 39,
+  "pause_after_sentence_mean": 1.37,
+  "pause_after_sentence_median": 1.02,
+  "pauses_over_1s": 102,
+  "pauses_over_2s": 24,
+  "gap_between_segments_median": 0.0
+ },
+ "sentences": [
+  {
+   "start": 0.42,
+   "end": 4.74,
+   "text": "In the ancient Near East, the world's first civilizations emerged.",
+   "words": 10,
+   "dur": 4.32,
+   "wpm": 139,
+   "pause_after": 1.36
+  },
+  {
+   "start": 6.1,
+   "end": 16.1,
+   "text": "Over 2,000 years, farming villages grew into fortified cities, cities linked to form kingdoms, and kingdoms expanded into vast empires.",
+   "words": 20,
+   "dur": 10.0,
+   "wpm": 120,
+   "pause_after": 0.94
+  },
+  {
+   "start": 17.04,
+   "end": 19.02,
+   "text": "Yet the path was never straightforward.",
+   "words": 6,
+   "dur": 1.98,
+   "wpm": 182,
+   "pause_after": 0.88
+  },
+  {
+   "start": 19.9,
+   "end": 24.32,
+   "text": "It unfolded through cycles of growth, prosperity, and collapse.",
+   "words": 9,
+   "dur": 4.42,
+   "wpm": 122,
+   "pause_after": 1.24
+  },
+  {
+   "start": 25.56,
+   "end": 40.02,
+   "text": "Egyptians, Sumerians, Akkadians, Assyrians, Babylonians, each drawing on the legacies of their predecessors, each giving rise to conquerors and builders, refining the instruments of power.",
+   "words": 25,
+   "dur": 14.46,
+   "wpm": 104,
+   "pause_after": 1.22
+  },
+  {
+   "start": 41.24,
+   "end": 43.96,
+   "text": "This is the Bronze Age Near East.",
+   "words": 7,
+   "dur": 2.72,
+   "wpm": 154,
+   "pause_after": 5.11
+  },
+  {
+   "start": 49.07,
+   "end": 51.83,
+   "text": "Our story begins in prehistoric times.",
+   "words": 6,
+   "dur": 2.76,
+   "wpm": 130,
+   "pause_after": 1.26
+  },
+  {
+   "start": 53.09,
+   "end": 63.69,
+   "text": "For millions of years, humans lived in small groups, wandering from place to place, living off what nature provided them, hunting animals and gathering plants for food.",
+   "words": 27,
+   "dur": 10.6,
+   "wpm": 153,
+   "pause_after": 0.76
+  },
+  {
+   "start": 64.45,
+   "end": 67.57,
+   "text": "The population was sparse and resources abundant.",
+   "words": 7,
+   "dur": 3.12,
+   "wpm": 135,
+   "pause_after": 0.94
+  },
+  {
+   "start": 68.51,
+   "end": 70.05,
+   "text": "Life was fairly comfortable.",
+   "words": 4,
+   "dur": 1.54,
+   "wpm": 156,
+   "pause_after": 1.56
+  },
+  {
+   "start": 71.61,
+   "end": 76.17,
+   "text": "Then, around 9,000 BCE, a great transformation was set in motion.",
+   "words": 11,
+   "dur": 4.56,
+   "wpm": 145,
+   "pause_after": 0.78
+  },
+  {
+   "start": 76.95,
+   "end": 85.87,
+   "text": "In a small ecological niche in the region we call the Near East, humans began domesticating certain plants and animals, growing their own food.",
+   "words": 24,
+   "dur": 8.92,
+   "wpm": 161,
+   "pause_after": 0.98
+  },
+  {
+   "start": 86.85,
+   "end": 94.51,
+   "text": "This new mastery over nature enabled the first farmers to gather into larger communities, establishing the first villages.",
+   "words": 18,
+   "dur": 7.66,
+   "wpm": 141,
+   "pause_after": 2.8
+  },
+  {
+   "start": 97.31,
+   "end": 103.95,
+   "text": "By 7,000 BCE, village societies had spread across regions with sufficient rainfall for agriculture.",
+   "words": 14,
+   "dur": 6.64,
+   "wpm": 127,
+   "pause_after": 0.72
+  },
+  {
+   "start": 104.67,
+   "end": 107.55,
+   "text": "Then they emerged along the great river valleys.",
+   "words": 8,
+   "dur": 2.88,
+   "wpm": 167,
+   "pause_after": 1.1
+  },
+  {
+   "start": 108.65,
+   "end": 114.79,
+   "text": "In Mesopotamia, farmers dug canals to channel the waters of the Euphrates and the Tigris for irrigation.",
+   "words": 17,
+   "dur": 6.14,
+   "wpm": 166,
+   "pause_after": 1.44
+  },
+  {
+   "start": 116.23,
+   "end": 123.19,
+   "text": "Soon after, villages spread to Egypt, where farmers relied on the annual flooding of the Nile to nourish their fields.",
+   "words": 20,
+   "dur": 6.96,
+   "wpm": 172,
+   "pause_after": 1.48
+  },
+  {
+   "start": 124.67,
+   "end": 130.41,
+   "text": "By 4,000 BCE, farming villages dotted the region we call the Fertile Crescent.",
+   "words": 13,
+   "dur": 5.74,
+   "wpm": 136,
+   "pause_after": 1.0
+  },
+  {
+   "start": 131.41,
+   "end": 136.69,
+   "text": "At its two ends lay lands of extraordinary fertility, Mesopotamia and Egypt.",
+   "words": 12,
+   "dur": 5.28,
+   "wpm": 136,
+   "pause_after": 0.68
+  },
+  {
+   "start": 137.37,
+   "end": 140.71,
+   "text": "These became the breadbaskets of the ancient Near East.",
+   "words": 9,
+   "dur": 3.34,
+   "wpm": 162,
+   "pause_after": 1.86
+  },
+  {
+   "start": 142.57,
+   "end": 155.19,
+   "text": "During the 4th millennium BCE, societies in these core regions underwent a second transformation, one so great that it ushered in a new era that we call the Bronze Age.",
+   "words": 30,
+   "dur": 12.62,
+   "wpm": 143,
+   "pause_after": 6.1
+  },
+  {
+   "start": 161.29,
+   "end": 171.87,
+   "text": "In southern Mesopotamia, new agricultural techniques increased crop yields, enabling the formation of dense population centers on an unprecedented scale.",
+   "words": 20,
+   "dur": 10.58,
+   "wpm": 113,
+   "pause_after": 0.74
+  },
+  {
+   "start": 172.61,
+   "end": 173.71,
+   "text": "The first cities.",
+   "words": 3,
+   "dur": 1.1,
+   "wpm": 164,
+   "pause_after": 1.24
+  },
+  {
+   "start": 174.95,
+   "end": 191.15,
+   "text": "Agricultural surplus freed parts of the population from the need to grow their own food, enabling some to specialize in crafts like pottery or metalworking, and others to become administrators and priests, managing the city's economic and religious life.",
+   "words": 39,
+   "dur": 16.2,
+   "wpm": 144,
+   "pause_after": 0.92
+  },
+  {
+   "start": 192.07,
+   "end": 197.67,
+   "text": "Strict social hierarchy developed, making these not just cities, but city-states.",
+   "words": 11,
+   "dur": 5.6,
+   "wpm": 118,
+   "pause_after": 1.58
+  },
+  {
+   "start": 199.25,
+   "end": 207.59,
+   "text": "The elites gathered around temples, which served as the dwelling place of each city's patron deity and as the central grain storehouse.",
+   "words": 22,
+   "dur": 8.34,
+   "wpm": 158,
+   "pause_after": 0.9
+  },
+  {
+   "start": 208.49,
+   "end": 217.21,
+   "text": "To keep track of the temple's resources, they developed a memory aid device, writing, later to become cuneiform script.",
+   "words": 19,
+   "dur": 8.72,
+   "wpm": 131,
+   "pause_after": 1.74
+  },
+  {
+   "start": 218.95,
+   "end": 227.83,
+   "text": "The engine behind the first wave of urbanization was the city of Uruk in southern Mesopotamia, ten times larger than its contemporaries.",
+   "words": 22,
+   "dur": 8.88,
+   "wpm": 149,
+   "pause_after": 0.98
+  },
+  {
+   "start": 228.81,
+   "end": 234.33,
+   "text": "At its center rose a complex called the House of Heaven, seat of the goddess Inanna.",
+   "words": 16,
+   "dur": 5.52,
+   "wpm": 174,
+   "pause_after": 0.96
+  },
+  {
+   "start": 235.29,
+   "end": 240.59,
+   "text": "A priest-ruler acted as the intermediary between the city's inhabitants and the goddess.",
+   "words": 13,
+   "dur": 5.3,
+   "wpm": 147,
+   "pause_after": 1.28
+  },
+  {
+   "start": 241.87,
+   "end": 248.93,
+   "text": "Later mythology will tell of Gilgamesh, legendary ruler of Uruk, who journeyed to find immortality.",
+   "words": 15,
+   "dur": 7.06,
+   "wpm": 127,
+   "pause_after": 0.72
+  },
+  {
+   "start": 249.65,
+   "end": 256.95,
+   "text": "He found it, at last, in the form of building and writing, leaving works that endure across generations.",
+   "words": 18,
+   "dur": 7.3,
+   "wpm": 148,
+   "pause_after": 2.2
+  },
+  {
+   "start": 259.15,
+   "end": 267.25,
+   "text": "From Uruk, the urban model spread out, eastward to the Iranian plateau, and to the north toward Anatolia.",
+   "words": 18,
+   "dur": 8.1,
+   "wpm": 133,
+   "pause_after": 0.88
+  },
+  {
+   "start": 268.13,
+   "end": 271.41,
+   "text": "These new cities were perhaps Uruk's colonies.",
+   "words": 7,
+   "dur": 3.28,
+   "wpm": 128,
+   "pause_after": 1.82
+  },
+  {
+   "start": 273.23,
+   "end": 278.59,
+   "text": "Meanwhile, at the other end of the Fertile Crescent, similar processes were unfolding.",
+   "words": 13,
+   "dur": 5.36,
+   "wpm": 146,
+   "pause_after": 0.8
+  },
+  {
+   "start": 279.39,
+   "end": 283.27,
+   "text": "In southern Egypt, urban centers sprang up along the Nile.",
+   "words": 10,
+   "dur": 3.88,
+   "wpm": 155,
+   "pause_after": 0.84
+  },
+  {
+   "start": 284.11,
+   "end": 289.89,
+   "text": "Within them, another system of writing developed, later to become hieroglyphic script.",
+   "words": 12,
+   "dur": 5.78,
+   "wpm": 125,
+   "pause_after": 1.18
+  },
+  {
+   "start": 291.07,
+   "end": 300.23,
+   "text": "Here, strong leaders accumulated significant wealth, built monumental tombs, and associated themselves with the falcon god Horus.",
+   "words": 17,
+   "dur": 9.16,
+   "wpm": 111,
+   "pause_after": 1.1
+  },
+  {
+   "start": 301.33,
+   "end": 307.11,
+   "text": "Gradually, these southern leaders took over the Nile Delta, replacing its local culture.",
+   "words": 13,
+   "dur": 5.78,
+   "wpm": 135,
+   "pause_after": 1.48
+  },
+  {
+   "start": 308.59,
+   "end": 316.69,
+   "text": "And so, the Mesopotamian and Egyptian systems spread across the Near East, heralding a new form of human organization.",
+   "words": 19,
+   "dur": 8.1,
+   "wpm": 141,
+   "pause_after": 0.76
+  },
+  {
+   "start": 317.45,
+   "end": 323.91,
+   "text": "Stratified societies, fixed within the framework of cities and states, and administered through writing.",
+   "words": 14,
+   "dur": 6.46,
+   "wpm": 130,
+   "pause_after": 0.88
+  },
+  {
+   "start": 324.79,
+   "end": 326.53,
+   "text": "The blueprint of civilization.",
+   "words": 4,
+   "dur": 1.74,
+   "wpm": 138,
+   "pause_after": 1.48
+  },
+  {
+   "start": 328.01,
+   "end": 334.97,
+   "text": "Then, around 3100 BCE, these two systems were pushed onto different trajectories.",
+   "words": 12,
+   "dur": 6.96,
+   "wpm": 103,
+   "pause_after": 0.91
+  },
+  {
+   "start": 335.88,
+   "end": 339.59,
+   "text": "In the east, the Uruk system mysteriously collapsed.",
+   "words": 8,
+   "dur": 3.71,
+   "wpm": 129,
+   "pause_after": 0.9
+  },
+  {
+   "start": 340.49,
+   "end": 343.01,
+   "text": "Cities disappeared, and links were severed.",
+   "words": 6,
+   "dur": 2.52,
+   "wpm": 143,
+   "pause_after": 0.76
+  },
+  {
+   "start": 343.77,
+   "end": 353.31,
+   "text": "In southern Mesopotamia, mostly in the areas where people spoke a language called Sumerian, a new network of similar-sized city-states emerged.",
+   "words": 21,
+   "dur": 9.54,
+   "wpm": 132,
+   "pause_after": 1.02
+  },
+  {
+   "start": 354.33,
+   "end": 356.75,
+   "text": "Sumerian society was taking shape.",
+   "words": 5,
+   "dur": 2.42,
+   "wpm": 124,
+   "pause_after": 1.38
+  },
+  {
+   "start": 358.13,
+   "end": 365.83,
+   "text": "In the west, the takeover of the Nile Delta by the Nile Valley culminated in their unification under a single ruler.",
+   "words": 21,
+   "dur": 7.7,
+   "wpm": 164,
+   "pause_after": 0.68
+  },
+  {
+   "start": 366.51,
+   "end": 367.03,
+   "text": "A king.",
+   "words": 2,
+   "dur": 0.52,
+   "wpm": 231,
+   "pause_after": 0.94
+  },
+  {
+   "start": 367.97,
+   "end": 374.83,
+   "text": "The central figure in this process was a man called Narmer, whose name literally means terrible catfish.",
+   "words": 17,
+   "dur": 6.86,
+   "wpm": 149,
+   "pause_after": 1.04
+  },
+  {
+   "start": 375.87,
+   "end": 385.91,
+   "text": "After defeating his enemies in the delta, he wore both the white crown of the south, and the red crown of the north, which later combined into the double crown.",
+   "words": 30,
+   "dur": 10.04,
+   "wpm": 179,
+   "pause_after": 0.98
+  },
+  {
+   "start": 386.89,
+   "end": 389.51,
+   "text": "And so, the Kingdom of Egypt was born.",
+   "words": 8,
+   "dur": 2.62,
+   "wpm": 183,
+   "pause_after": 0.52
+  },
+  {
+   "start": 390.03,
+   "end": 393.27,
+   "text": "The first territorial state in human history.",
+   "words": 7,
+   "dur": 3.24,
+   "wpm": 130,
+   "pause_after": 1.75
+  },
+  {
+   "start": 395.02,
+   "end": 399.38,
+   "text": "As we reach the year 3000 BCE, the stage is set.",
+   "words": 11,
+   "dur": 4.36,
+   "wpm": 151,
+   "pause_after": 0.74
+  },
+  {
+   "start": 400.12,
+   "end": 410.26,
+   "text": "With the consolidation of Egyptian and Sumerian societies, and their growing use of written records, we have passed the final threshold between prehistory and history.",
+   "words": 25,
+   "dur": 10.14,
+   "wpm": 148,
+   "pause_after": 6.63
+  },
+  {
+   "start": 416.89,
+   "end": 426.67,
+   "text": "Between 29 and 2300 BCE, the Sumerian city -states of southern Mesopotamia flourished, becoming ever larger and more populous.",
+   "words": 19,
+   "dur": 9.78,
+   "wpm": 117,
+   "pause_after": 0.74
+  },
+  {
+   "start": 427.41,
+   "end": 429.71,
+   "text": "But prosperity came at a cost.",
+   "words": 6,
+   "dur": 2.3,
+   "wpm": 157,
+   "pause_after": 0.76
+  },
+  {
+   "start": 430.47,
+   "end": 433.61,
+   "text": "An intensifying competition over agricultural land.",
+   "words": 6,
+   "dur": 3.14,
+   "wpm": 115,
+   "pause_after": 1.32
+  },
+  {
+   "start": 434.93,
+   "end": 436.71,
+   "text": "Eventually, wars erupted.",
+   "words": 3,
+   "dur": 1.78,
+   "wpm": 101,
+   "pause_after": 1.02
+  },
+  {
+   "start": 437.73,
+   "end": 444.31,
+   "text": "The best known of these is the bloody conflict between the cities of Lagash and Umma, spanning generations.",
+   "words": 18,
+   "dur": 6.58,
+   "wpm": 164,
+   "pause_after": 1.8
+  },
+  {
+   "start": 446.11,
+   "end": 450.65,
+   "text": "Constant warfare triggered profound changes in the way these cities were governed.",
+   "words": 12,
+   "dur": 4.54,
+   "wpm": 159,
+   "pause_after": 0.76
+  },
+  {
+   "start": 451.41,
+   "end": 459.39,
+   "text": "The traditional priest-ruler was challenged by a new type of leader, the warrior, who has proved himself on the field of battle.",
+   "words": 22,
+   "dur": 7.98,
+   "wpm": 165,
+   "pause_after": 1.0
+  },
+  {
+   "start": 460.39,
+   "end": 464.53,
+   "text": "These leaders passed authority to their sons, forming dynasties.",
+   "words": 9,
+   "dur": 4.14,
+   "wpm": 130,
+   "pause_after": 0.84
+  },
+  {
+   "start": 465.37,
+   "end": 470.03,
+   "text": "They resided in lavish palaces, leading lives of considerable luxury.",
+   "words": 10,
+   "dur": 4.66,
+   "wpm": 129,
+   "pause_after": 1.88
+  },
+  {
+   "start": 471.91,
+   "end": 481.57,
+   "text": "Southern Mesopotamian rulers did not only fight one another, they also maintained diplomatic relations, and shared a common cultural and religious framework.",
+   "words": 22,
+   "dur": 9.66,
+   "wpm": 137,
+   "pause_after": 1.04
+  },
+  {
+   "start": 482.61,
+   "end": 490.73,
+   "text": "The patron deities of the various cities were joined to create a common Mesopotamian pantheon, headed by the god Enlil.",
+   "words": 20,
+   "dur": 8.12,
+   "wpm": 148,
+   "pause_after": 2.21
+  },
+  {
+   "start": 492.94,
+   "end": 504.16,
+   "text": "During this period, another wave of urbanization spread out once more from southern Mesopotamia, this time reaching farther and leaving a deeper impact on surrounding regions.",
+   "words": 26,
+   "dur": 11.22,
+   "wpm": 139,
+   "pause_after": 1.32
+  },
+  {
+   "start": 505.48,
+   "end": 510.0,
+   "text": "And yet, the true territorial power of the Near East was the Egypt.",
+   "words": 13,
+   "dur": 4.52,
+   "wpm": 173,
+   "pause_after": 0.84
+  },
+  {
+   "start": 510.84,
+   "end": 516.72,
+   "text": "This was a centralized state, divided into administrative districts run by officials.",
+   "words": 12,
+   "dur": 5.88,
+   "wpm": 122,
+   "pause_after": 0.88
+  },
+  {
+   "start": 517.6,
+   "end": 526.62,
+   "text": "They all answered to the king, ruling from his new seat at the city of Memphis, strategically located at the juncture between Lower and Upper Egypt.",
+   "words": 26,
+   "dur": 9.02,
+   "wpm": 173,
+   "pause_after": 0.96
+  },
+  {
+   "start": 527.58,
+   "end": 537.0,
+   "text": "The king was perceived as the unifier of Egypt, the one holding it all together, maintaining order, and defending against external chaos.",
+   "words": 22,
+   "dur": 9.42,
+   "wpm": 140,
+   "pause_after": 1.0
+  },
+  {
+   "start": 538.0,
+   "end": 544.96,
+   "text": "He was no mere man, but the embodiment of the falcon god Horus, and child of the sun god Ra.",
+   "words": 20,
+   "dur": 6.96,
+   "wpm": 172,
+   "pause_after": 1.06
+  },
+  {
+   "start": 546.02,
+   "end": 553.76,
+   "text": "These gods and others, who originated in local cults, were gathered into a unified Egyptian pantheon.",
+   "words": 16,
+   "dur": 7.74,
+   "wpm": 124,
+   "pause_after": 1.4
+  },
+  {
+   "start": 555.16,
+   "end": 565.06,
+   "text": "Between 26 and 2300 BCE, Egyptian kings demonstrated their divine power by constructing the most impressive burial monuments in the world.",
+   "words": 21,
+   "dur": 9.9,
+   "wpm": 127,
+   "pause_after": 0.26
+  },
+  {
+   "start": 565.32,
+   "end": 566.52,
+   "text": "The pyramids.",
+   "words": 2,
+   "dur": 1.2,
+   "wpm": 100,
+   "pause_after": 1.08
+  },
+  {
+   "start": 567.6,
+   "end": 575.12,
+   "text": "These immense structures were meant to ensure that after death, the king would ascend to the heavens and join the sun.",
+   "words": 21,
+   "dur": 7.52,
+   "wpm": 168,
+   "pause_after": 2.62
+  },
+  {
+   "start": 577.74,
+   "end": 583.5,
+   "text": "Before 2300 BCE, Egypt stood united and Mesopotamia divided.",
+   "words": 9,
+   "dur": 5.76,
+   "wpm": 94,
+   "pause_after": 1.16
+  },
+  {
+   "start": 584.66,
+   "end": 588.26,
+   "text": "But a dramatic reversal would soon change everything.",
+   "words": 8,
+   "dur": 3.6,
+   "wpm": 133,
+   "pause_after": 6.55
+  },
+  {
+   "start": 594.81,
+   "end": 597.61,
+   "text": "In southern Mesopotamia, two languages were spoken.",
+   "words": 7,
+   "dur": 2.8,
+   "wpm": 150,
+   "pause_after": 0.88
+  },
+  {
+   "start": 598.49,
+   "end": 600.07,
+   "text": "In the south, Sumerian.",
+   "words": 4,
+   "dur": 1.58,
+   "wpm": 152,
+   "pause_after": 0.56
+  },
+  {
+   "start": 600.63,
+   "end": 604.01,
+   "text": "In the north, a Semitic language we call Akkadian.",
+   "words": 9,
+   "dur": 3.38,
+   "wpm": 160,
+   "pause_after": 1.48
+  },
+  {
+   "start": 605.49,
+   "end": 611.37,
+   "text": "In this Akkadian-speaking region, in the city of Kish, a palace official seized power.",
+   "words": 14,
+   "dur": 5.88,
+   "wpm": 143,
+   "pause_after": 0.88
+  },
+  {
+   "start": 612.25,
+   "end": 619.55,
+   "text": "He took the name Sargon, meaning the king is legitimate, and moved his capital to the new city of Akkad.",
+   "words": 20,
+   "dur": 7.3,
+   "wpm": 164,
+   "pause_after": 1.06
+  },
+  {
+   "start": 620.61,
+   "end": 628.49,
+   "text": "The armies of Sargon and his successors subdued the Sumerian cities of the south, then the kingdoms of northern Mesopotamia.",
+   "words": 20,
+   "dur": 7.88,
+   "wpm": 152,
+   "pause_after": 0.52
+  },
+  {
+   "start": 629.01,
+   "end": 632.15,
+   "text": "The first empire in history was forged.",
+   "words": 7,
+   "dur": 3.14,
+   "wpm": 134,
+   "pause_after": 0.88
+  },
+  {
+   "start": 633.03,
+   "end": 644.41,
+   "text": "It reached its peak during the reign of Sargon's grandson Naramsin, a fearsome military leader who presented himself not only as a king, but as a god.",
+   "words": 27,
+   "dur": 11.38,
+   "wpm": 142,
+   "pause_after": 2.12
+  },
+  {
+   "start": 646.53,
+   "end": 652.15,
+   "text": "During its two centuries of existence, the Akkadian empire left a profound legacy.",
+   "words": 13,
+   "dur": 5.62,
+   "wpm": 139,
+   "pause_after": 0.98
+  },
+  {
+   "start": 653.13,
+   "end": 662.37,
+   "text": "Its language, Akkadian, later became an international language, and the deeds of its great kings turned into legends that echoed for millennia.",
+   "words": 22,
+   "dur": 9.24,
+   "wpm": 143,
+   "pause_after": 2.65
+  },
+  {
+   "start": 665.02,
+   "end": 668.64,
+   "text": "But an empire held together by sheer force could not endure.",
+   "words": 11,
+   "dur": 3.62,
+   "wpm": 182,
+   "pause_after": 0.94
+  },
+  {
+   "start": 669.58,
+   "end": 677.0,
+   "text": "A combination of internal rebellions and external invasions by mountain tribes led to its rapid disintegration.",
+   "words": 16,
+   "dur": 7.42,
+   "wpm": 129,
+   "pause_after": 1.82
+  },
+  {
+   "start": 678.82,
+   "end": 689.14,
+   "text": "Shortly thereafter, a man named Ur-Namur and his son Shulgi, rulers of the Sumerian city of Ur, succeeded in uniting vast territories once again.",
+   "words": 24,
+   "dur": 10.32,
+   "wpm": 140,
+   "pause_after": 0.8
+  },
+  {
+   "start": 689.94,
+   "end": 700.28,
+   "text": "While the Akkadian empire served as a model of military might, the Sumerian kingdom of Ur excelled in developing a highly efficient bureaucratic system.",
+   "words": 24,
+   "dur": 10.34,
+   "wpm": 139,
+   "pause_after": 0.76
+  },
+  {
+   "start": 701.04,
+   "end": 705.42,
+   "text": "Its kings presented themselves as devoted to the gods and to justice.",
+   "words": 12,
+   "dur": 4.38,
+   "wpm": 164,
+   "pause_after": 1.16
+  },
+  {
+   "start": 706.58,
+   "end": 708.68,
+   "text": "Their kingdom lasted a century.",
+   "words": 5,
+   "dur": 2.1,
+   "wpm": 143,
+   "pause_after": 2.64
+  },
+  {
+   "start": 711.32,
+   "end": 717.78,
+   "text": "In parallel to Mesopotamia's first experiments in empire building, the Egyptian state began to crumble.",
+   "words": 15,
+   "dur": 6.46,
+   "wpm": 139,
+   "pause_after": 1.46
+  },
+  {
+   "start": 719.24,
+   "end": 724.04,
+   "text": "Around 2200 BCE, the glorious age of the pyramids was over.",
+   "words": 11,
+   "dur": 4.8,
+   "wpm": 138,
+   "pause_after": 0.98
+  },
+  {
+   "start": 725.02,
+   "end": 731.68,
+   "text": "Local elites amassed wealth and power at the expense of the king until the fabric of the state tore apart.",
+   "words": 20,
+   "dur": 6.66,
+   "wpm": 180,
+   "pause_after": 1.2
+  },
+  {
+   "start": 732.88,
+   "end": 737.62,
+   "text": "For 200 years, competing dynasties scrambled for power along the Nile.",
+   "words": 11,
+   "dur": 4.74,
+   "wpm": 139,
+   "pause_after": 0.86
+  },
+  {
+   "start": 738.48,
+   "end": 746.52,
+   "text": "And so, as the year 2000 BCE was approaching, Chaos ruled Egypt while Mesopotamia was partly unified.",
+   "words": 17,
+   "dur": 8.04,
+   "wpm": 127,
+   "pause_after": 0.7
+  },
+  {
+   "start": 747.22,
+   "end": 751.36,
+   "text": "The Near East was ready for yet another reversal of fortunes.",
+   "words": 11,
+   "dur": 4.14,
+   "wpm": 159,
+   "pause_after": 6.42
+  },
+  {
+   "start": 757.78,
+   "end": 762.96,
+   "text": "Around 2000 BCE, a new player entered the stage, the Amorites.",
+   "words": 11,
+   "dur": 5.18,
+   "wpm": 127,
+   "pause_after": 0.94
+  },
+  {
+   "start": 763.9,
+   "end": 769.78,
+   "text": "Originally semi-nomadic pastoral tribes from Syria, they now moved into Mesopotamia.",
+   "words": 11,
+   "dur": 5.88,
+   "wpm": 112,
+   "pause_after": 1.08
+  },
+  {
+   "start": 770.86,
+   "end": 780.38,
+   "text": "The kingdom of Ur collapsed, and across Syria and Mesopotamia, Amorite settlers founded dynasties, ruling city -states and kingdoms.",
+   "words": 19,
+   "dur": 9.52,
+   "wpm": 120,
+   "pause_after": 1.04
+  },
+  {
+   "start": 781.42,
+   "end": 786.18,
+   "text": "They created a new interconnected world lasting for 400 years.",
+   "words": 10,
+   "dur": 4.76,
+   "wpm": 126,
+   "pause_after": 1.46
+  },
+  {
+   "start": 787.64,
+   "end": 797.18,
+   "text": "In this world, rulers were military men, constantly fighting for power, making and breaking alliances, backstabbing allies.",
+   "words": 17,
+   "dur": 9.54,
+   "wpm": 107,
+   "pause_after": 0.96
+  },
+  {
+   "start": 798.14,
+   "end": 805.94,
+   "text": "After 1800 BCE, a few of the most ambitious and cunning leaders managed to carve out extensive realms.",
+   "words": 18,
+   "dur": 7.8,
+   "wpm": 138,
+   "pause_after": 1.26
+  },
+  {
+   "start": 807.2,
+   "end": 810.48,
+   "text": "The first of these appeared in northern Mesopotamia.",
+   "words": 8,
+   "dur": 3.28,
+   "wpm": 146,
+   "pause_after": 0.98
+  },
+  {
+   "start": 811.46,
+   "end": 816.3,
+   "text": "There, Amorite conqueror Shamshi-Adad took hold of vast territories.",
+   "words": 9,
+   "dur": 4.84,
+   "wpm": 112,
+   "pause_after": 0.8
+  },
+  {
+   "start": 817.1,
+   "end": 822.8,
+   "text": "His kingdom incorporated the thriving city of Ashur on the banks of the Tigris river.",
+   "words": 15,
+   "dur": 5.7,
+   "wpm": 158,
+   "pause_after": 1.18
+  },
+  {
+   "start": 823.98,
+   "end": 829.28,
+   "text": "Assyrian merchants have been venturing into Anatolia, establishing a network of colonies.",
+   "words": 12,
+   "dur": 5.3,
+   "wpm": 136,
+   "pause_after": 1.02
+  },
+  {
+   "start": 830.3,
+   "end": 836.16,
+   "text": "This system persisted after Shamshi-Adad's death and the subsequent collapse of his kingdom.",
+   "words": 13,
+   "dur": 5.86,
+   "wpm": 133,
+   "pause_after": 2.28
+  },
+  {
+   "start": 838.44,
+   "end": 843.8,
+   "text": "Meanwhile, an Amorite called Hammurabi inherited the throne of the city of Babylon.",
+   "words": 13,
+   "dur": 5.36,
+   "wpm": 146,
+   "pause_after": 1.16
+  },
+  {
+   "start": 844.96,
+   "end": 851.26,
+   "text": "From this seat of power in the heart of Mesopotamia, Hammurabi picked off his enemies one by one.",
+   "words": 18,
+   "dur": 6.3,
+   "wpm": 171,
+   "pause_after": 1.1
+  },
+  {
+   "start": 852.36,
+   "end": 857.46,
+   "text": "He established a great empire and proclaimed himself king of all Amorites.",
+   "words": 12,
+   "dur": 5.1,
+   "wpm": 141,
+   "pause_after": 1.02
+  },
+  {
+   "start": 858.48,
+   "end": 865.98,
+   "text": "Like his predecessors, Hammurabi portrayed himself as a shepherd tending his flock, an upholder of justice.",
+   "words": 16,
+   "dur": 7.5,
+   "wpm": 128,
+   "pause_after": 0.74
+  },
+  {
+   "start": 866.72,
+   "end": 870.42,
+   "text": "This ideology materialized in his famous law code.",
+   "words": 8,
+   "dur": 3.7,
+   "wpm": 130,
+   "pause_after": 1.28
+  },
+  {
+   "start": 871.7,
+   "end": 884.28,
+   "text": "Babylon, the center of Hammurabi's empire, went on to become the cultural center of Mesopotamia for over a millennium, and its patron god Marduk rose to the head of the pantheon.",
+   "words": 31,
+   "dur": 12.58,
+   "wpm": 148,
+   "pause_after": 2.4
+  },
+  {
+   "start": 886.68,
+   "end": 890.54,
+   "text": "Meanwhile, important developments occurred in the land of the Nile.",
+   "words": 10,
+   "dur": 3.86,
+   "wpm": 155,
+   "pause_after": 1.78
+  },
+  {
+   "start": 892.32,
+   "end": 904.0,
+   "text": "Around 2000 BCE, like a thousand years earlier, a powerful leader from the south conquered the north, creating a unified kingdom of Egypt that would last 400 years.",
+   "words": 28,
+   "dur": 11.68,
+   "wpm": 144,
+   "pause_after": 1.16
+  },
+  {
+   "start": 905.16,
+   "end": 909.1,
+   "text": "This was a transformative period of economic and cultural flowering.",
+   "words": 10,
+   "dur": 3.94,
+   "wpm": 152,
+   "pause_after": 1.04
+  },
+  {
+   "start": 910.14,
+   "end": 916.46,
+   "text": "Egypt opened up extensive trade networks and penetrated new lands beyond its traditional borders.",
+   "words": 14,
+   "dur": 6.32,
+   "wpm": 133,
+   "pause_after": 0.96
+  },
+  {
+   "start": 917.42,
+   "end": 922.28,
+   "text": "In a surge of creativity, Egypt's greatest literary classics were written.",
+   "words": 11,
+   "dur": 4.86,
+   "wpm": 136,
+   "pause_after": 2.83
+  },
+  {
+   "start": 925.11,
+   "end": 932.66,
+   "text": "Then, around 1600 BCE, regional turmoil cut short the dominion of both Egypt and Babylon.",
+   "words": 15,
+   "dur": 7.55,
+   "wpm": 119,
+   "pause_after": 1.54
+  },
+  {
+   "start": 934.2,
+   "end": 942.06,
+   "text": "Mesopotamia was invaded by a new power rising in Anatolia, the Hittites, bringing an end to the Amorite era.",
+   "words": 19,
+   "dur": 7.86,
+   "wpm": 145,
+   "pause_after": 1.5
+  },
+  {
+   "start": 943.56,
+   "end": 953.32,
+   "text": "In Egypt, foreigners from the Levant, known as the Hyksos, established a dynasty in the Nile Delta and ruled a portion of the divided realm.",
+   "words": 25,
+   "dur": 9.76,
+   "wpm": 154,
+   "pause_after": 0.76
+  },
+  {
+   "start": 954.08,
+   "end": 958.38,
+   "text": "The entire Near East was fragmenting, but not for long.",
+   "words": 10,
+   "dur": 4.3,
+   "wpm": 140,
+   "pause_after": 6.47
+  },
+  {
+   "start": 964.85,
+   "end": 969.87,
+   "text": "Out of the fractured world of 1600 BCE, a new order emerged.",
+   "words": 12,
+   "dur": 5.02,
+   "wpm": 143,
+   "pause_after": 0.64
+  },
+  {
+   "start": 970.51,
+   "end": 979.55,
+   "text": "Great powers, larger, stronger, and more cohesive than ever before, bound together by networks of diplomacy and trade.",
+   "words": 18,
+   "dur": 9.04,
+   "wpm": 119,
+   "pause_after": 0.92
+  },
+  {
+   "start": 980.47,
+   "end": 987.31,
+   "text": "These were 400 years of unprecedented flourishing, an era labeled the Late Bronze Age.",
+   "words": 14,
+   "dur": 6.84,
+   "wpm": 123,
+   "pause_after": 1.66
+  },
+  {
+   "start": 988.97,
+   "end": 992.43,
+   "text": "In southern Iran, the kingdom of Elam prospered.",
+   "words": 8,
+   "dur": 3.46,
+   "wpm": 139,
+   "pause_after": 0.88
+  },
+  {
+   "start": 993.31,
+   "end": 999.99,
+   "text": "In southern Mesopotamia, Babylonia was ruled by the Kassite dynasty, originating from the Iranian plateau.",
+   "words": 15,
+   "dur": 6.68,
+   "wpm": 135,
+   "pause_after": 1.2
+  },
+  {
+   "start": 1001.19,
+   "end": 1006.95,
+   "text": "In northern Mesopotamia, the kingdom of Mitanni reigned supreme, and later Assyria.",
+   "words": 12,
+   "dur": 5.76,
+   "wpm": 125,
+   "pause_after": 0.3
+  },
+  {
+   "start": 1007.25,
+   "end": 1012.17,
+   "text": "Once a thriving trading city, Assur now excelled in military strength.",
+   "words": 11,
+   "dur": 4.92,
+   "wpm": 134,
+   "pause_after": 1.2
+  },
+  {
+   "start": 1013.37,
+   "end": 1020.11,
+   "text": "In Anatolia, the Hittite empire emerged around its capital, Hattusa, and expanded to immense proportions.",
+   "words": 15,
+   "dur": 6.74,
+   "wpm": 134,
+   "pause_after": 1.44
+  },
+  {
+   "start": 1021.55,
+   "end": 1025.51,
+   "text": "In Mycenaean Greece, an impressive network of palaces developed.",
+   "words": 9,
+   "dur": 3.96,
+   "wpm": 136,
+   "pause_after": 1.3
+  },
+  {
+   "start": 1026.81,
+   "end": 1029.81,
+   "text": "And finally, to the south, Egypt was reunited.",
+   "words": 8,
+   "dur": 3.0,
+   "wpm": 160,
+   "pause_after": 1.02
+  },
+  {
+   "start": 1030.83,
+   "end": 1034.81,
+   "text": "For the third time, a ruler from the south took control of the north.",
+   "words": 14,
+   "dur": 3.98,
+   "wpm": 211,
+   "pause_after": 0.9
+  },
+  {
+   "start": 1035.71,
+   "end": 1040.85,
+   "text": "This time, Egyptian kings conquered Nubia and Canaan, forming an empire.",
+   "words": 11,
+   "dur": 5.14,
+   "wpm": 128,
+   "pause_after": 1.32
+  },
+  {
+   "start": 1042.17,
+   "end": 1048.15,
+   "text": "This was Egypt's Golden Age, known for its great kings and their ambitious building projects.",
+   "words": 15,
+   "dur": 5.98,
+   "wpm": 151,
+   "pause_after": 0.54
+  },
+  {
+   "start": 1048.69,
+   "end": 1052.51,
+   "text": "Among them, the enormous temple to the central god, Amun-Ra.",
+   "words": 10,
+   "dur": 3.82,
+   "wpm": 157,
+   "pause_after": 2.12
+  },
+  {
+   "start": 1054.63,
+   "end": 1057.45,
+   "text": "But the king of Egypt stood among peers.",
+   "words": 8,
+   "dur": 2.82,
+   "wpm": 170,
+   "pause_after": 0.76
+  },
+  {
+   "start": 1058.21,
+   "end": 1062.79,
+   "text": "The five great powers of the Near East were headed by five great kings.",
+   "words": 14,
+   "dur": 4.58,
+   "wpm": 183,
+   "pause_after": 0.76
+  },
+  {
+   "start": 1063.55,
+   "end": 1073.21,
+   "text": "They formed an exclusive club, referring to each other as my brother, and constantly exchanging envoys, letters, and luxurious gifts.",
+   "words": 20,
+   "dur": 9.66,
+   "wpm": 124,
+   "pause_after": 1.04
+  },
+  {
+   "start": 1074.25,
+   "end": 1082.65,
+   "text": "This was made possible by complex bureaucracies run by scribes who read and wrote Akkadian, a shared diplomatic language.",
+   "words": 19,
+   "dur": 8.4,
+   "wpm": 136,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1083.65,
+   "end": 1087.43,
+   "text": "This was the first true international system in history.",
+   "words": 9,
+   "dur": 3.78,
+   "wpm": 143,
+   "pause_after": 2.2
+  },
+  {
+   "start": 1089.63,
+   "end": 1092.87,
+   "text": "Exchanges among rulers were only the tip of the iceberg.",
+   "words": 10,
+   "dur": 3.24,
+   "wpm": 185,
+   "pause_after": 0.84
+  },
+  {
+   "start": 1093.71,
+   "end": 1097.33,
+   "text": "A vast trade network linked the entire known world.",
+   "words": 9,
+   "dur": 3.62,
+   "wpm": 149,
+   "pause_after": 0.78
+  },
+  {
+   "start": 1098.11,
+   "end": 1103.37,
+   "text": "In the eastern Mediterranean, ships sailed with rich cargos from far and wide.",
+   "words": 13,
+   "dur": 5.26,
+   "wpm": 148,
+   "pause_after": 1.58
+  },
+  {
+   "start": 1104.95,
+   "end": 1109.71,
+   "text": "International interdependence helped maintain relative stability and peace.",
+   "words": 8,
+   "dur": 4.76,
+   "wpm": 101,
+   "pause_after": 0.6
+  },
+  {
+   "start": 1110.31,
+   "end": 1114.65,
+   "text": "But this balance rested also on the military power of the great kings.",
+   "words": 13,
+   "dur": 4.34,
+   "wpm": 180,
+   "pause_after": 1.1
+  },
+  {
+   "start": 1115.75,
+   "end": 1122.11,
+   "text": "In this era, a new military technology spread across the region, the horse-drawn chariot.",
+   "words": 14,
+   "dur": 6.36,
+   "wpm": 132,
+   "pause_after": 1.1
+  },
+  {
+   "start": 1123.21,
+   "end": 1127.27,
+   "text": "This vehicle soon became the backbone of Near Eastern armies.",
+   "words": 10,
+   "dur": 4.06,
+   "wpm": 148,
+   "pause_after": 1.02
+  },
+  {
+   "start": 1128.29,
+   "end": 1135.89,
+   "text": "With it emerged a new warrior elite, and kings took care to portray themselves as skilled fighters on the battlefield.",
+   "words": 20,
+   "dur": 7.6,
+   "wpm": 158,
+   "pause_after": 1.6
+  },
+  {
+   "start": 1137.49,
+   "end": 1142.17,
+   "text": "Sometimes power was not only displayed, but also put to use.",
+   "words": 11,
+   "dur": 4.68,
+   "wpm": 141,
+   "pause_after": 1.02
+  },
+  {
+   "start": 1143.19,
+   "end": 1149.83,
+   "text": "Famously, the struggle between the Egyptians and the Hittites over the Levant resulted in the Battle of Kadesh.",
+   "words": 18,
+   "dur": 6.64,
+   "wpm": 163,
+   "pause_after": 0.69
+  },
+  {
+   "start": 1150.52,
+   "end": 1155.71,
+   "text": "Several years later, these powers signed a peace treaty, restoring stability.",
+   "words": 11,
+   "dur": 5.19,
+   "wpm": 127,
+   "pause_after": 2.09
+  },
+  {
+   "start": 1157.8,
+   "end": 1164.86,
+   "text": "The international system of the Late Bronze Age was the culmination of 2,000 years of civilizational development.",
+   "words": 17,
+   "dur": 7.06,
+   "wpm": 144,
+   "pause_after": 0.9
+  },
+  {
+   "start": 1165.76,
+   "end": 1170.22,
+   "text": "But at the very moment it reached its zenith, it collapsed completely.",
+   "words": 12,
+   "dur": 4.46,
+   "wpm": 161,
+   "pause_after": 4.7
+  },
+  {
+   "start": 1174.92,
+   "end": 1184.68,
+   "text": "Between 1200 and 1100 BCE, the Late Bronze Age system fell apart in what we now refer to as the Bronze Age Collapse.",
+   "words": 23,
+   "dur": 9.76,
+   "wpm": 141,
+   "pause_after": 0.52
+  },
+  {
+   "start": 1185.2,
+   "end": 1192.5,
+   "text": "A chain of crises swept across the Eastern Mediterranean, unfolding in a massive domino effect.",
+   "words": 15,
+   "dur": 7.3,
+   "wpm": 123,
+   "pause_after": 1.46
+  },
+  {
+   "start": 1193.96,
+   "end": 1197.86,
+   "text": "Severe drought led to crop failure and widespread famine.",
+   "words": 9,
+   "dur": 3.9,
+   "wpm": 138,
+   "pause_after": 0.86
+  },
+  {
+   "start": 1198.72,
+   "end": 1206.4,
+   "text": "In some regions, groups began to rebel against the ruling elites, while others migrated southward in search of food.",
+   "words": 19,
+   "dur": 7.68,
+   "wpm": 148,
+   "pause_after": 0.36
+  },
+  {
+   "start": 1206.76,
+   "end": 1209.56,
+   "text": "The result was chaos and destruction.",
+   "words": 6,
+   "dur": 2.8,
+   "wpm": 129,
+   "pause_after": 2.63
+  },
+  {
+   "start": 1212.19,
+   "end": 1214.95,
+   "text": "In Greece, Mycenaean society collapsed.",
+   "words": 5,
+   "dur": 2.76,
+   "wpm": 109,
+   "pause_after": 0.96
+  },
+  {
+   "start": 1215.91,
+   "end": 1221.57,
+   "text": "In Anatolia, the Hittite royal family abandoned the capital, and the empire disintegrated.",
+   "words": 13,
+   "dur": 5.66,
+   "wpm": 138,
+   "pause_after": 1.4
+  },
+  {
+   "start": 1222.97,
+   "end": 1226.61,
+   "text": "Soon thereafter, its dependent cities in Syria fell.",
+   "words": 8,
+   "dur": 3.64,
+   "wpm": 132,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1227.61,
+   "end": 1233.63,
+   "text": "As the Mediterranean trade network came undone, merchants became pirates and raiders.",
+   "words": 12,
+   "dur": 6.02,
+   "wpm": 120,
+   "pause_after": 1.14
+  },
+  {
+   "start": 1234.77,
+   "end": 1237.25,
+   "text": "Desperate pleas for help were sent to Egypt.",
+   "words": 8,
+   "dur": 2.48,
+   "wpm": 194,
+   "pause_after": 0.72
+  },
+  {
+   "start": 1237.97,
+   "end": 1238.93,
+   "text": "But it was too late.",
+   "words": 5,
+   "dur": 0.96,
+   "wpm": 313,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1239.93,
+   "end": 1246.69,
+   "text": "The king of Egypt fought on land and sea against groups of invaders from the Aegean, the so-called Sea Peoples.",
+   "words": 20,
+   "dur": 6.76,
+   "wpm": 178,
+   "pause_after": 1.48
+  },
+  {
+   "start": 1248.17,
+   "end": 1252.57,
+   "text": "Ultimately, Egypt's power was broken, and it withdrew from the Levant.",
+   "words": 11,
+   "dur": 4.4,
+   "wpm": 150,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1253.57,
+   "end": 1256.95,
+   "text": "There, the Canaanite city-states collapsed one by one.",
+   "words": 8,
+   "dur": 3.38,
+   "wpm": 142,
+   "pause_after": 0.84
+  },
+  {
+   "start": 1257.79,
+   "end": 1260.27,
+   "text": "The crisis then pushed deeper inland.",
+   "words": 6,
+   "dur": 2.48,
+   "wpm": 145,
+   "pause_after": 0.9
+  },
+  {
+   "start": 1261.17,
+   "end": 1264.07,
+   "text": "Assyria contracted back to its geographic core.",
+   "words": 7,
+   "dur": 2.9,
+   "wpm": 145,
+   "pause_after": 0.56
+  },
+  {
+   "start": 1264.63,
+   "end": 1271.87,
+   "text": "In Babylonia, the ruling dynasty fell, and Elam entered a long period of fragmentation and decline.",
+   "words": 16,
+   "dur": 7.24,
+   "wpm": 133,
+   "pause_after": 3.02
+  },
+  {
+   "start": 1274.89,
+   "end": 1285.97,
+   "text": "The upheaval threw the region into a brief dark age, later filled with myths and legends, such as the Trojan War and the Israelite conquest of Canaan.",
+   "words": 27,
+   "dur": 11.08,
+   "wpm": 146,
+   "pause_after": 2.84
+  },
+  {
+   "start": 1288.81,
+   "end": 1294.85,
+   "text": "The two-millennium journey of the Bronze Age had reached its end, but its achievements endured.",
+   "words": 15,
+   "dur": 6.04,
+   "wpm": 149,
+   "pause_after": 0.54
+  },
+  {
+   "start": 1295.39,
+   "end": 1302.17,
+   "text": "This era established a world of farmers and artisans, scribes and merchants, priests and kings.",
+   "words": 15,
+   "dur": 6.78,
+   "wpm": 133,
+   "pause_after": 0.78
+  },
+  {
+   "start": 1302.95,
+   "end": 1307.63,
+   "text": "Together, they forged the foundations on which future civilizations would stand.",
+   "words": 11,
+   "dur": 4.68,
+   "wpm": 141,
+   "pause_after": 2.1
+  },
+  {
+   "start": 1309.73,
+   "end": 1323.09,
+   "text": "In the next video, we will venture into the Iron Age, where civilization will rise from the ashes higher than ever before, and great powers will achieve the ultimate dream of universal dominion.",
+   "words": 33,
+   "dur": 13.36,
+   "wpm": 148,
+   "pause_after": null
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.42,
+   "end": 3.04,
+   "text": "In the ancient Near East, the world's first",
+   "gap_after": 0.0
+  },
+  {
+   "start": 3.04,
+   "end": 4.74,
+   "text": "civilizations emerged.",
+   "gap_after": 1.36
+  },
+  {
+   "start": 6.1,
+   "end": 9.02,
+   "text": "Over 2,000 years, farming villages grew into",
+   "gap_after": 0.0
+  },
+  {
+   "start": 9.02,
+   "end": 13.48,
+   "text": "fortified cities, cities linked to form kingdoms, and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 13.48,
+   "end": 16.1,
+   "text": "kingdoms expanded into vast empires.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 17.04,
+   "end": 19.02,
+   "text": "Yet the path was never straightforward.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 19.9,
+   "end": 23.7,
+   "text": "It unfolded through cycles of growth, prosperity, and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 23.7,
+   "end": 24.32,
+   "text": "collapse.",
+   "gap_after": 1.24
+  },
+  {
+   "start": 25.56,
+   "end": 31.92,
+   "text": "Egyptians, Sumerians, Akkadians, Assyrians, Babylonians, each drawing on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 31.92,
+   "end": 35.76,
+   "text": "the legacies of their predecessors, each giving rise",
+   "gap_after": 0.0
+  },
+  {
+   "start": 35.76,
+   "end": 39.66,
+   "text": "to conquerors and builders, refining the instruments of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 39.66,
+   "end": 40.02,
+   "text": "power.",
+   "gap_after": 1.22
+  },
+  {
+   "start": 41.24,
+   "end": 43.96,
+   "text": "This is the Bronze Age Near East.",
+   "gap_after": 5.11
+  },
+  {
+   "start": 49.07,
+   "end": 51.83,
+   "text": "Our story begins in prehistoric times.",
+   "gap_after": 1.26
+  },
+  {
+   "start": 53.09,
+   "end": 55.97,
+   "text": "For millions of years, humans lived in small",
+   "gap_after": 0.0
+  },
+  {
+   "start": 55.97,
+   "end": 59.31,
+   "text": "groups, wandering from place to place, living off",
+   "gap_after": 0.0
+  },
+  {
+   "start": 59.31,
+   "end": 62.59,
+   "text": "what nature provided them, hunting animals and gathering",
+   "gap_after": 0.0
+  },
+  {
+   "start": 62.59,
+   "end": 63.69,
+   "text": "plants for food.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 64.45,
+   "end": 67.57,
+   "text": "The population was sparse and resources abundant.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 68.51,
+   "end": 70.05,
+   "text": "Life was fairly comfortable.",
+   "gap_after": 1.56
+  },
+  {
+   "start": 71.61,
+   "end": 74.95,
+   "text": "Then, around 9,000 BCE, a great transformation",
+   "gap_after": 0.0
+  },
+  {
+   "start": 74.95,
+   "end": 76.17,
+   "text": "was set in motion.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 76.95,
+   "end": 79.27,
+   "text": "In a small ecological niche in the region",
+   "gap_after": 0.0
+  },
+  {
+   "start": 79.27,
+   "end": 82.57,
+   "text": "we call the Near East, humans began domesticating",
+   "gap_after": 0.0
+  },
+  {
+   "start": 82.57,
+   "end": 85.87,
+   "text": "certain plants and animals, growing their own food.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 86.85,
+   "end": 89.81,
+   "text": "This new mastery over nature enabled the first",
+   "gap_after": 0.0
+  },
+  {
+   "start": 89.81,
+   "end": 93.75,
+   "text": "farmers to gather into larger communities, establishing the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 93.75,
+   "end": 94.51,
+   "text": "first villages.",
+   "gap_after": 2.8
+  },
+  {
+   "start": 97.31,
+   "end": 100.91,
+   "text": "By 7,000 BCE, village societies had spread",
+   "gap_after": 0.0
+  },
+  {
+   "start": 100.91,
+   "end": 103.95,
+   "text": "across regions with sufficient rainfall for agriculture.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 104.67,
+   "end": 107.55,
+   "text": "Then they emerged along the great river valleys.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 108.65,
+   "end": 112.03,
+   "text": "In Mesopotamia, farmers dug canals to channel the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 112.03,
+   "end": 114.27,
+   "text": "waters of the Euphrates and the Tigris for",
+   "gap_after": 0.0
+  },
+  {
+   "start": 114.27,
+   "end": 114.79,
+   "text": "irrigation.",
+   "gap_after": 1.44
+  },
+  {
+   "start": 116.23,
+   "end": 119.53,
+   "text": "Soon after, villages spread to Egypt, where farmers",
+   "gap_after": 0.0
+  },
+  {
+   "start": 119.53,
+   "end": 121.83,
+   "text": "relied on the annual flooding of the Nile",
+   "gap_after": 0.0
+  },
+  {
+   "start": 121.83,
+   "end": 123.19,
+   "text": "to nourish their fields.",
+   "gap_after": 1.48
+  },
+  {
+   "start": 124.67,
+   "end": 128.229,
+   "text": "By 4,000 BCE, farming villages dotted the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 128.229,
+   "end": 130.41,
+   "text": "region we call the Fertile Crescent.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 131.41,
+   "end": 133.85,
+   "text": "At its two ends lay lands of extraordinary",
+   "gap_after": 0.0
+  },
+  {
+   "start": 133.85,
+   "end": 136.69,
+   "text": "fertility, Mesopotamia and Egypt.",
+   "gap_after": 0.68
+  },
+  {
+   "start": 137.37,
+   "end": 140.23,
+   "text": "These became the breadbaskets of the ancient Near",
+   "gap_after": 0.0
+  },
+  {
+   "start": 140.23,
+   "end": 140.71,
+   "text": "East.",
+   "gap_after": 1.86
+  },
+  {
+   "start": 142.57,
+   "end": 146.01,
+   "text": "During the 4th millennium BCE, societies in these",
+   "gap_after": 0.0
+  },
+  {
+   "start": 146.01,
+   "end": 150.45,
+   "text": "core regions underwent a second transformation, one so",
+   "gap_after": 0.0
+  },
+  {
+   "start": 150.45,
+   "end": 152.91,
+   "text": "great that it ushered in a new era",
+   "gap_after": 0.0
+  },
+  {
+   "start": 152.91,
+   "end": 155.19,
+   "text": "that we call the Bronze Age.",
+   "gap_after": 6.1
+  },
+  {
+   "start": 161.29,
+   "end": 166.11,
+   "text": "In southern Mesopotamia, new agricultural techniques increased crop",
+   "gap_after": 0.0
+  },
+  {
+   "start": 166.11,
+   "end": 169.75,
+   "text": "yields, enabling the formation of dense population centers",
+   "gap_after": 0.0
+  },
+  {
+   "start": 169.75,
+   "end": 171.87,
+   "text": "on an unprecedented scale.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 172.61,
+   "end": 173.71,
+   "text": "The first cities.",
+   "gap_after": 1.24
+  },
+  {
+   "start": 174.95,
+   "end": 178.17,
+   "text": "Agricultural surplus freed parts of the population from",
+   "gap_after": 0.0
+  },
+  {
+   "start": 178.17,
+   "end": 180.71,
+   "text": "the need to grow their own food, enabling",
+   "gap_after": 0.0
+  },
+  {
+   "start": 180.71,
+   "end": 184.05,
+   "text": "some to specialize in crafts like pottery or",
+   "gap_after": 0.0
+  },
+  {
+   "start": 184.05,
+   "end": 187.89,
+   "text": "metalworking, and others to become administrators and priests,",
+   "gap_after": 0.6
+  },
+  {
+   "start": 188.49,
+   "end": 191.15,
+   "text": "managing the city's economic and religious life.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 192.07,
+   "end": 195.51,
+   "text": "Strict social hierarchy developed, making these not just",
+   "gap_after": 0.0
+  },
+  {
+   "start": 195.51,
+   "end": 197.67,
+   "text": "cities, but city-states.",
+   "gap_after": 1.58
+  },
+  {
+   "start": 199.25,
+   "end": 202.45,
+   "text": "The elites gathered around temples, which served as",
+   "gap_after": 0.0
+  },
+  {
+   "start": 202.45,
+   "end": 205.03,
+   "text": "the dwelling place of each city's patron deity",
+   "gap_after": 0.0
+  },
+  {
+   "start": 205.03,
+   "end": 207.59,
+   "text": "and as the central grain storehouse.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 208.49,
+   "end": 211.29,
+   "text": "To keep track of the temple's resources, they",
+   "gap_after": 0.0
+  },
+  {
+   "start": 211.29,
+   "end": 215.43,
+   "text": "developed a memory aid device, writing, later to",
+   "gap_after": 0.0
+  },
+  {
+   "start": 215.43,
+   "end": 217.21,
+   "text": "become cuneiform script.",
+   "gap_after": 1.74
+  },
+  {
+   "start": 218.95,
+   "end": 221.77,
+   "text": "The engine behind the first wave of urbanization",
+   "gap_after": 0.0
+  },
+  {
+   "start": 221.77,
+   "end": 224.87,
+   "text": "was the city of Uruk in southern Mesopotamia,",
+   "gap_after": 0.46
+  },
+  {
+   "start": 225.33,
+   "end": 227.83,
+   "text": "ten times larger than its contemporaries.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 228.81,
+   "end": 231.21,
+   "text": "At its center rose a complex called the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 231.21,
+   "end": 234.33,
+   "text": "House of Heaven, seat of the goddess Inanna.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 235.29,
+   "end": 238.45,
+   "text": "A priest-ruler acted as the intermediary between",
+   "gap_after": 0.0
+  },
+  {
+   "start": 238.45,
+   "end": 240.59,
+   "text": "the city's inhabitants and the goddess.",
+   "gap_after": 1.28
+  },
+  {
+   "start": 241.87,
+   "end": 245.71,
+   "text": "Later mythology will tell of Gilgamesh, legendary ruler",
+   "gap_after": 0.0
+  },
+  {
+   "start": 245.71,
+   "end": 248.93,
+   "text": "of Uruk, who journeyed to find immortality.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 249.65,
+   "end": 251.95,
+   "text": "He found it, at last, in the form",
+   "gap_after": 0.0
+  },
+  {
+   "start": 251.95,
+   "end": 255.43,
+   "text": "of building and writing, leaving works that endure",
+   "gap_after": 0.0
+  },
+  {
+   "start": 255.43,
+   "end": 256.95,
+   "text": "across generations.",
+   "gap_after": 2.199
+  },
+  {
+   "start": 259.149,
+   "end": 263.13,
+   "text": "From Uruk, the urban model spread out, eastward",
+   "gap_after": 0.0
+  },
+  {
+   "start": 263.13,
+   "end": 266.17,
+   "text": "to the Iranian plateau, and to the north",
+   "gap_after": 0.0
+  },
+  {
+   "start": 266.17,
+   "end": 267.25,
+   "text": "toward Anatolia.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 268.13,
+   "end": 271.41,
+   "text": "These new cities were perhaps Uruk's colonies.",
+   "gap_after": 1.82
+  },
+  {
+   "start": 273.23,
+   "end": 275.95,
+   "text": "Meanwhile, at the other end of the Fertile",
+   "gap_after": 0.0
+  },
+  {
+   "start": 275.95,
+   "end": 278.59,
+   "text": "Crescent, similar processes were unfolding.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 279.39,
+   "end": 282.81,
+   "text": "In southern Egypt, urban centers sprang up along",
+   "gap_after": 0.0
+  },
+  {
+   "start": 282.81,
+   "end": 283.27,
+   "text": "the Nile.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 284.11,
+   "end": 287.75,
+   "text": "Within them, another system of writing developed, later",
+   "gap_after": 0.0
+  },
+  {
+   "start": 287.75,
+   "end": 289.89,
+   "text": "to become hieroglyphic script.",
+   "gap_after": 1.18
+  },
+  {
+   "start": 291.07,
+   "end": 295.91,
+   "text": "Here, strong leaders accumulated significant wealth, built monumental",
+   "gap_after": 0.0
+  },
+  {
+   "start": 295.91,
+   "end": 299.61,
+   "text": "tombs, and associated themselves with the falcon god",
+   "gap_after": 0.0
+  },
+  {
+   "start": 299.61,
+   "end": 300.23,
+   "text": "Horus.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 301.33,
+   "end": 304.45,
+   "text": "Gradually, these southern leaders took over the Nile",
+   "gap_after": 0.0
+  },
+  {
+   "start": 304.45,
+   "end": 307.11,
+   "text": "Delta, replacing its local culture.",
+   "gap_after": 1.48
+  },
+  {
+   "start": 308.59,
+   "end": 312.23,
+   "text": "And so, the Mesopotamian and Egyptian systems spread",
+   "gap_after": 0.0
+  },
+  {
+   "start": 312.23,
+   "end": 315.35,
+   "text": "across the Near East, heralding a new form",
+   "gap_after": 0.0
+  },
+  {
+   "start": 315.35,
+   "end": 316.69,
+   "text": "of human organization.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 317.45,
+   "end": 321.05,
+   "text": "Stratified societies, fixed within the framework of cities",
+   "gap_after": 0.0
+  },
+  {
+   "start": 321.05,
+   "end": 323.91,
+   "text": "and states, and administered through writing.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 324.79,
+   "end": 326.53,
+   "text": "The blueprint of civilization.",
+   "gap_after": 1.48
+  },
+  {
+   "start": 328.01,
+   "end": 333.07,
+   "text": "Then, around 3100 BCE, these two systems were",
+   "gap_after": 0.0
+  },
+  {
+   "start": 333.07,
+   "end": 334.97,
+   "text": "pushed onto different trajectories.",
+   "gap_after": 0.91
+  },
+  {
+   "start": 335.88,
+   "end": 339.59,
+   "text": "In the east, the Uruk system mysteriously collapsed.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 340.49,
+   "end": 343.01,
+   "text": "Cities disappeared, and links were severed.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 343.77,
+   "end": 346.97,
+   "text": "In southern Mesopotamia, mostly in the areas where",
+   "gap_after": 0.0
+  },
+  {
+   "start": 346.97,
+   "end": 350.25,
+   "text": "people spoke a language called Sumerian, a new",
+   "gap_after": 0.0
+  },
+  {
+   "start": 350.25,
+   "end": 353.31,
+   "text": "network of similar-sized city-states emerged.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 354.33,
+   "end": 356.75,
+   "text": "Sumerian society was taking shape.",
+   "gap_after": 1.38
+  },
+  {
+   "start": 358.13,
+   "end": 360.73,
+   "text": "In the west, the takeover of the Nile",
+   "gap_after": 0.0
+  },
+  {
+   "start": 360.73,
+   "end": 363.65,
+   "text": "Delta by the Nile Valley culminated in their",
+   "gap_after": 0.0
+  },
+  {
+   "start": 363.65,
+   "end": 365.83,
+   "text": "unification under a single ruler.",
+   "gap_after": 0.68
+  },
+  {
+   "start": 366.51,
+   "end": 367.03,
+   "text": "A king.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 367.97,
+   "end": 370.31,
+   "text": "The central figure in this process was a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 370.31,
+   "end": 374.11,
+   "text": "man called Narmer, whose name literally means terrible",
+   "gap_after": 0.0
+  },
+  {
+   "start": 374.11,
+   "end": 374.83,
+   "text": "catfish.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 375.87,
+   "end": 378.69,
+   "text": "After defeating his enemies in the delta, he",
+   "gap_after": 0.0
+  },
+  {
+   "start": 378.69,
+   "end": 380.81,
+   "text": "wore both the white crown of the south,",
+   "gap_after": 0.54
+  },
+  {
+   "start": 381.35,
+   "end": 383.61,
+   "text": "and the red crown of the north, which",
+   "gap_after": 0.0
+  },
+  {
+   "start": 383.61,
+   "end": 385.91,
+   "text": "later combined into the double crown.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 386.89,
+   "end": 389.51,
+   "text": "And so, the Kingdom of Egypt was born.",
+   "gap_after": 0.52
+  },
+  {
+   "start": 390.03,
+   "end": 393.27,
+   "text": "The first territorial state in human history.",
+   "gap_after": 1.75
+  },
+  {
+   "start": 395.02,
+   "end": 398.38,
+   "text": "As we reach the year 3000 BCE, the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 398.38,
+   "end": 399.38,
+   "text": "stage is set.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 400.12,
+   "end": 403.14,
+   "text": "With the consolidation of Egyptian and Sumerian societies,",
+   "gap_after": 0.56
+  },
+  {
+   "start": 403.7,
+   "end": 406.4,
+   "text": "and their growing use of written records, we",
+   "gap_after": 0.0
+  },
+  {
+   "start": 406.4,
+   "end": 409.82,
+   "text": "have passed the final threshold between prehistory and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 409.82,
+   "end": 410.26,
+   "text": "history.",
+   "gap_after": 6.63
+  },
+  {
+   "start": 416.89,
+   "end": 421.39,
+   "text": "Between 29 and 2300 BCE, the Sumerian city",
+   "gap_after": 0.0
+  },
+  {
+   "start": 421.39,
+   "end": 425.49,
+   "text": "-states of southern Mesopotamia flourished, becoming ever larger",
+   "gap_after": 0.0
+  },
+  {
+   "start": 425.49,
+   "end": 426.67,
+   "text": "and more populous.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 427.41,
+   "end": 429.71,
+   "text": "But prosperity came at a cost.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 430.47,
+   "end": 433.61,
+   "text": "An intensifying competition over agricultural land.",
+   "gap_after": 1.32
+  },
+  {
+   "start": 434.93,
+   "end": 436.71,
+   "text": "Eventually, wars erupted.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 437.73,
+   "end": 439.61,
+   "text": "The best known of these is the bloody",
+   "gap_after": 0.0
+  },
+  {
+   "start": 439.61,
+   "end": 442.59,
+   "text": "conflict between the cities of Lagash and Umma,",
+   "gap_after": 0.62
+  },
+  {
+   "start": 443.21,
+   "end": 444.31,
+   "text": "spanning generations.",
+   "gap_after": 1.8
+  },
+  {
+   "start": 446.11,
+   "end": 449.55,
+   "text": "Constant warfare triggered profound changes in the way",
+   "gap_after": 0.0
+  },
+  {
+   "start": 449.55,
+   "end": 450.65,
+   "text": "these cities were governed.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 451.41,
+   "end": 454.59,
+   "text": "The traditional priest-ruler was challenged by a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 454.59,
+   "end": 457.41,
+   "text": "new type of leader, the warrior, who has",
+   "gap_after": 0.0
+  },
+  {
+   "start": 457.41,
+   "end": 459.39,
+   "text": "proved himself on the field of battle.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 460.39,
+   "end": 463.63,
+   "text": "These leaders passed authority to their sons, forming",
+   "gap_after": 0.0
+  },
+  {
+   "start": 463.63,
+   "end": 464.53,
+   "text": "dynasties.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 465.37,
+   "end": 468.81,
+   "text": "They resided in lavish palaces, leading lives of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 468.81,
+   "end": 470.03,
+   "text": "considerable luxury.",
+   "gap_after": 1.88
+  },
+  {
+   "start": 471.91,
+   "end": 474.95,
+   "text": "Southern Mesopotamian rulers did not only fight one",
+   "gap_after": 0.0
+  },
+  {
+   "start": 474.95,
+   "end": 479.27,
+   "text": "another, they also maintained diplomatic relations, and shared",
+   "gap_after": 0.0
+  },
+  {
+   "start": 479.27,
+   "end": 481.57,
+   "text": "a common cultural and religious framework.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 482.61,
+   "end": 485.33,
+   "text": "The patron deities of the various cities were",
+   "gap_after": 0.0
+  },
+  {
+   "start": 485.33,
+   "end": 489.27,
+   "text": "joined to create a common Mesopotamian pantheon, headed",
+   "gap_after": 0.0
+  },
+  {
+   "start": 489.27,
+   "end": 490.73,
+   "text": "by the god Enlil.",
+   "gap_after": 2.21
+  },
+  {
+   "start": 492.94,
+   "end": 496.36,
+   "text": "During this period, another wave of urbanization spread",
+   "gap_after": 0.0
+  },
+  {
+   "start": 496.36,
+   "end": 499.88,
+   "text": "out once more from southern Mesopotamia, this time",
+   "gap_after": 0.0
+  },
+  {
+   "start": 499.88,
+   "end": 503.06,
+   "text": "reaching farther and leaving a deeper impact on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 503.06,
+   "end": 504.16,
+   "text": "surrounding regions.",
+   "gap_after": 1.32
+  },
+  {
+   "start": 505.48,
+   "end": 508.16,
+   "text": "And yet, the true territorial power of the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 508.16,
+   "end": 510.0,
+   "text": "Near East was the Egypt.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 510.84,
+   "end": 514.96,
+   "text": "This was a centralized state, divided into administrative",
+   "gap_after": 0.0
+  },
+  {
+   "start": 514.96,
+   "end": 516.72,
+   "text": "districts run by officials.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 517.6,
+   "end": 520.1,
+   "text": "They all answered to the king, ruling from",
+   "gap_after": 0.0
+  },
+  {
+   "start": 520.1,
+   "end": 522.22,
+   "text": "his new seat at the city of Memphis,",
+   "gap_after": 0.579
+  },
+  {
+   "start": 522.799,
+   "end": 525.88,
+   "text": "strategically located at the juncture between Lower and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 525.88,
+   "end": 526.62,
+   "text": "Upper Egypt.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 527.58,
+   "end": 530.1,
+   "text": "The king was perceived as the unifier of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 530.1,
+   "end": 533.76,
+   "text": "Egypt, the one holding it all together, maintaining",
+   "gap_after": 0.0
+  },
+  {
+   "start": 533.76,
+   "end": 537.0,
+   "text": "order, and defending against external chaos.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 538.0,
+   "end": 540.58,
+   "text": "He was no mere man, but the embodiment",
+   "gap_after": 0.0
+  },
+  {
+   "start": 540.58,
+   "end": 543.7,
+   "text": "of the falcon god Horus, and child of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 543.7,
+   "end": 544.96,
+   "text": "the sun god Ra.",
+   "gap_after": 1.06
+  },
+  {
+   "start": 546.02,
+   "end": 549.26,
+   "text": "These gods and others, who originated in local",
+   "gap_after": 0.0
+  },
+  {
+   "start": 549.26,
+   "end": 553.76,
+   "text": "cults, were gathered into a unified Egyptian pantheon.",
+   "gap_after": 1.4
+  },
+  {
+   "start": 555.16,
+   "end": 560.04,
+   "text": "Between 26 and 2300 BCE, Egyptian kings demonstrated",
+   "gap_after": 0.0
+  },
+  {
+   "start": 560.04,
+   "end": 563.34,
+   "text": "their divine power by constructing the most impressive",
+   "gap_after": 0.0
+  },
+  {
+   "start": 563.34,
+   "end": 565.06,
+   "text": "burial monuments in the world.",
+   "gap_after": 0.26
+  },
+  {
+   "start": 565.32,
+   "end": 566.52,
+   "text": "The pyramids.",
+   "gap_after": 1.08
+  },
+  {
+   "start": 567.6,
+   "end": 570.78,
+   "text": "These immense structures were meant to ensure that",
+   "gap_after": 0.0
+  },
+  {
+   "start": 570.78,
+   "end": 573.28,
+   "text": "after death, the king would ascend to the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 573.28,
+   "end": 575.12,
+   "text": "heavens and join the sun.",
+   "gap_after": 2.62
+  },
+  {
+   "start": 577.74,
+   "end": 582.92,
+   "text": "Before 2300 BCE, Egypt stood united and Mesopotamia",
+   "gap_after": 0.0
+  },
+  {
+   "start": 582.92,
+   "end": 583.5,
+   "text": "divided.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 584.66,
+   "end": 588.26,
+   "text": "But a dramatic reversal would soon change everything.",
+   "gap_after": 6.55
+  },
+  {
+   "start": 594.81,
+   "end": 597.61,
+   "text": "In southern Mesopotamia, two languages were spoken.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 598.49,
+   "end": 600.07,
+   "text": "In the south, Sumerian.",
+   "gap_after": 0.56
+  },
+  {
+   "start": 600.63,
+   "end": 603.27,
+   "text": "In the north, a Semitic language we call",
+   "gap_after": 0.0
+  },
+  {
+   "start": 603.27,
+   "end": 604.01,
+   "text": "Akkadian.",
+   "gap_after": 1.48
+  },
+  {
+   "start": 605.49,
+   "end": 608.35,
+   "text": "In this Akkadian-speaking region, in the city",
+   "gap_after": 0.0
+  },
+  {
+   "start": 608.35,
+   "end": 611.37,
+   "text": "of Kish, a palace official seized power.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 612.25,
+   "end": 615.13,
+   "text": "He took the name Sargon, meaning the king",
+   "gap_after": 0.0
+  },
+  {
+   "start": 615.13,
+   "end": 618.17,
+   "text": "is legitimate, and moved his capital to the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 618.17,
+   "end": 619.55,
+   "text": "new city of Akkad.",
+   "gap_after": 1.06
+  },
+  {
+   "start": 620.61,
+   "end": 624.01,
+   "text": "The armies of Sargon and his successors subdued",
+   "gap_after": 0.0
+  },
+  {
+   "start": 624.01,
+   "end": 626.73,
+   "text": "the Sumerian cities of the south, then the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 626.73,
+   "end": 628.49,
+   "text": "kingdoms of northern Mesopotamia.",
+   "gap_after": 0.52
+  },
+  {
+   "start": 629.01,
+   "end": 632.15,
+   "text": "The first empire in history was forged.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 633.03,
+   "end": 635.55,
+   "text": "It reached its peak during the reign of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 635.55,
+   "end": 640.41,
+   "text": "Sargon's grandson Naramsin, a fearsome military leader who",
+   "gap_after": 0.0
+  },
+  {
+   "start": 640.41,
+   "end": 643.63,
+   "text": "presented himself not only as a king, but",
+   "gap_after": 0.0
+  },
+  {
+   "start": 643.63,
+   "end": 644.41,
+   "text": "as a god.",
+   "gap_after": 2.12
+  },
+  {
+   "start": 646.53,
+   "end": 649.89,
+   "text": "During its two centuries of existence, the Akkadian",
+   "gap_after": 0.0
+  },
+  {
+   "start": 649.89,
+   "end": 652.15,
+   "text": "empire left a profound legacy.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 653.13,
+   "end": 657.03,
+   "text": "Its language, Akkadian, later became an international language,",
+   "gap_after": 0.24
+  },
+  {
+   "start": 657.27,
+   "end": 659.91,
+   "text": "and the deeds of its great kings turned",
+   "gap_after": 0.0
+  },
+  {
+   "start": 659.91,
+   "end": 662.37,
+   "text": "into legends that echoed for millennia.",
+   "gap_after": 2.65
+  },
+  {
+   "start": 665.02,
+   "end": 667.56,
+   "text": "But an empire held together by sheer force",
+   "gap_after": 0.0
+  },
+  {
+   "start": 667.56,
+   "end": 668.64,
+   "text": "could not endure.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 669.58,
+   "end": 673.36,
+   "text": "A combination of internal rebellions and external invasions",
+   "gap_after": 0.0
+  },
+  {
+   "start": 673.36,
+   "end": 677.0,
+   "text": "by mountain tribes led to its rapid disintegration.",
+   "gap_after": 1.82
+  },
+  {
+   "start": 678.82,
+   "end": 682.06,
+   "text": "Shortly thereafter, a man named Ur-Namur and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 682.06,
+   "end": 685.02,
+   "text": "his son Shulgi, rulers of the Sumerian city",
+   "gap_after": 0.0
+  },
+  {
+   "start": 685.02,
+   "end": 688.82,
+   "text": "of Ur, succeeded in uniting vast territories once",
+   "gap_after": 0.0
+  },
+  {
+   "start": 688.82,
+   "end": 689.14,
+   "text": "again.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 689.94,
+   "end": 693.12,
+   "text": "While the Akkadian empire served as a model",
+   "gap_after": 0.0
+  },
+  {
+   "start": 693.12,
+   "end": 696.52,
+   "text": "of military might, the Sumerian kingdom of Ur",
+   "gap_after": 0.0
+  },
+  {
+   "start": 696.52,
+   "end": 700.28,
+   "text": "excelled in developing a highly efficient bureaucratic system.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 701.04,
+   "end": 703.84,
+   "text": "Its kings presented themselves as devoted to the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 703.84,
+   "end": 705.42,
+   "text": "gods and to justice.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 706.58,
+   "end": 708.68,
+   "text": "Their kingdom lasted a century.",
+   "gap_after": 2.64
+  },
+  {
+   "start": 711.32,
+   "end": 714.72,
+   "text": "In parallel to Mesopotamia's first experiments in empire",
+   "gap_after": 0.0
+  },
+  {
+   "start": 714.72,
+   "end": 717.78,
+   "text": "building, the Egyptian state began to crumble.",
+   "gap_after": 1.46
+  },
+  {
+   "start": 719.24,
+   "end": 722.92,
+   "text": "Around 2200 BCE, the glorious age of the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 722.92,
+   "end": 724.04,
+   "text": "pyramids was over.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 725.02,
+   "end": 727.9,
+   "text": "Local elites amassed wealth and power at the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 727.9,
+   "end": 730.36,
+   "text": "expense of the king until the fabric of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 730.36,
+   "end": 731.68,
+   "text": "the state tore apart.",
+   "gap_after": 1.2
+  },
+  {
+   "start": 732.88,
+   "end": 736.66,
+   "text": "For 200 years, competing dynasties scrambled for power",
+   "gap_after": 0.0
+  },
+  {
+   "start": 736.66,
+   "end": 737.62,
+   "text": "along the Nile.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 738.48,
+   "end": 741.4,
+   "text": "And so, as the year 2000 BCE was",
+   "gap_after": 0.0
+  },
+  {
+   "start": 741.4,
+   "end": 746.0,
+   "text": "approaching, Chaos ruled Egypt while Mesopotamia was partly",
+   "gap_after": 0.0
+  },
+  {
+   "start": 746.0,
+   "end": 746.52,
+   "text": "unified.",
+   "gap_after": 0.7
+  },
+  {
+   "start": 747.22,
+   "end": 749.66,
+   "text": "The Near East was ready for yet another",
+   "gap_after": 0.0
+  },
+  {
+   "start": 749.66,
+   "end": 751.36,
+   "text": "reversal of fortunes.",
+   "gap_after": 6.42
+  },
+  {
+   "start": 757.78,
+   "end": 761.12,
+   "text": "Around 2000 BCE, a new player entered the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 761.12,
+   "end": 762.96,
+   "text": "stage, the Amorites.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 763.9,
+   "end": 768.02,
+   "text": "Originally semi-nomadic pastoral tribes from Syria, they",
+   "gap_after": 0.0
+  },
+  {
+   "start": 768.02,
+   "end": 769.78,
+   "text": "now moved into Mesopotamia.",
+   "gap_after": 1.08
+  },
+  {
+   "start": 770.86,
+   "end": 774.08,
+   "text": "The kingdom of Ur collapsed, and across Syria",
+   "gap_after": 0.0
+  },
+  {
+   "start": 774.08,
+   "end": 779.12,
+   "text": "and Mesopotamia, Amorite settlers founded dynasties, ruling city",
+   "gap_after": 0.0
+  },
+  {
+   "start": 779.12,
+   "end": 780.38,
+   "text": "-states and kingdoms.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 781.42,
+   "end": 785.06,
+   "text": "They created a new interconnected world lasting for",
+   "gap_after": 0.0
+  },
+  {
+   "start": 785.06,
+   "end": 786.18,
+   "text": "400 years.",
+   "gap_after": 1.46
+  },
+  {
+   "start": 787.64,
+   "end": 791.88,
+   "text": "In this world, rulers were military men, constantly",
+   "gap_after": 0.0
+  },
+  {
+   "start": 791.88,
+   "end": 796.56,
+   "text": "fighting for power, making and breaking alliances, backstabbing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 796.56,
+   "end": 797.18,
+   "text": "allies.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 798.14,
+   "end": 801.2,
+   "text": "After 1800 BCE, a few of the most",
+   "gap_after": 0.0
+  },
+  {
+   "start": 801.2,
+   "end": 804.64,
+   "text": "ambitious and cunning leaders managed to carve out",
+   "gap_after": 0.0
+  },
+  {
+   "start": 804.64,
+   "end": 805.94,
+   "text": "extensive realms.",
+   "gap_after": 1.26
+  },
+  {
+   "start": 807.2,
+   "end": 810.48,
+   "text": "The first of these appeared in northern Mesopotamia.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 811.46,
+   "end": 815.24,
+   "text": "There, Amorite conqueror Shamshi-Adad took hold of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 815.24,
+   "end": 816.3,
+   "text": "vast territories.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 817.1,
+   "end": 820.5,
+   "text": "His kingdom incorporated the thriving city of Ashur",
+   "gap_after": 0.0
+  },
+  {
+   "start": 820.5,
+   "end": 822.8,
+   "text": "on the banks of the Tigris river.",
+   "gap_after": 1.18
+  },
+  {
+   "start": 823.98,
+   "end": 827.84,
+   "text": "Assyrian merchants have been venturing into Anatolia, establishing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 827.84,
+   "end": 829.28,
+   "text": "a network of colonies.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 830.3,
+   "end": 834.12,
+   "text": "This system persisted after Shamshi-Adad's death and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 834.12,
+   "end": 836.16,
+   "text": "the subsequent collapse of his kingdom.",
+   "gap_after": 2.28
+  },
+  {
+   "start": 838.44,
+   "end": 842.58,
+   "text": "Meanwhile, an Amorite called Hammurabi inherited the throne",
+   "gap_after": 0.0
+  },
+  {
+   "start": 842.58,
+   "end": 843.8,
+   "text": "of the city of Babylon.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 844.96,
+   "end": 846.88,
+   "text": "From this seat of power in the heart",
+   "gap_after": 0.0
+  },
+  {
+   "start": 846.88,
+   "end": 850.7,
+   "text": "of Mesopotamia, Hammurabi picked off his enemies one",
+   "gap_after": 0.0
+  },
+  {
+   "start": 850.7,
+   "end": 851.26,
+   "text": "by one.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 852.36,
+   "end": 855.72,
+   "text": "He established a great empire and proclaimed himself",
+   "gap_after": 0.0
+  },
+  {
+   "start": 855.72,
+   "end": 857.46,
+   "text": "king of all Amorites.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 858.48,
+   "end": 862.38,
+   "text": "Like his predecessors, Hammurabi portrayed himself as a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 862.38,
+   "end": 865.98,
+   "text": "shepherd tending his flock, an upholder of justice.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 866.72,
+   "end": 870.42,
+   "text": "This ideology materialized in his famous law code.",
+   "gap_after": 1.28
+  },
+  {
+   "start": 871.7,
+   "end": 875.6,
+   "text": "Babylon, the center of Hammurabi's empire, went on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 875.6,
+   "end": 878.64,
+   "text": "to become the cultural center of Mesopotamia for",
+   "gap_after": 0.0
+  },
+  {
+   "start": 878.64,
+   "end": 881.92,
+   "text": "over a millennium, and its patron god Marduk",
+   "gap_after": 0.0
+  },
+  {
+   "start": 881.92,
+   "end": 884.28,
+   "text": "rose to the head of the pantheon.",
+   "gap_after": 2.4
+  },
+  {
+   "start": 886.68,
+   "end": 890.08,
+   "text": "Meanwhile, important developments occurred in the land of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 890.08,
+   "end": 890.54,
+   "text": "the Nile.",
+   "gap_after": 1.78
+  },
+  {
+   "start": 892.32,
+   "end": 895.98,
+   "text": "Around 2000 BCE, like a thousand years earlier,",
+   "gap_after": 0.44
+  },
+  {
+   "start": 896.42,
+   "end": 898.76,
+   "text": "a powerful leader from the south conquered the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 898.76,
+   "end": 902.38,
+   "text": "north, creating a unified kingdom of Egypt that",
+   "gap_after": 0.0
+  },
+  {
+   "start": 902.38,
+   "end": 904.0,
+   "text": "would last 400 years.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 905.16,
+   "end": 907.94,
+   "text": "This was a transformative period of economic and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 907.94,
+   "end": 909.1,
+   "text": "cultural flowering.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 910.14,
+   "end": 913.94,
+   "text": "Egypt opened up extensive trade networks and penetrated",
+   "gap_after": 0.0
+  },
+  {
+   "start": 913.94,
+   "end": 916.46,
+   "text": "new lands beyond its traditional borders.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 917.42,
+   "end": 921.02,
+   "text": "In a surge of creativity, Egypt's greatest literary",
+   "gap_after": 0.0
+  },
+  {
+   "start": 921.02,
+   "end": 922.28,
+   "text": "classics were written.",
+   "gap_after": 2.83
+  },
+  {
+   "start": 925.11,
+   "end": 930.06,
+   "text": "Then, around 1600 BCE, regional turmoil cut short",
+   "gap_after": 0.0
+  },
+  {
+   "start": 930.06,
+   "end": 932.66,
+   "text": "the dominion of both Egypt and Babylon.",
+   "gap_after": 1.54
+  },
+  {
+   "start": 934.2,
+   "end": 937.26,
+   "text": "Mesopotamia was invaded by a new power rising",
+   "gap_after": 0.0
+  },
+  {
+   "start": 937.26,
+   "end": 941.1,
+   "text": "in Anatolia, the Hittites, bringing an end to",
+   "gap_after": 0.0
+  },
+  {
+   "start": 941.1,
+   "end": 942.06,
+   "text": "the Amorite era.",
+   "gap_after": 1.5
+  },
+  {
+   "start": 943.56,
+   "end": 946.78,
+   "text": "In Egypt, foreigners from the Levant, known as",
+   "gap_after": 0.0
+  },
+  {
+   "start": 946.78,
+   "end": 949.98,
+   "text": "the Hyksos, established a dynasty in the Nile",
+   "gap_after": 0.0
+  },
+  {
+   "start": 949.98,
+   "end": 952.92,
+   "text": "Delta and ruled a portion of the divided",
+   "gap_after": 0.0
+  },
+  {
+   "start": 952.92,
+   "end": 953.32,
+   "text": "realm.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 954.08,
+   "end": 957.7,
+   "text": "The entire Near East was fragmenting, but not",
+   "gap_after": 0.0
+  },
+  {
+   "start": 957.7,
+   "end": 958.38,
+   "text": "for long.",
+   "gap_after": 6.47
+  },
+  {
+   "start": 964.85,
+   "end": 967.59,
+   "text": "Out of the fractured world of 1600 BCE,",
+   "gap_after": 0.68
+  },
+  {
+   "start": 968.27,
+   "end": 969.87,
+   "text": "a new order emerged.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 970.51,
+   "end": 974.69,
+   "text": "Great powers, larger, stronger, and more cohesive than",
+   "gap_after": 0.0
+  },
+  {
+   "start": 974.69,
+   "end": 978.61,
+   "text": "ever before, bound together by networks of diplomacy",
+   "gap_after": 0.0
+  },
+  {
+   "start": 978.61,
+   "end": 979.55,
+   "text": "and trade.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 980.47,
+   "end": 984.77,
+   "text": "These were 400 years of unprecedented flourishing, an",
+   "gap_after": 0.0
+  },
+  {
+   "start": 984.77,
+   "end": 987.31,
+   "text": "era labeled the Late Bronze Age.",
+   "gap_after": 1.66
+  },
+  {
+   "start": 988.97,
+   "end": 992.43,
+   "text": "In southern Iran, the kingdom of Elam prospered.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 993.31,
+   "end": 996.67,
+   "text": "In southern Mesopotamia, Babylonia was ruled by the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 996.67,
+   "end": 999.99,
+   "text": "Kassite dynasty, originating from the Iranian plateau.",
+   "gap_after": 1.2
+  },
+  {
+   "start": 1001.19,
+   "end": 1004.45,
+   "text": "In northern Mesopotamia, the kingdom of Mitanni reigned",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1004.45,
+   "end": 1006.95,
+   "text": "supreme, and later Assyria.",
+   "gap_after": 0.3
+  },
+  {
+   "start": 1007.25,
+   "end": 1010.99,
+   "text": "Once a thriving trading city, Assur now excelled",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1010.99,
+   "end": 1012.17,
+   "text": "in military strength.",
+   "gap_after": 1.2
+  },
+  {
+   "start": 1013.37,
+   "end": 1016.71,
+   "text": "In Anatolia, the Hittite empire emerged around its",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1016.71,
+   "end": 1020.11,
+   "text": "capital, Hattusa, and expanded to immense proportions.",
+   "gap_after": 1.44
+  },
+  {
+   "start": 1021.55,
+   "end": 1024.97,
+   "text": "In Mycenaean Greece, an impressive network of palaces",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1024.97,
+   "end": 1025.51,
+   "text": "developed.",
+   "gap_after": 1.3
+  },
+  {
+   "start": 1026.81,
+   "end": 1029.81,
+   "text": "And finally, to the south, Egypt was reunited.",
+   "gap_after": 1.019
+  },
+  {
+   "start": 1030.829,
+   "end": 1032.93,
+   "text": "For the third time, a ruler from the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1032.93,
+   "end": 1034.81,
+   "text": "south took control of the north.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 1035.71,
+   "end": 1039.21,
+   "text": "This time, Egyptian kings conquered Nubia and Canaan,",
+   "gap_after": 0.54
+  },
+  {
+   "start": 1039.75,
+   "end": 1040.849,
+   "text": "forming an empire.",
+   "gap_after": 1.321
+  },
+  {
+   "start": 1042.17,
+   "end": 1045.089,
+   "text": "This was Egypt's Golden Age, known for its",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1045.089,
+   "end": 1048.15,
+   "text": "great kings and their ambitious building projects.",
+   "gap_after": 0.54
+  },
+  {
+   "start": 1048.69,
+   "end": 1051.25,
+   "text": "Among them, the enormous temple to the central",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1051.25,
+   "end": 1052.51,
+   "text": "god, Amun-Ra.",
+   "gap_after": 2.12
+  },
+  {
+   "start": 1054.63,
+   "end": 1057.45,
+   "text": "But the king of Egypt stood among peers.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 1058.21,
+   "end": 1060.69,
+   "text": "The five great powers of the Near East",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1060.69,
+   "end": 1062.79,
+   "text": "were headed by five great kings.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 1063.55,
+   "end": 1067.09,
+   "text": "They formed an exclusive club, referring to each",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1067.09,
+   "end": 1071.09,
+   "text": "other as my brother, and constantly exchanging envoys,",
+   "gap_after": 0.3
+  },
+  {
+   "start": 1071.39,
+   "end": 1073.21,
+   "text": "letters, and luxurious gifts.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 1074.25,
+   "end": 1077.77,
+   "text": "This was made possible by complex bureaucracies run",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1077.77,
+   "end": 1081.01,
+   "text": "by scribes who read and wrote Akkadian, a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1081.01,
+   "end": 1082.65,
+   "text": "shared diplomatic language.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1083.65,
+   "end": 1086.97,
+   "text": "This was the first true international system in",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1086.97,
+   "end": 1087.43,
+   "text": "history.",
+   "gap_after": 2.2
+  },
+  {
+   "start": 1089.63,
+   "end": 1092.39,
+   "text": "Exchanges among rulers were only the tip of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1092.39,
+   "end": 1092.87,
+   "text": "the iceberg.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 1093.71,
+   "end": 1096.95,
+   "text": "A vast trade network linked the entire known",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1096.95,
+   "end": 1097.33,
+   "text": "world.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 1098.11,
+   "end": 1101.43,
+   "text": "In the eastern Mediterranean, ships sailed with rich",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1101.43,
+   "end": 1103.37,
+   "text": "cargos from far and wide.",
+   "gap_after": 1.58
+  },
+  {
+   "start": 1104.95,
+   "end": 1109.71,
+   "text": "International interdependence helped maintain relative stability and peace.",
+   "gap_after": 0.6
+  },
+  {
+   "start": 1110.31,
+   "end": 1113.11,
+   "text": "But this balance rested also on the military",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1113.11,
+   "end": 1114.65,
+   "text": "power of the great kings.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 1115.75,
+   "end": 1118.95,
+   "text": "In this era, a new military technology spread",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1118.95,
+   "end": 1122.11,
+   "text": "across the region, the horse-drawn chariot.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 1123.21,
+   "end": 1126.19,
+   "text": "This vehicle soon became the backbone of Near",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1126.19,
+   "end": 1127.27,
+   "text": "Eastern armies.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 1128.29,
+   "end": 1131.67,
+   "text": "With it emerged a new warrior elite, and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1131.67,
+   "end": 1134.57,
+   "text": "kings took care to portray themselves as skilled",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1134.57,
+   "end": 1135.89,
+   "text": "fighters on the battlefield.",
+   "gap_after": 1.6
+  },
+  {
+   "start": 1137.49,
+   "end": 1141.11,
+   "text": "Sometimes power was not only displayed, but also",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1141.11,
+   "end": 1142.17,
+   "text": "put to use.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 1143.19,
+   "end": 1145.91,
+   "text": "Famously, the struggle between the Egyptians and the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1145.91,
+   "end": 1149.05,
+   "text": "Hittites over the Levant resulted in the Battle",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1149.05,
+   "end": 1149.83,
+   "text": "of Kadesh.",
+   "gap_after": 0.69
+  },
+  {
+   "start": 1150.52,
+   "end": 1153.67,
+   "text": "Several years later, these powers signed a peace",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1153.67,
+   "end": 1155.71,
+   "text": "treaty, restoring stability.",
+   "gap_after": 2.09
+  },
+  {
+   "start": 1157.8,
+   "end": 1160.54,
+   "text": "The international system of the Late Bronze Age",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1160.54,
+   "end": 1163.46,
+   "text": "was the culmination of 2,000 years of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1163.46,
+   "end": 1164.86,
+   "text": "civilizational development.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 1165.76,
+   "end": 1167.92,
+   "text": "But at the very moment it reached its",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1167.92,
+   "end": 1170.22,
+   "text": "zenith, it collapsed completely.",
+   "gap_after": 4.7
+  },
+  {
+   "start": 1174.92,
+   "end": 1179.1,
+   "text": "Between 1200 and 1100 BCE, the Late Bronze",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1179.1,
+   "end": 1182.12,
+   "text": "Age system fell apart in what we now",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1182.12,
+   "end": 1184.68,
+   "text": "refer to as the Bronze Age Collapse.",
+   "gap_after": 0.52
+  },
+  {
+   "start": 1185.2,
+   "end": 1188.56,
+   "text": "A chain of crises swept across the Eastern",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1188.56,
+   "end": 1192.5,
+   "text": "Mediterranean, unfolding in a massive domino effect.",
+   "gap_after": 1.46
+  },
+  {
+   "start": 1193.96,
+   "end": 1197.28,
+   "text": "Severe drought led to crop failure and widespread",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1197.28,
+   "end": 1197.86,
+   "text": "famine.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 1198.72,
+   "end": 1201.8,
+   "text": "In some regions, groups began to rebel against",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1201.8,
+   "end": 1205.46,
+   "text": "the ruling elites, while others migrated southward in",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1205.46,
+   "end": 1206.4,
+   "text": "search of food.",
+   "gap_after": 0.36
+  },
+  {
+   "start": 1206.76,
+   "end": 1209.56,
+   "text": "The result was chaos and destruction.",
+   "gap_after": 2.63
+  },
+  {
+   "start": 1212.19,
+   "end": 1214.95,
+   "text": "In Greece, Mycenaean society collapsed.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 1215.91,
+   "end": 1219.09,
+   "text": "In Anatolia, the Hittite royal family abandoned the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1219.09,
+   "end": 1221.57,
+   "text": "capital, and the empire disintegrated.",
+   "gap_after": 1.4
+  },
+  {
+   "start": 1222.97,
+   "end": 1226.61,
+   "text": "Soon thereafter, its dependent cities in Syria fell.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1227.61,
+   "end": 1231.53,
+   "text": "As the Mediterranean trade network came undone, merchants",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1231.53,
+   "end": 1233.63,
+   "text": "became pirates and raiders.",
+   "gap_after": 1.14
+  },
+  {
+   "start": 1234.77,
+   "end": 1237.25,
+   "text": "Desperate pleas for help were sent to Egypt.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 1237.97,
+   "end": 1238.93,
+   "text": "But it was too late.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1239.93,
+   "end": 1241.99,
+   "text": "The king of Egypt fought on land and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1241.99,
+   "end": 1244.75,
+   "text": "sea against groups of invaders from the Aegean,",
+   "gap_after": 0.48
+  },
+  {
+   "start": 1245.23,
+   "end": 1246.69,
+   "text": "the so-called Sea Peoples.",
+   "gap_after": 1.48
+  },
+  {
+   "start": 1248.17,
+   "end": 1251.71,
+   "text": "Ultimately, Egypt's power was broken, and it withdrew",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1251.71,
+   "end": 1252.57,
+   "text": "from the Levant.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1253.57,
+   "end": 1256.67,
+   "text": "There, the Canaanite city-states collapsed one by",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1256.67,
+   "end": 1256.95,
+   "text": "one.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 1257.79,
+   "end": 1260.27,
+   "text": "The crisis then pushed deeper inland.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 1261.17,
+   "end": 1264.07,
+   "text": "Assyria contracted back to its geographic core.",
+   "gap_after": 0.56
+  },
+  {
+   "start": 1264.63,
+   "end": 1268.39,
+   "text": "In Babylonia, the ruling dynasty fell, and Elam",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1268.39,
+   "end": 1271.87,
+   "text": "entered a long period of fragmentation and decline.",
+   "gap_after": 3.02
+  },
+  {
+   "start": 1274.89,
+   "end": 1277.53,
+   "text": "The upheaval threw the region into a brief",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1277.53,
+   "end": 1281.17,
+   "text": "dark age, later filled with myths and legends,",
+   "gap_after": 0.58
+  },
+  {
+   "start": 1281.75,
+   "end": 1284.55,
+   "text": "such as the Trojan War and the Israelite",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1284.55,
+   "end": 1285.97,
+   "text": "conquest of Canaan.",
+   "gap_after": 2.84
+  },
+  {
+   "start": 1288.81,
+   "end": 1291.43,
+   "text": "The two-millennium journey of the Bronze Age",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1291.43,
+   "end": 1294.85,
+   "text": "had reached its end, but its achievements endured.",
+   "gap_after": 0.54
+  },
+  {
+   "start": 1295.39,
+   "end": 1298.29,
+   "text": "This era established a world of farmers and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1298.29,
+   "end": 1302.17,
+   "text": "artisans, scribes and merchants, priests and kings.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 1302.95,
+   "end": 1305.97,
+   "text": "Together, they forged the foundations on which future",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1305.97,
+   "end": 1307.63,
+   "text": "civilizations would stand.",
+   "gap_after": 2.1
+  },
+  {
+   "start": 1309.73,
+   "end": 1312.15,
+   "text": "In the next video, we will venture into",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1312.15,
+   "end": 1315.55,
+   "text": "the Iron Age, where civilization will rise from",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1315.55,
+   "end": 1318.87,
+   "text": "the ashes higher than ever before, and great",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1318.87,
+   "end": 1322.33,
+   "text": "powers will achieve the ultimate dream of universal",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1322.33,
+   "end": 1323.09,
+   "text": "dominion.",
+   "gap_after": null
+  }
+ ]
+}

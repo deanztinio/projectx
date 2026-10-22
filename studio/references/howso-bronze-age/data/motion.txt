@@ -1,0 +1,8 @@
+# Camera motion (motion.py at 4 fps, ORB + RANSAC, 1920-wide units)
+valid samples 5022/5322
+zoom %/s: median |z| 0.89, p75 4.09, p95 18.13; push-in share 42%, pull-out share 33%
+pan px/s (1920 frame): median 19.5, p75 81.7, p95 274.9
+camera moving (|zoom|>0.15%/s or pan>4px/s): 79% of valid time
+total truly-still time 51.0 s (3.8%)
+longest still stretches (s, start): [(4.75, '22:02.5'), (3.5, '14:42.2'), (3.5, '9:06.5'), (3.0, '5:51.2'), (2.75, '14:16.0'), (2.5, '6:54.5'), (2.25, '9:12.5'), (2.0, '8:10.5')]
+mean frame diff per minute: [14.72, 11.41, 8.15, 13.12, 10.88, 8.54, 5.54, 11.95, 6.01, 9.08, 10.92, 9.74, 6.99, 8.11, 7.38, 14.7, 13.24, 10.0, 10.05, 10.27, 12.62, 8.76, 0.93]

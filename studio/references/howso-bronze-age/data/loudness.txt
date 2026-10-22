@@ -1,0 +1,25 @@
+# Loudness (ffmpeg ebur128 on the full mix)
+[Parsed_ebur128_0 @ 0x555bd6263140] Summary:
+  Integrated loudness:
+    I:         -22.3 LUFS
+    Threshold: -33.0 LUFS
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -43.0 LUFS
+    LRA low:   -25.1 LUFS
+    LRA high:  -21.4 LUFS
+  True peak:
+    Peak:       -7.7 dBFS
+
+## Voice vs gaps, and every pause of 3 s or more
+momentary loudness while talking: median -22.2 LUFS
+momentary loudness in gaps (no talking): median -34.3 LUFS
+long pauses (>=3 s): pause start, length, M during pause (median / max), M in 3 s of speech before
+  0:43.96   5.1s  pause M  -31.6 /  -27.6   speech-before M  -22.2   'This is the Bronze Age Near East.'
+  2:35.19   6.1s  pause M  -34.0 /  -31.2   speech-before M  -24.0   'red in a new era that we call the Bronze Age.'
+  6:50.26   6.6s  pause M  -42.0 /  -33.8   speech-before M  -21.9   'nal threshold between prehistory and history.'
+  9:48.26   6.5s  pause M  -37.5 /  -29.3   speech-before M  -21.1   'amatic reversal would soon change everything.'
+  12:31.36   6.4s  pause M  -37.1 /  -29.1   speech-before M  -21.4   's ready for yet another reversal of fortunes.'
+  15:58.38   6.5s  pause M  -49.2 /  -39.3   speech-before M  -23.4   ' Near East was fragmenting, but not for long.'
+  19:30.22   4.7s  pause M  -32.7 /  -23.5   speech-before M  -23.8   ' reached its zenith, it collapsed completely.'
+  21:11.87   3.0s  pause M  -32.1 /  -30.1   speech-before M  -20.9   'd a long period of fragmentation and decline.'

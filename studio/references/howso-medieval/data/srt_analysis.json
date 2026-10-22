@@ -1,0 +1,4198 @@
+{
+ "summary": {
+  "segments": 407,
+  "words": 2645,
+  "first_word": 0.37,
+  "last_word": 1327.66,
+  "speech_span_s": 1327.3,
+  "wpm_over_span": 119.6,
+  "wpm_while_talking": 150.1,
+  "sentences": 192,
+  "sentence_words_mean": 13.8,
+  "sentence_words_median": 13.0,
+  "sentence_words_p10_p90": [
+   7,
+   22
+  ],
+  "sentence_words_max": 30,
+  "pause_after_sentence_mean": 1.33,
+  "pause_after_sentence_median": 0.92,
+  "pauses_over_1s": 80,
+  "pauses_over_2s": 19,
+  "gap_between_segments_median": 0.31
+ },
+ "sentences": [
+  {
+   "start": 0.37,
+   "end": 4.81,
+   "text": "In the Middle Ages, a new civilization was forged on the European continent.",
+   "words": 13,
+   "dur": 4.44,
+   "wpm": 176,
+   "pause_after": 0.8
+  },
+  {
+   "start": 5.61,
+   "end": 13.51,
+   "text": "Nobles and kings, faith and warfare, culture and learning, trade and innovation, these set the foundations of the modern era.",
+   "words": 20,
+   "dur": 7.9,
+   "wpm": 152,
+   "pause_after": 0.86
+  },
+  {
+   "start": 14.37,
+   "end": 17.25,
+   "text": "This is the story of how Europe was born.",
+   "words": 9,
+   "dur": 2.88,
+   "wpm": 188,
+   "pause_after": 1.68
+  },
+  {
+   "start": 18.93,
+   "end": 24.87,
+   "text": "In the first two centuries CE, the vast Roman Empire engulfed the Mediterranean Sea.",
+   "words": 14,
+   "dur": 5.94,
+   "wpm": 141,
+   "pause_after": 0.0
+  },
+  {
+   "start": 24.87,
+   "end": 30.03,
+   "text": "It was a time of stability, prosperity and peace, the Pax Romana.",
+   "words": 12,
+   "dur": 5.16,
+   "wpm": 140,
+   "pause_after": 1.14
+  },
+  {
+   "start": 31.17,
+   "end": 36.19,
+   "text": "Citizens enjoyed its flourishing culture, fair quality of life and relative security.",
+   "words": 12,
+   "dur": 5.02,
+   "wpm": 143,
+   "pause_after": 0.86
+  },
+  {
+   "start": 37.05,
+   "end": 41.39,
+   "text": "This was achieved through Rome's centralized government and advanced infrastructure.",
+   "words": 10,
+   "dur": 4.34,
+   "wpm": 138,
+   "pause_after": 1.98
+  },
+  {
+   "start": 43.37,
+   "end": 49.13,
+   "text": "In the remote eastern margins of the empire, a new religion was born, Christianity.",
+   "words": 14,
+   "dur": 5.76,
+   "wpm": 146,
+   "pause_after": 0.0
+  },
+  {
+   "start": 49.13,
+   "end": 55.27,
+   "text": "Beginning as a small Jewish sect, it slowly spread throughout the pagan Roman world.",
+   "words": 14,
+   "dur": 6.14,
+   "wpm": 137,
+   "pause_after": 0.84
+  },
+  {
+   "start": 56.11,
+   "end": 60.85,
+   "text": "In the fourth century, it was embraced by the emperors, becoming the official state religion.",
+   "words": 15,
+   "dur": 4.74,
+   "wpm": 190,
+   "pause_after": 1.36
+  },
+  {
+   "start": 62.21,
+   "end": 64.67,
+   "text": "But by then, Rome's glory days were over.",
+   "words": 8,
+   "dur": 2.46,
+   "wpm": 195,
+   "pause_after": 0.8
+  },
+  {
+   "start": 65.47,
+   "end": 69.93,
+   "text": "The empire was suffering from inflation, plagues, famine and invasions.",
+   "words": 10,
+   "dur": 4.46,
+   "wpm": 135,
+   "pause_after": 0.66
+  },
+  {
+   "start": 70.59,
+   "end": 73.33,
+   "text": "Managing it from a single center was becoming impossible.",
+   "words": 9,
+   "dur": 2.74,
+   "wpm": 197,
+   "pause_after": 0.72
+  },
+  {
+   "start": 74.05,
+   "end": 77.83,
+   "text": "In 395 CE, the empire was divided in two.",
+   "words": 9,
+   "dur": 3.78,
+   "wpm": 143,
+   "pause_after": 0.6
+  },
+  {
+   "start": 78.43,
+   "end": 86.63,
+   "text": "A western empire with Rome as its capital, and an eastern one ruled from Constantinople, also known as the Byzantine Empire.",
+   "words": 21,
+   "dur": 8.2,
+   "wpm": 154,
+   "pause_after": 0.82
+  },
+  {
+   "start": 87.45,
+   "end": 92.89,
+   "text": "While the east was urban, rich and prosperous, the west was rural, poor and weak.",
+   "words": 15,
+   "dur": 5.44,
+   "wpm": 165,
+   "pause_after": 0.72
+  },
+  {
+   "start": 93.61,
+   "end": 94.89,
+   "text": "It didn't last long.",
+   "words": 4,
+   "dur": 1.28,
+   "wpm": 188,
+   "pause_after": 0.74
+  },
+  {
+   "start": 95.63,
+   "end": 100.59,
+   "text": "In the deep forests beyond the empire's borders, barbarian peoples were on the move.",
+   "words": 14,
+   "dur": 4.96,
+   "wpm": 169,
+   "pause_after": 0.0
+  },
+  {
+   "start": 100.59,
+   "end": 105.97,
+   "text": "These were mostly Germanic tribes led by warlords and their loyal bands of warriors.",
+   "words": 14,
+   "dur": 5.38,
+   "wpm": 156,
+   "pause_after": 0.86
+  },
+  {
+   "start": 106.83,
+   "end": 110.53,
+   "text": "These groups were pressing harder and harder on the Rhine and Danube rivers.",
+   "words": 13,
+   "dur": 3.7,
+   "wpm": 211,
+   "pause_after": 0.94
+  },
+  {
+   "start": 111.47,
+   "end": 115.01,
+   "text": "Without much choice, the western empire began allowing them entry.",
+   "words": 10,
+   "dur": 3.54,
+   "wpm": 169,
+   "pause_after": 1.3
+  },
+  {
+   "start": 116.31,
+   "end": 122.67,
+   "text": "Eventually, the frontiers were breached, enabling various peoples to migrate and settle within the borders of the empire.",
+   "words": 18,
+   "dur": 6.36,
+   "wpm": 170,
+   "pause_after": 1.0
+  },
+  {
+   "start": 123.67,
+   "end": 130.63,
+   "text": "Whether guests or invaders, these peoples carved up Roman territory while imperial authority was crumbling.",
+   "words": 15,
+   "dur": 6.96,
+   "wpm": 129,
+   "pause_after": 0.94
+  },
+  {
+   "start": 131.57,
+   "end": 139.75,
+   "text": "In 476, the barbarian leader Odoacer deposed the last emperor of the western Roman empire, Romulus Augustulus.",
+   "words": 17,
+   "dur": 8.18,
+   "wpm": 125,
+   "pause_after": 0.7
+  },
+  {
+   "start": 140.45,
+   "end": 145.39,
+   "text": "This child emperor had no real power, but his removal stands as a milestone.",
+   "words": 14,
+   "dur": 4.94,
+   "wpm": 170,
+   "pause_after": 0.78
+  },
+  {
+   "start": 146.17,
+   "end": 148.39,
+   "text": "The western Roman empire was no more.",
+   "words": 7,
+   "dur": 2.22,
+   "wpm": 189,
+   "pause_after": 0.84
+  },
+  {
+   "start": 149.23,
+   "end": 151.45,
+   "text": "The so-called Dark Ages had begun.",
+   "words": 6,
+   "dur": 2.22,
+   "wpm": 162,
+   "pause_after": 1.02
+  },
+  {
+   "start": 152.47,
+   "end": 154.91,
+   "text": "Romans, Christians, barbarians.",
+   "words": 3,
+   "dur": 2.44,
+   "wpm": 74,
+   "pause_after": 0.46
+  },
+  {
+   "start": 155.37,
+   "end": 159.63,
+   "text": "These were the three main ingredients that combined to create medieval Europe.",
+   "words": 12,
+   "dur": 4.26,
+   "wpm": 169,
+   "pause_after": 8.74
+  },
+  {
+   "start": 168.37,
+   "end": 175.37,
+   "text": "Around 500 CE, Europe was covered by newly established kingdoms ruled by barbarian kings.",
+   "words": 14,
+   "dur": 7.0,
+   "wpm": 120,
+   "pause_after": 0.64
+  },
+  {
+   "start": 176.01,
+   "end": 181.53,
+   "text": "Their elites, a merge between Romans and barbarians, had gradually converted to Christianity.",
+   "words": 13,
+   "dur": 5.52,
+   "wpm": 141,
+   "pause_after": 1.4
+  },
+  {
+   "start": 182.93,
+   "end": 190.85,
+   "text": "The most prominent kingdoms were those of the Ostrogoths in Italy, the Visigoths in Spain, and the Franks in Gaul.",
+   "words": 20,
+   "dur": 7.92,
+   "wpm": 152,
+   "pause_after": 0.64
+  },
+  {
+   "start": 191.49,
+   "end": 196.27,
+   "text": "But these kingdoms were lacking key elements necessary to manage successful states.",
+   "words": 12,
+   "dur": 4.78,
+   "wpm": 151,
+   "pause_after": 0.84
+  },
+  {
+   "start": 197.11,
+   "end": 201.13,
+   "text": "The great cities of antiquity were depopulated, some left in ruins.",
+   "words": 11,
+   "dur": 4.02,
+   "wpm": 164,
+   "pause_after": 0.84
+  },
+  {
+   "start": 201.97,
+   "end": 206.97,
+   "text": "The Roman transportation system decayed, eroding communication and long-distance trade.",
+   "words": 10,
+   "dur": 5.0,
+   "wpm": 120,
+   "pause_after": 0.0
+  },
+  {
+   "start": 206.97,
+   "end": 211.81,
+   "text": "Coins vanished, leaving no economic system to support professional armies.",
+   "words": 10,
+   "dur": 4.84,
+   "wpm": 124,
+   "pause_after": 0.78
+  },
+  {
+   "start": 212.59,
+   "end": 215.65,
+   "text": "Literacy plummeted, crippling administrative systems.",
+   "words": 5,
+   "dur": 3.06,
+   "wpm": 98,
+   "pause_after": 0.66
+  },
+  {
+   "start": 216.31,
+   "end": 219.17,
+   "text": "And most notably, peace and security were gone.",
+   "words": 8,
+   "dur": 2.86,
+   "wpm": 168,
+   "pause_after": 0.68
+  },
+  {
+   "start": 219.85,
+   "end": 226.55,
+   "text": "This impoverished rural west was becoming more and more localized, fragmenting politically and linguistically.",
+   "words": 14,
+   "dur": 6.7,
+   "wpm": 125,
+   "pause_after": 0.74
+  },
+  {
+   "start": 227.29,
+   "end": 232.11,
+   "text": "In the first centuries of the Middle Ages, it paled in comparison to its stronger neighbors.",
+   "words": 16,
+   "dur": 4.82,
+   "wpm": 199,
+   "pause_after": 1.6
+  },
+  {
+   "start": 233.71,
+   "end": 247.09,
+   "text": "In the 6th century, Byzantine Emperor Justinian I strove to reconquer the west and restore the Roman Empire to its past grandeur.",
+   "words": 22,
+   "dur": 13.38,
+   "wpm": 99,
+   "pause_after": 0.78
+  },
+  {
+   "start": 247.87,
+   "end": 255.07,
+   "text": "But after conquering Italy from the Romanized Ostrogoths, the peninsula fell prey to new invaders, the Lombards.",
+   "words": 17,
+   "dur": 7.2,
+   "wpm": 142,
+   "pause_after": 0.92
+  },
+  {
+   "start": 255.99,
+   "end": 260.71,
+   "text": "The Byzantines had to accept that the division between east and west was final.",
+   "words": 14,
+   "dur": 4.72,
+   "wpm": 178,
+   "pause_after": 0.8
+  },
+  {
+   "start": 261.51,
+   "end": 266.79,
+   "text": "But soon they had to acknowledge yet another division, this time between north and south.",
+   "words": 15,
+   "dur": 5.28,
+   "wpm": 170,
+   "pause_after": 0.9
+  },
+  {
+   "start": 267.69,
+   "end": 276.29,
+   "text": "In the 7th century, Arab armies swept through the Middle East and North Africa with astonishing speed, creating an immense Islamic caliphate.",
+   "words": 22,
+   "dur": 8.6,
+   "wpm": 153,
+   "pause_after": 0.82
+  },
+  {
+   "start": 277.11,
+   "end": 283.57,
+   "text": "Where one civilization once thrived, now there were three, Islamic, Byzantine, and medieval.",
+   "words": 13,
+   "dur": 6.46,
+   "wpm": 121,
+   "pause_after": 0.64
+  },
+  {
+   "start": 284.21,
+   "end": 291.05,
+   "text": "For a brief moment in the 8th century, it seemed as if the fragile and weak west might be overwhelmed by the caliphate.",
+   "words": 23,
+   "dur": 6.84,
+   "wpm": 202,
+   "pause_after": 0.9
+  },
+  {
+   "start": 291.95,
+   "end": 297.21,
+   "text": "Muslim armies crushed the Visigothic kingdom in Spain, then went on to raid Francia.",
+   "words": 14,
+   "dur": 5.26,
+   "wpm": 160,
+   "pause_after": 0.74
+  },
+  {
+   "start": 297.95,
+   "end": 304.41,
+   "text": "But in 732, in the Battle of Tours, they were defeated by the Franks under the leadership of Charles Martel.",
+   "words": 20,
+   "dur": 6.46,
+   "wpm": 186,
+   "pause_after": 0.92
+  },
+  {
+   "start": 305.33,
+   "end": 315.29,
+   "text": "Islamic expansion in the west was halted, and the victorious Charles gave his name to a dynasty that was to change European history forever, the Carolingians.",
+   "words": 26,
+   "dur": 9.96,
+   "wpm": 157,
+   "pause_after": 5.77
+  },
+  {
+   "start": 321.06,
+   "end": 326.68,
+   "text": "Charles Martel's son, Pepin the Short, seized the Frankish throne in a coup.",
+   "words": 13,
+   "dur": 5.62,
+   "wpm": 139,
+   "pause_after": 0.82
+  },
+  {
+   "start": 327.5,
+   "end": 332.82,
+   "text": "He fought the Lombards in Italy, granting the Pope his own most desired autonomous state.",
+   "words": 15,
+   "dur": 5.32,
+   "wpm": 169,
+   "pause_after": 1.46
+  },
+  {
+   "start": 334.28,
+   "end": 336.68,
+   "text": "Pepin's son was the famous Charlemagne.",
+   "words": 6,
+   "dur": 2.4,
+   "wpm": 150,
+   "pause_after": 0.82
+  },
+  {
+   "start": 337.5,
+   "end": 343.64,
+   "text": "After ascending the Frankish throne in 768, he spent decades fighting and expanding his kingdom.",
+   "words": 15,
+   "dur": 6.14,
+   "wpm": 147,
+   "pause_after": 0.96
+  },
+  {
+   "start": 344.6,
+   "end": 347.8,
+   "text": "Ultimately, he held sway over most of western Christendom.",
+   "words": 9,
+   "dur": 3.2,
+   "wpm": 169,
+   "pause_after": 1.4
+  },
+  {
+   "start": 349.2,
+   "end": 354.3,
+   "text": "In 800 CE, Pope Leo III anointed Charlemagne Emperor of the Romans.",
+   "words": 12,
+   "dur": 5.1,
+   "wpm": 141,
+   "pause_after": 0.7
+  },
+  {
+   "start": 355.0,
+   "end": 359.8,
+   "text": "More than 300 years after the fall of Rome, the west had an emperor once again.",
+   "words": 16,
+   "dur": 4.8,
+   "wpm": 200,
+   "pause_after": 1.16
+  },
+  {
+   "start": 360.96,
+   "end": 367.66,
+   "text": "The Carolingian Empire was the first great power of the medieval west, leaving an enduring legacy.",
+   "words": 16,
+   "dur": 6.7,
+   "wpm": 143,
+   "pause_after": 1.14
+  },
+  {
+   "start": 368.8,
+   "end": 378.54,
+   "text": "Charlemagne backed an intellectual and cultural flowering, the first of several medieval renaissances, intending to revive the lost knowledge and culture of antiquity.",
+   "words": 23,
+   "dur": 9.74,
+   "wpm": 142,
+   "pause_after": 1.16
+  },
+  {
+   "start": 379.7,
+   "end": 387.5,
+   "text": "The empire disseminated throughout the west various political structures, institutions, titles, ranks, ideas, and dreams.",
+   "words": 15,
+   "dur": 7.8,
+   "wpm": 115,
+   "pause_after": 0.0
+  },
+  {
+   "start": 387.5,
+   "end": 391.7,
+   "text": "Most importantly, an ideal of a unified Christian west.",
+   "words": 9,
+   "dur": 4.2,
+   "wpm": 129,
+   "pause_after": 1.56
+  },
+  {
+   "start": 393.26,
+   "end": 395.72,
+   "text": "These formed the bedrock of medieval civilization.",
+   "words": 7,
+   "dur": 2.46,
+   "wpm": 171,
+   "pause_after": 5.76
+  },
+  {
+   "start": 401.48,
+   "end": 404.62,
+   "text": "The Carolingian Empire was short-lived.",
+   "words": 5,
+   "dur": 3.14,
+   "wpm": 96,
+   "pause_after": 0.8
+  },
+  {
+   "start": 405.42,
+   "end": 415.46,
+   "text": "The attempt to create centralized rule in the west suffered from insufficient infrastructure, small cities, weak economy, limited bureaucracy, and poor communications.",
+   "words": 22,
+   "dur": 10.04,
+   "wpm": 131,
+   "pause_after": 1.44
+  },
+  {
+   "start": 416.9,
+   "end": 427.24,
+   "text": "After Charlemagne's death, his three grandsons fought one another, and in 843, in the Treaty of Verdun, divided the Frankish Empire among themselves.",
+   "words": 23,
+   "dur": 10.34,
+   "wpm": 133,
+   "pause_after": 1.14
+  },
+  {
+   "start": 428.38,
+   "end": 437.24,
+   "text": "The Middle Kingdom quickly diminished, leaving only West Francia, which would eventually become France, and East Francia, which will one day become Germany.",
+   "words": 23,
+   "dur": 8.86,
+   "wpm": 156,
+   "pause_after": 0.9
+  },
+  {
+   "start": 438.14,
+   "end": 443.98,
+   "text": "These kingdoms continued to splinter and fragment, a process accelerated by external pressure.",
+   "words": 13,
+   "dur": 5.84,
+   "wpm": 134,
+   "pause_after": 0.78
+  },
+  {
+   "start": 444.76,
+   "end": 452.04,
+   "text": "In the 9th and 10th centuries, a new wave of invaders attacked the crumbling Carolingian world from every direction.",
+   "words": 19,
+   "dur": 7.28,
+   "wpm": 157,
+   "pause_after": 2.04
+  },
+  {
+   "start": 454.08,
+   "end": 460.44,
+   "text": "The Vikings came from the north, roaming the coasts and rivers of Europe, raiding and terrorizing the population.",
+   "words": 18,
+   "dur": 6.36,
+   "wpm": 170,
+   "pause_after": 1.92
+  },
+  {
+   "start": 462.36,
+   "end": 468.38,
+   "text": "The Magyars, better known as Hungarians, rode in from the east, plundering defenseless settlements.",
+   "words": 14,
+   "dur": 6.02,
+   "wpm": 140,
+   "pause_after": 0.0
+  },
+  {
+   "start": 468.38,
+   "end": 474.7,
+   "text": "And finally, Muslim pirates and raiders landed on Europe's southern shores.",
+   "words": 11,
+   "dur": 6.32,
+   "wpm": 104,
+   "pause_after": 1.96
+  },
+  {
+   "start": 476.66,
+   "end": 478.1,
+   "text": "Europe was under siege.",
+   "words": 4,
+   "dur": 1.44,
+   "wpm": 167,
+   "pause_after": 5.56
+  },
+  {
+   "start": 483.66,
+   "end": 490.96,
+   "text": "As the west was crumbling under repeated attacks, kings lost their power, while local elites grew stronger.",
+   "words": 17,
+   "dur": 7.3,
+   "wpm": 140,
+   "pause_after": 1.16
+  },
+  {
+   "start": 492.12,
+   "end": 499.22,
+   "text": "Europe was getting covered with a dense network of wooden castles, serving as fortified residences of local noble families.",
+   "words": 19,
+   "dur": 7.1,
+   "wpm": 161,
+   "pause_after": 0.8
+  },
+  {
+   "start": 500.02,
+   "end": 505.86,
+   "text": "From these strongholds, lords subjugated the peasants in their vicinity, extracting their resources.",
+   "words": 13,
+   "dur": 5.84,
+   "wpm": 134,
+   "pause_after": 1.36
+  },
+  {
+   "start": 507.22,
+   "end": 510.12,
+   "text": "Lords ruled their lands by coercive force.",
+   "words": 7,
+   "dur": 2.9,
+   "wpm": 145,
+   "pause_after": 0.94
+  },
+  {
+   "start": 511.06,
+   "end": 515.14,
+   "text": "In previous centuries, peasants were an integral part of infantry arms.",
+   "words": 11,
+   "dur": 4.08,
+   "wpm": 162,
+   "pause_after": 0.84
+  },
+  {
+   "start": 515.98,
+   "end": 522.16,
+   "text": "But new military innovations, such as the stirrup, further established cavalry as a decisive force.",
+   "words": 15,
+   "dur": 6.18,
+   "wpm": 146,
+   "pause_after": 0.9
+  },
+  {
+   "start": 523.06,
+   "end": 527.08,
+   "text": "This new kind of warfare required resources only nobles could obtain.",
+   "words": 11,
+   "dur": 4.02,
+   "wpm": 164,
+   "pause_after": 0.86
+  },
+  {
+   "start": 527.94,
+   "end": 532.02,
+   "text": "Consequently, European elites became full-time professional fighters.",
+   "words": 7,
+   "dur": 4.08,
+   "wpm": 103,
+   "pause_after": 1.26
+  },
+  {
+   "start": 533.28,
+   "end": 538.42,
+   "text": "In a world ruled by a warrior nobility, territorial power was attained by vassalage.",
+   "words": 14,
+   "dur": 5.14,
+   "wpm": 163,
+   "pause_after": 0.88
+  },
+  {
+   "start": 539.3,
+   "end": 545.46,
+   "text": "One noble granted another land and protection, and expected in return his fealty and military service.",
+   "words": 16,
+   "dur": 6.16,
+   "wpm": 156,
+   "pause_after": 0.86
+  },
+  {
+   "start": 546.32,
+   "end": 551.12,
+   "text": "Kingdoms were becoming complex networks of personal relationships and mutual obligations.",
+   "words": 11,
+   "dur": 4.8,
+   "wpm": 138,
+   "pause_after": 1.14
+  },
+  {
+   "start": 552.26,
+   "end": 556.6,
+   "text": "Kings were often weak, and could be easily overshadowed by their strong vassals.",
+   "words": 13,
+   "dur": 4.34,
+   "wpm": 180,
+   "pause_after": 1.22
+  },
+  {
+   "start": 557.82,
+   "end": 561.22,
+   "text": "This is often described as the feudal system.",
+   "words": 8,
+   "dur": 3.4,
+   "wpm": 141,
+   "pause_after": 1.02
+  },
+  {
+   "start": 562.24,
+   "end": 566.72,
+   "text": "Centuries would pass before centralized states would emerge again in the West.",
+   "words": 12,
+   "dur": 4.48,
+   "wpm": 161,
+   "pause_after": 5.5
+  },
+  {
+   "start": 572.22,
+   "end": 575.82,
+   "text": "In the 10th century, things started to change.",
+   "words": 8,
+   "dur": 3.6,
+   "wpm": 133,
+   "pause_after": 0.88
+  },
+  {
+   "start": 576.7,
+   "end": 589.56,
+   "text": "Better climate increased agricultural yield, external invasions ceased as Vikings and Hungarians settled down and were absorbed into Western Christendom, and in some regions, royal authority was gaining ground.",
+   "words": 29,
+   "dur": 12.86,
+   "wpm": 135,
+   "pause_after": 1.39
+  },
+  {
+   "start": 590.95,
+   "end": 599.84,
+   "text": "In Britain, King Alfred the Great and his successors unified the various Anglo-Saxon realms, creating the Kingdom of England for the first time.",
+   "words": 23,
+   "dur": 8.89,
+   "wpm": 155,
+   "pause_after": 1.16
+  },
+  {
+   "start": 601.0,
+   "end": 608.74,
+   "text": "In West Francia, while political fragmentation continued, Vikings who settled in the north swore loyalty to the Frankish king.",
+   "words": 19,
+   "dur": 7.74,
+   "wpm": 147,
+   "pause_after": 0.86
+  },
+  {
+   "start": 609.6,
+   "end": 612.66,
+   "text": "They became French Christians, known as the Normans.",
+   "words": 8,
+   "dur": 3.06,
+   "wpm": 157,
+   "pause_after": 0.86
+  },
+  {
+   "start": 613.52,
+   "end": 617.16,
+   "text": "The Duchy of Normandy created a buffer against other raiders.",
+   "words": 10,
+   "dur": 3.64,
+   "wpm": 165,
+   "pause_after": 0.74
+  },
+  {
+   "start": 617.9,
+   "end": 629.22,
+   "text": "In East Francia, Otto I, King of the Germans, managed to defeat the Hungarians in the Battle of Lechfeld in 955, putting an end to the invasions from the east.",
+   "words": 30,
+   "dur": 11.32,
+   "wpm": 159,
+   "pause_after": 0.88
+  },
+  {
+   "start": 630.1,
+   "end": 634.36,
+   "text": "The settled Hungarians eventually established a Christian kingdom of their own.",
+   "words": 11,
+   "dur": 4.26,
+   "wpm": 155,
+   "pause_after": 0.88
+  },
+  {
+   "start": 635.24,
+   "end": 639.14,
+   "text": "The victorious Otto the Great was crowned emperor in 962.",
+   "words": 10,
+   "dur": 3.9,
+   "wpm": 154,
+   "pause_after": 0.88
+  },
+  {
+   "start": 640.02,
+   "end": 643.8,
+   "text": "Europe had an empire once again, this time a German one.",
+   "words": 11,
+   "dur": 3.78,
+   "wpm": 175,
+   "pause_after": 0.0
+  },
+  {
+   "start": 643.8,
+   "end": 647.24,
+   "text": "It was later known as the Holy Roman Empire.",
+   "words": 9,
+   "dur": 3.44,
+   "wpm": 157,
+   "pause_after": 1.22
+  },
+  {
+   "start": 648.46,
+   "end": 655.56,
+   "text": "After centuries of turmoil, Europe was finally gaining stability and confidence, ready to change course.",
+   "words": 15,
+   "dur": 7.1,
+   "wpm": 127,
+   "pause_after": 3.07
+  },
+  {
+   "start": 658.63,
+   "end": 665.61,
+   "text": "The year 1000 marks a turning point in European history, ushering in 300 years of growth and prosperity.",
+   "words": 18,
+   "dur": 6.98,
+   "wpm": 155,
+   "pause_after": 4.04
+  },
+  {
+   "start": 669.65,
+   "end": 675.77,
+   "text": "Better climate, combined with new technologies and techniques, led to an agricultural revolution.",
+   "words": 13,
+   "dur": 6.12,
+   "wpm": 127,
+   "pause_after": 0.0
+  },
+  {
+   "start": 675.77,
+   "end": 680.41,
+   "text": "Europeans produced more food, resulting in population growth.",
+   "words": 8,
+   "dur": 4.64,
+   "wpm": 103,
+   "pause_after": 0.78
+  },
+  {
+   "start": 681.19,
+   "end": 684.97,
+   "text": "New villages and towns were established, and existing ones expanded.",
+   "words": 10,
+   "dur": 3.78,
+   "wpm": 159,
+   "pause_after": 1.18
+  },
+  {
+   "start": 686.15,
+   "end": 690.89,
+   "text": "Throughout Europe, forests were cleared as more and more land came under cultivation.",
+   "words": 13,
+   "dur": 4.74,
+   "wpm": 165,
+   "pause_after": 1.62
+  },
+  {
+   "start": 692.51,
+   "end": 696.51,
+   "text": "This enabled immense economic expansion and commercial revival.",
+   "words": 8,
+   "dur": 4.0,
+   "wpm": 120,
+   "pause_after": 0.9
+  },
+  {
+   "start": 697.41,
+   "end": 700.97,
+   "text": "Bustling trade networks fed a massive urbanization process.",
+   "words": 8,
+   "dur": 3.56,
+   "wpm": 135,
+   "pause_after": 0.86
+  },
+  {
+   "start": 701.83,
+   "end": 707.15,
+   "text": "Old and new cities grew larger, becoming international hubs for a new class of merchants.",
+   "words": 15,
+   "dur": 5.32,
+   "wpm": 169,
+   "pause_after": 0.96
+  },
+  {
+   "start": 708.11,
+   "end": 713.35,
+   "text": "These merchants won their independence from feudal landowners, forming self-governing cities.",
+   "words": 11,
+   "dur": 5.24,
+   "wpm": 126,
+   "pause_after": 1.08
+  },
+  {
+   "start": 714.43,
+   "end": 719.07,
+   "text": "This was most evident in Italy, where merchants revived the Mediterranean trade.",
+   "words": 12,
+   "dur": 4.64,
+   "wpm": 155,
+   "pause_after": 1.44
+  },
+  {
+   "start": 720.51,
+   "end": 725.67,
+   "text": "As quality of life improved, art, architecture and music flourished.",
+   "words": 10,
+   "dur": 5.16,
+   "wpm": 116,
+   "pause_after": 0.0
+  },
+  {
+   "start": 725.67,
+   "end": 732.97,
+   "text": "Europe was becoming increasingly literate, and the first universities were founded under the auspices of the Church.",
+   "words": 17,
+   "dur": 7.3,
+   "wpm": 140,
+   "pause_after": 0.84
+  },
+  {
+   "start": 733.81,
+   "end": 740.51,
+   "text": "European intellectuals initiated a new renaissance, based on the rediscovery and revival of ancient knowledge.",
+   "words": 15,
+   "dur": 6.7,
+   "wpm": 134,
+   "pause_after": 0.92
+  },
+  {
+   "start": 741.43,
+   "end": 746.47,
+   "text": "But Europeans were not only conquering internal frontiers, they were also pushing outward.",
+   "words": 13,
+   "dur": 5.04,
+   "wpm": 155,
+   "pause_after": 5.64
+  },
+  {
+   "start": 752.11,
+   "end": 761.89,
+   "text": "During the Central Middle Ages, aristocrats from the Carolingian heartland conquered and colonized new territories, pushing the boundaries of Western Christendom.",
+   "words": 21,
+   "dur": 9.78,
+   "wpm": 129,
+   "pause_after": 1.12
+  },
+  {
+   "start": 763.01,
+   "end": 770.59,
+   "text": "This process, described as the Europeanization of Europe, resulted in an expanded and more homogenous civilization.",
+   "words": 16,
+   "dur": 7.58,
+   "wpm": 127,
+   "pause_after": 2.16
+  },
+  {
+   "start": 772.75,
+   "end": 777.67,
+   "text": "In 1066, William the Conqueror, Duke of Normandy, invaded England.",
+   "words": 10,
+   "dur": 4.92,
+   "wpm": 122,
+   "pause_after": 0.68
+  },
+  {
+   "start": 778.35,
+   "end": 782.55,
+   "text": "In the Battle of Hastings, he delivered a decisive blow to the Anglo-Saxons.",
+   "words": 13,
+   "dur": 4.2,
+   "wpm": 186,
+   "pause_after": 0.0
+  },
+  {
+   "start": 782.55,
+   "end": 786.51,
+   "text": "England was transformed into a Norman stronghold.",
+   "words": 7,
+   "dur": 3.96,
+   "wpm": 106,
+   "pause_after": 1.6
+  },
+  {
+   "start": 788.11,
+   "end": 795.53,
+   "text": "In Iberia, the Christian kingdoms of the north fought the Muslims to their south, gradually extending their control over the peninsula.",
+   "words": 21,
+   "dur": 7.42,
+   "wpm": 170,
+   "pause_after": 0.96
+  },
+  {
+   "start": 796.49,
+   "end": 798.47,
+   "text": "This was viewed as a reconquest.",
+   "words": 6,
+   "dur": 1.98,
+   "wpm": 182,
+   "pause_after": 1.24
+  },
+  {
+   "start": 799.71,
+   "end": 805.71,
+   "text": "In southern Italy and Sicily, Norman warriors conquered vast territories from the Byzantines and Muslims.",
+   "words": 15,
+   "dur": 6.0,
+   "wpm": 150,
+   "pause_after": 0.78
+  },
+  {
+   "start": 806.49,
+   "end": 809.95,
+   "text": "They allied with the Pope and established another Norman kingdom.",
+   "words": 10,
+   "dur": 3.46,
+   "wpm": 173,
+   "pause_after": 1.32
+  },
+  {
+   "start": 811.27,
+   "end": 818.89,
+   "text": "In Eastern Europe, German aristocrats and peasants gradually moved eastward, settling on Slavic lands.",
+   "words": 14,
+   "dur": 7.62,
+   "wpm": 110,
+   "pause_after": 1.36
+  },
+  {
+   "start": 820.25,
+   "end": 823.51,
+   "text": "But Europeans were casting their gaze further still.",
+   "words": 8,
+   "dur": 3.26,
+   "wpm": 147,
+   "pause_after": 0.64
+  },
+  {
+   "start": 824.15,
+   "end": 832.79,
+   "text": "In 1095, Pope Urban II called on Christian warriors to liberate Jerusalem and other holy sites from the hands of Muslim infidels.",
+   "words": 22,
+   "dur": 8.64,
+   "wpm": 153,
+   "pause_after": 1.16
+  },
+  {
+   "start": 833.95,
+   "end": 839.93,
+   "text": "Crusader armies swarmed to the east, establishing several states on the shores of the Mediterranean Sea.",
+   "words": 16,
+   "dur": 5.98,
+   "wpm": 161,
+   "pause_after": 0.8
+  },
+  {
+   "start": 840.73,
+   "end": 843.83,
+   "text": "These states proved to be a weak western outpost.",
+   "words": 9,
+   "dur": 3.1,
+   "wpm": 174,
+   "pause_after": 0.74
+  },
+  {
+   "start": 844.57,
+   "end": 848.27,
+   "text": "Over the course of 200 years, they were reconquered by Muslim forces.",
+   "words": 12,
+   "dur": 3.7,
+   "wpm": 195,
+   "pause_after": 0.98
+  },
+  {
+   "start": 849.25,
+   "end": 851.85,
+   "text": "Nevertheless, they signaled an important message.",
+   "words": 6,
+   "dur": 2.6,
+   "wpm": 138,
+   "pause_after": 0.64
+  },
+  {
+   "start": 852.49,
+   "end": 854.23,
+   "text": "The Catholic Church had awakened.",
+   "words": 5,
+   "dur": 1.74,
+   "wpm": 172,
+   "pause_after": 5.75
+  },
+  {
+   "start": 859.98,
+   "end": 865.54,
+   "text": "In the early Middle Ages, the Pope was weak, holding little influence outside Italy.",
+   "words": 14,
+   "dur": 5.56,
+   "wpm": 151,
+   "pause_after": 0.72
+  },
+  {
+   "start": 866.26,
+   "end": 871.76,
+   "text": "The Church was a loose network of priests and monks, appointed and controlled by local aristocrats.",
+   "words": 16,
+   "dur": 5.5,
+   "wpm": 175,
+   "pause_after": 0.8
+  },
+  {
+   "start": 872.56,
+   "end": 879.5,
+   "text": "In the 10th and 11th centuries, a movement emerged set on reforming the Church and society as a whole.",
+   "words": 19,
+   "dur": 6.94,
+   "wpm": 164,
+   "pause_after": 0.92
+  },
+  {
+   "start": 880.42,
+   "end": 888.86,
+   "text": "The reformers demanded to free the Church from the world, to extract it from the influence of kings and nobles, and rebuild it as a papal monarchy.",
+   "words": 27,
+   "dur": 8.44,
+   "wpm": 192,
+   "pause_after": 1.46
+  },
+  {
+   "start": 890.32,
+   "end": 899.98,
+   "text": "Pope Gregory VII, an enthusiastic reformer, clashed with the Holy Roman Emperor Henry IV over the authority of appointing bishops in the empire.",
+   "words": 23,
+   "dur": 9.66,
+   "wpm": 143,
+   "pause_after": 0.0
+  },
+  {
+   "start": 899.98,
+   "end": 909.18,
+   "text": "The first round of conflict ended with Henry waiting for three days in the snow outside a fortress at Canossa, begging for the Pope's forgiveness.",
+   "words": 25,
+   "dur": 9.2,
+   "wpm": 163,
+   "pause_after": 0.9
+  },
+  {
+   "start": 910.08,
+   "end": 916.66,
+   "text": "The second round, however, ended as Henry invaded and appointed his own Pope, forcing Gregory into exile.",
+   "words": 17,
+   "dur": 6.58,
+   "wpm": 155,
+   "pause_after": 1.14
+  },
+  {
+   "start": 917.8,
+   "end": 925.06,
+   "text": "Although it seemed as if the Emperor had won, in the 12th century it became clear that the papacy and the reform were victorious.",
+   "words": 24,
+   "dur": 7.26,
+   "wpm": 198,
+   "pause_after": 1.1
+  },
+  {
+   "start": 926.16,
+   "end": 930.04,
+   "text": "The Church had become a robust, centralized, hierarchical organization.",
+   "words": 9,
+   "dur": 3.88,
+   "wpm": 139,
+   "pause_after": 0.74
+  },
+  {
+   "start": 930.78,
+   "end": 937.06,
+   "text": "With elaborate administrative and legal systems and immense resources, its power stretched across Europe.",
+   "words": 14,
+   "dur": 6.28,
+   "wpm": 134,
+   "pause_after": 0.76
+  },
+  {
+   "start": 937.82,
+   "end": 942.74,
+   "text": "At the top of the pyramid was the Pope, ruling the Church as an absolute monarch.",
+   "words": 16,
+   "dur": 4.92,
+   "wpm": 195,
+   "pause_after": 1.46
+  },
+  {
+   "start": 944.2,
+   "end": 947.58,
+   "text": "As Popes grew stronger, kings were left envious.",
+   "words": 8,
+   "dur": 3.38,
+   "wpm": 142,
+   "pause_after": 0.7
+  },
+  {
+   "start": 948.28,
+   "end": 949.72,
+   "text": "Then they followed suit.",
+   "words": 4,
+   "dur": 1.44,
+   "wpm": 167,
+   "pause_after": 5.39
+  },
+  {
+   "start": 955.11,
+   "end": 959.53,
+   "text": "The power of medieval kings was constrained by the armed aristocracy.",
+   "words": 11,
+   "dur": 4.42,
+   "wpm": 149,
+   "pause_after": 0.0
+  },
+  {
+   "start": 959.53,
+   "end": 970.67,
+   "text": "During the Central Middle Ages, their numbers vastly increased and castles were multiplied, with wood being replaced by stone and designs getting bigger and stronger.",
+   "words": 25,
+   "dur": 11.14,
+   "wpm": 135,
+   "pause_after": 0.96
+  },
+  {
+   "start": 971.63,
+   "end": 980.11,
+   "text": "Aristocratic lifestyle and culture underwent refinement with the advent of the Christian knight ideal and the code of conduct known as chivalry.",
+   "words": 22,
+   "dur": 8.48,
+   "wpm": 156,
+   "pause_after": 1.1
+  },
+  {
+   "start": 981.21,
+   "end": 988.01,
+   "text": "But at the same time, aristocrats in some regions were faced with the emergence of stronger kings and kingdoms.",
+   "words": 19,
+   "dur": 6.8,
+   "wpm": 168,
+   "pause_after": 1.52
+  },
+  {
+   "start": 989.53,
+   "end": 997.95,
+   "text": "In England, the Anglo-Norman dynasty formed a small and consolidated state, free of the feudal mess abundant on the continent.",
+   "words": 20,
+   "dur": 8.42,
+   "wpm": 143,
+   "pause_after": 1.26
+  },
+  {
+   "start": 999.21,
+   "end": 1006.99,
+   "text": "In Iberia, the reconquest of land from the Muslims strengthened the Christian kings, enabling centralized states to emerge.",
+   "words": 18,
+   "dur": 7.78,
+   "wpm": 139,
+   "pause_after": 1.16
+  },
+  {
+   "start": 1008.15,
+   "end": 1017.21,
+   "text": "In France, the kings of the Capetian dynasty gradually expanded their personal domains, enabling a functioning state to form there as well.",
+   "words": 22,
+   "dur": 9.06,
+   "wpm": 146,
+   "pause_after": 1.06
+  },
+  {
+   "start": 1018.27,
+   "end": 1022.49,
+   "text": "However, in the Holy Roman Empire, the exact opposite occurred.",
+   "words": 10,
+   "dur": 4.22,
+   "wpm": 142,
+   "pause_after": 0.86
+  },
+  {
+   "start": 1023.35,
+   "end": 1028.22,
+   "text": "The once mighty empire disintegrated, forming a mosaic of autonomous principalities.",
+   "words": 11,
+   "dur": 4.87,
+   "wpm": 136,
+   "pause_after": 1.49
+  },
+  {
+   "start": 1029.71,
+   "end": 1035.03,
+   "text": "Emperor Frederick Barbarossa attempted to restore the empire's former glory, but failed.",
+   "words": 12,
+   "dur": 5.32,
+   "wpm": 135,
+   "pause_after": 0.92
+  },
+  {
+   "start": 1035.95,
+   "end": 1040.43,
+   "text": "The title of emperor, now bestowed by electors, became an empty one.",
+   "words": 12,
+   "dur": 4.48,
+   "wpm": 161,
+   "pause_after": 1.76
+  },
+  {
+   "start": 1042.19,
+   "end": 1051.29,
+   "text": "The Central Middle Ages saw an agricultural revolution, urbanization, expansion, stronger popes, stronger kings, and vibrant culture.",
+   "words": 17,
+   "dur": 9.1,
+   "wpm": 112,
+   "pause_after": 0.78
+  },
+  {
+   "start": 1052.07,
+   "end": 1057.17,
+   "text": "But around 1300, the climate worsened, growth halted, and famine spread.",
+   "words": 11,
+   "dur": 5.1,
+   "wpm": 129,
+   "pause_after": 0.68
+  },
+  {
+   "start": 1057.85,
+   "end": 1059.77,
+   "text": "A great calamity was approaching.",
+   "words": 5,
+   "dur": 1.92,
+   "wpm": 156,
+   "pause_after": 7.96
+  },
+  {
+   "start": 1067.73,
+   "end": 1071.85,
+   "text": "The 14th century marks a watershed in European history.",
+   "words": 9,
+   "dur": 4.12,
+   "wpm": 131,
+   "pause_after": 0.74
+  },
+  {
+   "start": 1072.59,
+   "end": 1078.11,
+   "text": "In 1347, a global plague, now known as the Black Death, reached Europe.",
+   "words": 13,
+   "dur": 5.52,
+   "wpm": 141,
+   "pause_after": 0.0
+  },
+  {
+   "start": 1078.11,
+   "end": 1085.53,
+   "text": "It rapidly spread across the continent, and within a few short years killed approximately one-third of the population.",
+   "words": 18,
+   "dur": 7.42,
+   "wpm": 146,
+   "pause_after": 0.92
+  },
+  {
+   "start": 1086.45,
+   "end": 1089.17,
+   "text": "It was an unprecedented demographic disaster.",
+   "words": 6,
+   "dur": 2.72,
+   "wpm": 132,
+   "pause_after": 0.76
+  },
+  {
+   "start": 1089.93,
+   "end": 1092.09,
+   "text": "Entire settlements were wiped off the map.",
+   "words": 7,
+   "dur": 2.16,
+   "wpm": 194,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1093.09,
+   "end": 1097.33,
+   "text": "Recurrent outbreaks of the plague would continue striking Europe for centuries.",
+   "words": 11,
+   "dur": 4.24,
+   "wpm": 156,
+   "pause_after": 1.96
+  },
+  {
+   "start": 1099.29,
+   "end": 1103.71,
+   "text": "However, during the 14th and 15th centuries, Europe recovered.",
+   "words": 9,
+   "dur": 4.42,
+   "wpm": 122,
+   "pause_after": 0.64
+  },
+  {
+   "start": 1104.35,
+   "end": 1108.43,
+   "text": "And for some survivors, it was still grim.",
+   "words": 8,
+   "dur": 4.08,
+   "wpm": 118,
+   "pause_after": 0.88
+  },
+  {
+   "start": 1109.31,
+   "end": 1115.49,
+   "text": "As the population dropped, land became widely available, and the demand for labor rose dramatically.",
+   "words": 15,
+   "dur": 6.18,
+   "wpm": 146,
+   "pause_after": 0.96
+  },
+  {
+   "start": 1116.45,
+   "end": 1121.37,
+   "text": "The bargaining power of peasants and workers increased, and they demanded improved conditions.",
+   "words": 13,
+   "dur": 4.92,
+   "wpm": 159,
+   "pause_after": 1.22
+  },
+  {
+   "start": 1122.59,
+   "end": 1125.97,
+   "text": "When elites refused, revolts erupted across Europe.",
+   "words": 7,
+   "dur": 3.38,
+   "wpm": 124,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1126.97,
+   "end": 1129.07,
+   "text": "Nearly all of them were brutally suppressed.",
+   "words": 7,
+   "dur": 2.1,
+   "wpm": 200,
+   "pause_after": 0.9
+  },
+  {
+   "start": 1129.97,
+   "end": 1132.19,
+   "text": "Yet, in the long run, change was inevitable.",
+   "words": 8,
+   "dur": 2.22,
+   "wpm": 216,
+   "pause_after": 5.92
+  },
+  {
+   "start": 1138.11,
+   "end": 1139.05,
+   "text": "People demanded higher wages.",
+   "words": 4,
+   "dur": 0.94,
+   "wpm": 255,
+   "pause_after": 2.06
+  },
+  {
+   "start": 1141.11,
+   "end": 1144.25,
+   "text": "Out of the darkness of the great plague, creativity emerged.",
+   "words": 10,
+   "dur": 3.14,
+   "wpm": 191,
+   "pause_after": 0.56
+  },
+  {
+   "start": 1144.81,
+   "end": 1153.51,
+   "text": "Technological innovation brought forth the wind and water mills, eyeglasses, new techniques for metal production and processing, and, of course, the printing press.",
+   "words": 23,
+   "dur": 8.7,
+   "wpm": 159,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1154.51,
+   "end": 1158.11,
+   "text": "In the quickly recovering cities, new cultural trends flourished.",
+   "words": 9,
+   "dur": 3.6,
+   "wpm": 150,
+   "pause_after": 0.72
+  },
+  {
+   "start": 1158.83,
+   "end": 1166.07,
+   "text": "A new renaissance thrived in Italy, set on reviving and surpassing the cultural achievements of ancient Greece and Rome.",
+   "words": 19,
+   "dur": 7.24,
+   "wpm": 157,
+   "pause_after": 2.04
+  },
+  {
+   "start": 1168.11,
+   "end": 1171.65,
+   "text": "They developed a new outlook on the world and on man's place within it.",
+   "words": 14,
+   "dur": 3.54,
+   "wpm": 237,
+   "pause_after": 0.86
+  },
+  {
+   "start": 1172.51,
+   "end": 1180.53,
+   "text": "They defined the past millennium as dark ages, and so positioned themselves as the transition between the medieval and modern world.",
+   "words": 21,
+   "dur": 8.02,
+   "wpm": 157,
+   "pause_after": 5.97
+  },
+  {
+   "start": 1186.5,
+   "end": 1191.56,
+   "text": "In the late 14th and 15th centuries, gunpowder transformed European warfare.",
+   "words": 11,
+   "dur": 5.06,
+   "wpm": 130,
+   "pause_after": 0.72
+  },
+  {
+   "start": 1192.28,
+   "end": 1207.08,
+   "text": "The bravest knight could be shot down by simple infantrymen and the new infantry and artillery armies was a costly affair, which only kings could manage.",
+   "words": 26,
+   "dur": 14.8,
+   "wpm": 105,
+   "pause_after": 0.78
+  },
+  {
+   "start": 1207.86,
+   "end": 1216.4,
+   "text": "As they strove to monopolize the use of force within their territories, kings consolidated their power and asserted their authority over the aristocracy.",
+   "words": 23,
+   "dur": 8.54,
+   "wpm": 162,
+   "pause_after": 1.04
+  },
+  {
+   "start": 1217.44,
+   "end": 1223.68,
+   "text": "These nobles, who lost their military superiority, began serving their rulers as administrators and courtiers.",
+   "words": 15,
+   "dur": 6.24,
+   "wpm": 144,
+   "pause_after": 0.72
+  },
+  {
+   "start": 1224.4,
+   "end": 1226.08,
+   "text": "The sovereign state was emerging.",
+   "words": 5,
+   "dur": 1.68,
+   "wpm": 179,
+   "pause_after": 5.78
+  },
+  {
+   "start": 1231.86,
+   "end": 1233.58,
+   "text": "It was constantly put to the test.",
+   "words": 7,
+   "dur": 1.72,
+   "wpm": 244,
+   "pause_after": 1.28
+  },
+  {
+   "start": 1234.86,
+   "end": 1239.82,
+   "text": "The Hundred Years' War, waged between England and France, devastated the French countryside.",
+   "words": 13,
+   "dur": 4.96,
+   "wpm": 157,
+   "pause_after": 0.94
+  },
+  {
+   "start": 1240.76,
+   "end": 1247.3,
+   "text": "The war's course was reversed by a peasant girl, Joan of Arc, who rallied French troops against the English.",
+   "words": 19,
+   "dur": 6.54,
+   "wpm": 174,
+   "pause_after": 0.8
+  },
+  {
+   "start": 1248.1,
+   "end": 1250.4,
+   "text": "Eventually, England was pushed out of France.",
+   "words": 7,
+   "dur": 2.3,
+   "wpm": 183,
+   "pause_after": 1.6
+  },
+  {
+   "start": 1252.0,
+   "end": 1265.6,
+   "text": "In Iberia, the marriage of Ferdinand of Aragon and Isabella of Castile led to the emergence of the conquered Granada, the last Muslim stronghold in the peninsula.",
+   "words": 27,
+   "dur": 13.6,
+   "wpm": 119,
+   "pause_after": 1.04
+  },
+  {
+   "start": 1266.64,
+   "end": 1272.46,
+   "text": "These developments lay the foundations for the modern nation-states of England, France and Spain.",
+   "words": 14,
+   "dur": 5.82,
+   "wpm": 144,
+   "pause_after": 0.88
+  },
+  {
+   "start": 1273.34,
+   "end": 1278.48,
+   "text": "Other regions, such as Germany and Italy, would have to wait several centuries for their unification.",
+   "words": 16,
+   "dur": 5.14,
+   "wpm": 187,
+   "pause_after": 5.82
+  },
+  {
+   "start": 1284.3,
+   "end": 1296.94,
+   "text": "As the Middle Ages came to a close, Europe had not only but almost shifted outward.",
+   "words": 16,
+   "dur": 12.64,
+   "wpm": 76,
+   "pause_after": 1.04
+  },
+  {
+   "start": 1297.98,
+   "end": 1310.18,
+   "text": "By 1500, Portugal had traversed Africa and the Indian Ocean, opening up commercial routes to the Far East, while Spain turned westward, crossing the Atlantic Ocean and reaching the Americas.",
+   "words": 30,
+   "dur": 12.2,
+   "wpm": 148,
+   "pause_after": 1.0
+  },
+  {
+   "start": 1311.18,
+   "end": 1318.76,
+   "text": "Columbus' voyage in 1492 is sometimes considered to mark the end of the Middle Ages and the beginning of the modern era.",
+   "words": 22,
+   "dur": 7.58,
+   "wpm": 174,
+   "pause_after": 1.16
+  },
+  {
+   "start": 1319.92,
+   "end": 1327.66,
+   "text": "Over the next centuries, European expansion has changed the world we live in today.",
+   "words": 14,
+   "dur": 7.74,
+   "wpm": 109,
+   "pause_after": null
+  }
+ ],
+ "segments": [
+  {
+   "start": 0.37,
+   "end": 3.05,
+   "text": "In the Middle Ages, a new civilization was",
+   "gap_after": 0.0
+  },
+  {
+   "start": 3.05,
+   "end": 4.8100000000000005,
+   "text": "forged on the European continent.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 5.61,
+   "end": 8.77,
+   "text": "Nobles and kings, faith and warfare, culture and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 8.77,
+   "end": 12.31,
+   "text": "learning, trade and innovation, these set the foundations",
+   "gap_after": 0.0
+  },
+  {
+   "start": 12.31,
+   "end": 13.51,
+   "text": "of the modern era.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 14.37,
+   "end": 16.95,
+   "text": "This is the story of how Europe was",
+   "gap_after": 0.0
+  },
+  {
+   "start": 16.95,
+   "end": 17.25,
+   "text": "born.",
+   "gap_after": 1.68
+  },
+  {
+   "start": 18.93,
+   "end": 22.17,
+   "text": "In the first two centuries CE, the vast",
+   "gap_after": 0.0
+  },
+  {
+   "start": 22.17,
+   "end": 24.87,
+   "text": "Roman Empire engulfed the Mediterranean Sea.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 24.87,
+   "end": 28.23,
+   "text": "It was a time of stability, prosperity and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 28.23,
+   "end": 30.03,
+   "text": "peace, the Pax Romana.",
+   "gap_after": 1.14
+  },
+  {
+   "start": 31.17,
+   "end": 34.49,
+   "text": "Citizens enjoyed its flourishing culture, fair quality of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 34.49,
+   "end": 36.19,
+   "text": "life and relative security.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 37.05,
+   "end": 40.19,
+   "text": "This was achieved through Rome's centralized government and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 40.19,
+   "end": 41.39,
+   "text": "advanced infrastructure.",
+   "gap_after": 1.98
+  },
+  {
+   "start": 43.37,
+   "end": 46.29,
+   "text": "In the remote eastern margins of the empire,",
+   "gap_after": 0.42
+  },
+  {
+   "start": 46.71,
+   "end": 49.13,
+   "text": "a new religion was born, Christianity.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 49.13,
+   "end": 52.97,
+   "text": "Beginning as a small Jewish sect, it slowly",
+   "gap_after": 0.0
+  },
+  {
+   "start": 52.97,
+   "end": 55.27,
+   "text": "spread throughout the pagan Roman world.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 56.11,
+   "end": 58.09,
+   "text": "In the fourth century, it was embraced by",
+   "gap_after": 0.0
+  },
+  {
+   "start": 58.09,
+   "end": 60.85,
+   "text": "the emperors, becoming the official state religion.",
+   "gap_after": 1.36
+  },
+  {
+   "start": 62.21,
+   "end": 64.67,
+   "text": "But by then, Rome's glory days were over.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 65.47,
+   "end": 68.89,
+   "text": "The empire was suffering from inflation, plagues, famine",
+   "gap_after": 0.0
+  },
+  {
+   "start": 68.89,
+   "end": 69.93,
+   "text": "and invasions.",
+   "gap_after": 0.66
+  },
+  {
+   "start": 70.59,
+   "end": 72.85,
+   "text": "Managing it from a single center was becoming",
+   "gap_after": 0.0
+  },
+  {
+   "start": 72.85,
+   "end": 73.33,
+   "text": "impossible.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 74.05,
+   "end": 77.65,
+   "text": "In 395 CE, the empire was divided in",
+   "gap_after": 0.0
+  },
+  {
+   "start": 77.65,
+   "end": 77.83,
+   "text": "two.",
+   "gap_after": 0.6
+  },
+  {
+   "start": 78.43,
+   "end": 80.83,
+   "text": "A western empire with Rome as its capital,",
+   "gap_after": 0.54
+  },
+  {
+   "start": 81.37,
+   "end": 84.77,
+   "text": "and an eastern one ruled from Constantinople, also",
+   "gap_after": 0.0
+  },
+  {
+   "start": 84.77,
+   "end": 86.63,
+   "text": "known as the Byzantine Empire.",
+   "gap_after": 0.82
+  },
+  {
+   "start": 87.45,
+   "end": 90.07,
+   "text": "While the east was urban, rich and prosperous,",
+   "gap_after": 0.64
+  },
+  {
+   "start": 90.71,
+   "end": 92.89,
+   "text": "the west was rural, poor and weak.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 93.61,
+   "end": 94.89,
+   "text": "It didn't last long.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 95.63,
+   "end": 98.29,
+   "text": "In the deep forests beyond the empire's borders,",
+   "gap_after": 0.52
+  },
+  {
+   "start": 98.81,
+   "end": 100.59,
+   "text": "barbarian peoples were on the move.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 100.59,
+   "end": 104.13,
+   "text": "These were mostly Germanic tribes led by warlords",
+   "gap_after": 0.0
+  },
+  {
+   "start": 104.13,
+   "end": 105.97,
+   "text": "and their loyal bands of warriors.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 106.83,
+   "end": 109.19,
+   "text": "These groups were pressing harder and harder on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 109.19,
+   "end": 110.53,
+   "text": "the Rhine and Danube rivers.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 111.47,
+   "end": 114.39,
+   "text": "Without much choice, the western empire began allowing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 114.39,
+   "end": 115.01,
+   "text": "them entry.",
+   "gap_after": 1.3
+  },
+  {
+   "start": 116.31,
+   "end": 119.77,
+   "text": "Eventually, the frontiers were breached, enabling various peoples",
+   "gap_after": 0.0
+  },
+  {
+   "start": 119.77,
+   "end": 122.19,
+   "text": "to migrate and settle within the borders of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 122.19,
+   "end": 122.67,
+   "text": "the empire.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 123.67,
+   "end": 127.31,
+   "text": "Whether guests or invaders, these peoples carved up",
+   "gap_after": 0.0
+  },
+  {
+   "start": 127.31,
+   "end": 130.63,
+   "text": "Roman territory while imperial authority was crumbling.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 131.57,
+   "end": 135.91,
+   "text": "In 476, the barbarian leader Odoacer deposed the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 135.91,
+   "end": 138.95,
+   "text": "last emperor of the western Roman empire, Romulus",
+   "gap_after": 0.0
+  },
+  {
+   "start": 138.95,
+   "end": 139.75,
+   "text": "Augustulus.",
+   "gap_after": 0.7
+  },
+  {
+   "start": 140.45,
+   "end": 143.51,
+   "text": "This child emperor had no real power, but",
+   "gap_after": 0.0
+  },
+  {
+   "start": 143.51,
+   "end": 145.39,
+   "text": "his removal stands as a milestone.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 146.17,
+   "end": 148.39,
+   "text": "The western Roman empire was no more.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 149.23,
+   "end": 151.45,
+   "text": "The so-called Dark Ages had begun.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 152.47,
+   "end": 154.91,
+   "text": "Romans, Christians, barbarians.",
+   "gap_after": 0.46
+  },
+  {
+   "start": 155.37,
+   "end": 158.05,
+   "text": "These were the three main ingredients that combined",
+   "gap_after": 0.0
+  },
+  {
+   "start": 158.05,
+   "end": 159.63,
+   "text": "to create medieval Europe.",
+   "gap_after": 8.74
+  },
+  {
+   "start": 168.37,
+   "end": 172.25,
+   "text": "Around 500 CE, Europe was covered by newly",
+   "gap_after": 0.0
+  },
+  {
+   "start": 172.25,
+   "end": 175.37,
+   "text": "established kingdoms ruled by barbarian kings.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 176.01,
+   "end": 179.19,
+   "text": "Their elites, a merge between Romans and barbarians,",
+   "gap_after": 0.32
+  },
+  {
+   "start": 179.51,
+   "end": 181.53,
+   "text": "had gradually converted to Christianity.",
+   "gap_after": 1.4
+  },
+  {
+   "start": 182.93,
+   "end": 185.83,
+   "text": "The most prominent kingdoms were those of the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 185.83,
+   "end": 189.63,
+   "text": "Ostrogoths in Italy, the Visigoths in Spain, and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 189.63,
+   "end": 190.85,
+   "text": "the Franks in Gaul.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 191.49,
+   "end": 194.45,
+   "text": "But these kingdoms were lacking key elements necessary",
+   "gap_after": 0.0
+  },
+  {
+   "start": 194.45,
+   "end": 196.27,
+   "text": "to manage successful states.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 197.11,
+   "end": 200.19,
+   "text": "The great cities of antiquity were depopulated, some",
+   "gap_after": 0.0
+  },
+  {
+   "start": 200.19,
+   "end": 201.13,
+   "text": "left in ruins.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 201.97,
+   "end": 205.93,
+   "text": "The Roman transportation system decayed, eroding communication and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 205.93,
+   "end": 206.97,
+   "text": "long-distance trade.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 206.97,
+   "end": 210.73,
+   "text": "Coins vanished, leaving no economic system to support",
+   "gap_after": 0.0
+  },
+  {
+   "start": 210.73,
+   "end": 211.81,
+   "text": "professional armies.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 212.59,
+   "end": 215.65,
+   "text": "Literacy plummeted, crippling administrative systems.",
+   "gap_after": 0.66
+  },
+  {
+   "start": 216.31,
+   "end": 219.17,
+   "text": "And most notably, peace and security were gone.",
+   "gap_after": 0.68
+  },
+  {
+   "start": 219.85,
+   "end": 222.89,
+   "text": "This impoverished rural west was becoming more and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 222.89,
+   "end": 226.55,
+   "text": "more localized, fragmenting politically and linguistically.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 227.29,
+   "end": 229.29,
+   "text": "In the first centuries of the Middle Ages,",
+   "gap_after": 0.4
+  },
+  {
+   "start": 229.69,
+   "end": 232.11,
+   "text": "it paled in comparison to its stronger neighbors.",
+   "gap_after": 1.6
+  },
+  {
+   "start": 233.71,
+   "end": 242.07,
+   "text": "In the 6th century, Byzantine Emperor Justinian I",
+   "gap_after": 0.0
+  },
+  {
+   "start": 242.07,
+   "end": 245.05,
+   "text": "strove to reconquer the west and restore the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 245.05,
+   "end": 247.09,
+   "text": "Roman Empire to its past grandeur.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 247.87,
+   "end": 251.17,
+   "text": "But after conquering Italy from the Romanized Ostrogoths,",
+   "gap_after": 0.54
+  },
+  {
+   "start": 251.71,
+   "end": 254.51,
+   "text": "the peninsula fell prey to new invaders, the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 254.51,
+   "end": 255.07,
+   "text": "Lombards.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 255.99,
+   "end": 258.45,
+   "text": "The Byzantines had to accept that the division",
+   "gap_after": 0.0
+  },
+  {
+   "start": 258.45,
+   "end": 260.709,
+   "text": "between east and west was final.",
+   "gap_after": 0.801
+  },
+  {
+   "start": 261.51,
+   "end": 264.09,
+   "text": "But soon they had to acknowledge yet another",
+   "gap_after": 0.0
+  },
+  {
+   "start": 264.09,
+   "end": 266.79,
+   "text": "division, this time between north and south.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 267.69,
+   "end": 270.55,
+   "text": "In the 7th century, Arab armies swept through",
+   "gap_after": 0.0
+  },
+  {
+   "start": 270.55,
+   "end": 272.91,
+   "text": "the Middle East and North Africa with astonishing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 272.91,
+   "end": 276.29,
+   "text": "speed, creating an immense Islamic caliphate.",
+   "gap_after": 0.82
+  },
+  {
+   "start": 277.11,
+   "end": 280.49,
+   "text": "Where one civilization once thrived, now there were",
+   "gap_after": 0.0
+  },
+  {
+   "start": 280.49,
+   "end": 283.57,
+   "text": "three, Islamic, Byzantine, and medieval.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 284.21,
+   "end": 286.49,
+   "text": "For a brief moment in the 8th century,",
+   "gap_after": 0.42
+  },
+  {
+   "start": 286.91,
+   "end": 288.65,
+   "text": "it seemed as if the fragile and weak",
+   "gap_after": 0.0
+  },
+  {
+   "start": 288.65,
+   "end": 291.05,
+   "text": "west might be overwhelmed by the caliphate.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 291.95,
+   "end": 294.97,
+   "text": "Muslim armies crushed the Visigothic kingdom in Spain,",
+   "gap_after": 0.3
+  },
+  {
+   "start": 295.27,
+   "end": 297.21,
+   "text": "then went on to raid Francia.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 297.95,
+   "end": 300.45,
+   "text": "But in 732, in the Battle of Tours,",
+   "gap_after": 0.52
+  },
+  {
+   "start": 300.97,
+   "end": 302.89,
+   "text": "they were defeated by the Franks under the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 302.89,
+   "end": 304.41,
+   "text": "leadership of Charles Martel.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 305.33,
+   "end": 308.51,
+   "text": "Islamic expansion in the west was halted, and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 308.51,
+   "end": 310.59,
+   "text": "the victorious Charles gave his name to a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 310.59,
+   "end": 313.51,
+   "text": "dynasty that was to change European history forever,",
+   "gap_after": 0.68
+  },
+  {
+   "start": 314.19,
+   "end": 315.29,
+   "text": "the Carolingians.",
+   "gap_after": 5.77
+  },
+  {
+   "start": 321.06,
+   "end": 325.22,
+   "text": "Charles Martel's son, Pepin the Short, seized the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 325.22,
+   "end": 326.68,
+   "text": "Frankish throne in a coup.",
+   "gap_after": 0.82
+  },
+  {
+   "start": 327.5,
+   "end": 330.04,
+   "text": "He fought the Lombards in Italy, granting the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 330.04,
+   "end": 332.82,
+   "text": "Pope his own most desired autonomous state.",
+   "gap_after": 1.46
+  },
+  {
+   "start": 334.28,
+   "end": 336.68,
+   "text": "Pepin's son was the famous Charlemagne.",
+   "gap_after": 0.82
+  },
+  {
+   "start": 337.5,
+   "end": 341.0,
+   "text": "After ascending the Frankish throne in 768, he",
+   "gap_after": 0.0
+  },
+  {
+   "start": 341.0,
+   "end": 343.64,
+   "text": "spent decades fighting and expanding his kingdom.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 344.6,
+   "end": 347.22,
+   "text": "Ultimately, he held sway over most of western",
+   "gap_after": 0.0
+  },
+  {
+   "start": 347.22,
+   "end": 347.8,
+   "text": "Christendom.",
+   "gap_after": 1.4
+  },
+  {
+   "start": 349.2,
+   "end": 352.9,
+   "text": "In 800 CE, Pope Leo III anointed Charlemagne",
+   "gap_after": 0.0
+  },
+  {
+   "start": 352.9,
+   "end": 354.3,
+   "text": "Emperor of the Romans.",
+   "gap_after": 0.7
+  },
+  {
+   "start": 355.0,
+   "end": 357.14,
+   "text": "More than 300 years after the fall of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 357.14,
+   "end": 359.8,
+   "text": "Rome, the west had an emperor once again.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 360.96,
+   "end": 364.42,
+   "text": "The Carolingian Empire was the first great power",
+   "gap_after": 0.0
+  },
+  {
+   "start": 364.42,
+   "end": 367.66,
+   "text": "of the medieval west, leaving an enduring legacy.",
+   "gap_after": 1.14
+  },
+  {
+   "start": 368.8,
+   "end": 372.34,
+   "text": "Charlemagne backed an intellectual and cultural flowering, the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 372.34,
+   "end": 375.96,
+   "text": "first of several medieval renaissances, intending to revive",
+   "gap_after": 0.0
+  },
+  {
+   "start": 375.96,
+   "end": 378.54,
+   "text": "the lost knowledge and culture of antiquity.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 379.7,
+   "end": 383.18,
+   "text": "The empire disseminated throughout the west various political",
+   "gap_after": 0.0
+  },
+  {
+   "start": 383.18,
+   "end": 387.5,
+   "text": "structures, institutions, titles, ranks, ideas, and dreams.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 387.5,
+   "end": 391.26,
+   "text": "Most importantly, an ideal of a unified Christian",
+   "gap_after": 0.0
+  },
+  {
+   "start": 391.26,
+   "end": 391.7,
+   "text": "west.",
+   "gap_after": 1.56
+  },
+  {
+   "start": 393.26,
+   "end": 395.72,
+   "text": "These formed the bedrock of medieval civilization.",
+   "gap_after": 5.76
+  },
+  {
+   "start": 401.48,
+   "end": 404.62,
+   "text": "The Carolingian Empire was short-lived.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 405.42,
+   "end": 407.7,
+   "text": "The attempt to create centralized rule in the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 407.7,
+   "end": 412.38,
+   "text": "west suffered from insufficient infrastructure, small cities, weak",
+   "gap_after": 0.0
+  },
+  {
+   "start": 412.38,
+   "end": 415.46,
+   "text": "economy, limited bureaucracy, and poor communications.",
+   "gap_after": 1.44
+  },
+  {
+   "start": 416.9,
+   "end": 420.64,
+   "text": "After Charlemagne's death, his three grandsons fought one",
+   "gap_after": 0.0
+  },
+  {
+   "start": 420.64,
+   "end": 423.82,
+   "text": "another, and in 843, in the Treaty of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 423.82,
+   "end": 427.24,
+   "text": "Verdun, divided the Frankish Empire among themselves.",
+   "gap_after": 1.14
+  },
+  {
+   "start": 428.38,
+   "end": 431.94,
+   "text": "The Middle Kingdom quickly diminished, leaving only West",
+   "gap_after": 0.0
+  },
+  {
+   "start": 431.94,
+   "end": 435.08,
+   "text": "Francia, which would eventually become France, and East",
+   "gap_after": 0.0
+  },
+  {
+   "start": 435.08,
+   "end": 437.24,
+   "text": "Francia, which will one day become Germany.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 438.14,
+   "end": 441.66,
+   "text": "These kingdoms continued to splinter and fragment, a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 441.66,
+   "end": 443.98,
+   "text": "process accelerated by external pressure.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 444.76,
+   "end": 447.76,
+   "text": "In the 9th and 10th centuries, a new",
+   "gap_after": 0.0
+  },
+  {
+   "start": 447.76,
+   "end": 451.0,
+   "text": "wave of invaders attacked the crumbling Carolingian world",
+   "gap_after": 0.0
+  },
+  {
+   "start": 451.0,
+   "end": 452.04,
+   "text": "from every direction.",
+   "gap_after": 2.04
+  },
+  {
+   "start": 454.08,
+   "end": 456.62,
+   "text": "The Vikings came from the north, roaming the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 456.62,
+   "end": 459.72,
+   "text": "coasts and rivers of Europe, raiding and terrorizing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 459.72,
+   "end": 460.44,
+   "text": "the population.",
+   "gap_after": 1.92
+  },
+  {
+   "start": 462.36,
+   "end": 465.54,
+   "text": "The Magyars, better known as Hungarians, rode in",
+   "gap_after": 0.0
+  },
+  {
+   "start": 465.54,
+   "end": 468.38,
+   "text": "from the east, plundering defenseless settlements.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 468.38,
+   "end": 473.24,
+   "text": "And finally, Muslim pirates and raiders landed on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 473.24,
+   "end": 474.7,
+   "text": "Europe's southern shores.",
+   "gap_after": 1.96
+  },
+  {
+   "start": 476.66,
+   "end": 478.1,
+   "text": "Europe was under siege.",
+   "gap_after": 5.56
+  },
+  {
+   "start": 483.66,
+   "end": 486.94,
+   "text": "As the west was crumbling under repeated attacks,",
+   "gap_after": 0.62
+  },
+  {
+   "start": 487.56,
+   "end": 490.5,
+   "text": "kings lost their power, while local elites grew",
+   "gap_after": 0.0
+  },
+  {
+   "start": 490.5,
+   "end": 490.96,
+   "text": "stronger.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 492.12,
+   "end": 494.4,
+   "text": "Europe was getting covered with a dense network",
+   "gap_after": 0.0
+  },
+  {
+   "start": 494.4,
+   "end": 497.92,
+   "text": "of wooden castles, serving as fortified residences of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 497.92,
+   "end": 499.22,
+   "text": "local noble families.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 500.02,
+   "end": 503.3,
+   "text": "From these strongholds, lords subjugated the peasants in",
+   "gap_after": 0.0
+  },
+  {
+   "start": 503.3,
+   "end": 505.86,
+   "text": "their vicinity, extracting their resources.",
+   "gap_after": 1.36
+  },
+  {
+   "start": 507.22,
+   "end": 510.12,
+   "text": "Lords ruled their lands by coercive force.",
+   "gap_after": 0.939
+  },
+  {
+   "start": 511.059,
+   "end": 513.84,
+   "text": "In previous centuries, peasants were an integral part",
+   "gap_after": 0.0
+  },
+  {
+   "start": 513.84,
+   "end": 515.14,
+   "text": "of infantry arms.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 515.98,
+   "end": 518.88,
+   "text": "But new military innovations, such as the stirrup,",
+   "gap_after": 0.38
+  },
+  {
+   "start": 519.26,
+   "end": 522.159,
+   "text": "further established cavalry as a decisive force.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 523.059,
+   "end": 525.98,
+   "text": "This new kind of warfare required resources only",
+   "gap_after": 0.0
+  },
+  {
+   "start": 525.98,
+   "end": 527.08,
+   "text": "nobles could obtain.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 527.94,
+   "end": 532.02,
+   "text": "Consequently, European elites became full-time professional fighters.",
+   "gap_after": 1.26
+  },
+  {
+   "start": 533.28,
+   "end": 535.7,
+   "text": "In a world ruled by a warrior nobility,",
+   "gap_after": 0.5
+  },
+  {
+   "start": 536.2,
+   "end": 538.42,
+   "text": "territorial power was attained by vassalage.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 539.3,
+   "end": 542.44,
+   "text": "One noble granted another land and protection, and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 542.44,
+   "end": 545.46,
+   "text": "expected in return his fealty and military service.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 546.32,
+   "end": 549.76,
+   "text": "Kingdoms were becoming complex networks of personal relationships",
+   "gap_after": 0.0
+  },
+  {
+   "start": 549.76,
+   "end": 551.12,
+   "text": "and mutual obligations.",
+   "gap_after": 1.14
+  },
+  {
+   "start": 552.26,
+   "end": 554.56,
+   "text": "Kings were often weak, and could be easily",
+   "gap_after": 0.0
+  },
+  {
+   "start": 554.56,
+   "end": 556.6,
+   "text": "overshadowed by their strong vassals.",
+   "gap_after": 1.22
+  },
+  {
+   "start": 557.82,
+   "end": 561.22,
+   "text": "This is often described as the feudal system.",
+   "gap_after": 1.02
+  },
+  {
+   "start": 562.24,
+   "end": 565.52,
+   "text": "Centuries would pass before centralized states would emerge",
+   "gap_after": 0.0
+  },
+  {
+   "start": 565.52,
+   "end": 566.72,
+   "text": "again in the West.",
+   "gap_after": 5.5
+  },
+  {
+   "start": 572.22,
+   "end": 575.82,
+   "text": "In the 10th century, things started to change.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 576.7,
+   "end": 581.3,
+   "text": "Better climate increased agricultural yield, external invasions ceased",
+   "gap_after": 0.0
+  },
+  {
+   "start": 581.3,
+   "end": 583.96,
+   "text": "as Vikings and Hungarians settled down and were",
+   "gap_after": 0.0
+  },
+  {
+   "start": 583.96,
+   "end": 587.4,
+   "text": "absorbed into Western Christendom, and in some regions,",
+   "gap_after": 0.38
+  },
+  {
+   "start": 587.78,
+   "end": 589.56,
+   "text": "royal authority was gaining ground.",
+   "gap_after": 1.39
+  },
+  {
+   "start": 590.95,
+   "end": 593.52,
+   "text": "In Britain, King Alfred the Great and his",
+   "gap_after": 0.0
+  },
+  {
+   "start": 593.52,
+   "end": 597.68,
+   "text": "successors unified the various Anglo-Saxon realms, creating",
+   "gap_after": 0.0
+  },
+  {
+   "start": 597.68,
+   "end": 599.84,
+   "text": "the Kingdom of England for the first time.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 601.0,
+   "end": 605.5,
+   "text": "In West Francia, while political fragmentation continued, Vikings",
+   "gap_after": 0.0
+  },
+  {
+   "start": 605.5,
+   "end": 607.92,
+   "text": "who settled in the north swore loyalty to",
+   "gap_after": 0.0
+  },
+  {
+   "start": 607.92,
+   "end": 608.74,
+   "text": "the Frankish king.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 609.6,
+   "end": 612.66,
+   "text": "They became French Christians, known as the Normans.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 613.52,
+   "end": 616.36,
+   "text": "The Duchy of Normandy created a buffer against",
+   "gap_after": 0.0
+  },
+  {
+   "start": 616.36,
+   "end": 617.16,
+   "text": "other raiders.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 617.9,
+   "end": 621.44,
+   "text": "In East Francia, Otto I, King of the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 621.44,
+   "end": 624.36,
+   "text": "Germans, managed to defeat the Hungarians in the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 624.36,
+   "end": 627.7,
+   "text": "Battle of Lechfeld in 955, putting an end",
+   "gap_after": 0.0
+  },
+  {
+   "start": 627.7,
+   "end": 629.22,
+   "text": "to the invasions from the east.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 630.1,
+   "end": 633.64,
+   "text": "The settled Hungarians eventually established a Christian kingdom",
+   "gap_after": 0.0
+  },
+  {
+   "start": 633.64,
+   "end": 634.36,
+   "text": "of their own.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 635.24,
+   "end": 638.04,
+   "text": "The victorious Otto the Great was crowned emperor",
+   "gap_after": 0.0
+  },
+  {
+   "start": 638.04,
+   "end": 639.14,
+   "text": "in 962.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 640.02,
+   "end": 642.92,
+   "text": "Europe had an empire once again, this time",
+   "gap_after": 0.0
+  },
+  {
+   "start": 642.92,
+   "end": 643.8,
+   "text": "a German one.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 643.8,
+   "end": 646.7,
+   "text": "It was later known as the Holy Roman",
+   "gap_after": 0.0
+  },
+  {
+   "start": 646.7,
+   "end": 647.24,
+   "text": "Empire.",
+   "gap_after": 1.22
+  },
+  {
+   "start": 648.46,
+   "end": 652.08,
+   "text": "After centuries of turmoil, Europe was finally gaining",
+   "gap_after": 0.0
+  },
+  {
+   "start": 652.08,
+   "end": 655.56,
+   "text": "stability and confidence, ready to change course.",
+   "gap_after": 3.07
+  },
+  {
+   "start": 658.63,
+   "end": 661.21,
+   "text": "The year 1000 marks a turning point in",
+   "gap_after": 0.0
+  },
+  {
+   "start": 661.21,
+   "end": 664.75,
+   "text": "European history, ushering in 300 years of growth",
+   "gap_after": 0.0
+  },
+  {
+   "start": 664.75,
+   "end": 665.61,
+   "text": "and prosperity.",
+   "gap_after": 4.04
+  },
+  {
+   "start": 669.65,
+   "end": 673.39,
+   "text": "Better climate, combined with new technologies and techniques,",
+   "gap_after": 0.5
+  },
+  {
+   "start": 673.89,
+   "end": 675.77,
+   "text": "led to an agricultural revolution.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 675.77,
+   "end": 680.41,
+   "text": "Europeans produced more food, resulting in population growth.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 681.19,
+   "end": 683.97,
+   "text": "New villages and towns were established, and existing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 683.97,
+   "end": 684.97,
+   "text": "ones expanded.",
+   "gap_after": 1.18
+  },
+  {
+   "start": 686.15,
+   "end": 689.05,
+   "text": "Throughout Europe, forests were cleared as more and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 689.05,
+   "end": 690.89,
+   "text": "more land came under cultivation.",
+   "gap_after": 1.62
+  },
+  {
+   "start": 692.51,
+   "end": 696.51,
+   "text": "This enabled immense economic expansion and commercial revival.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 697.41,
+   "end": 700.97,
+   "text": "Bustling trade networks fed a massive urbanization process.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 701.83,
+   "end": 705.11,
+   "text": "Old and new cities grew larger, becoming international",
+   "gap_after": 0.0
+  },
+  {
+   "start": 705.11,
+   "end": 707.15,
+   "text": "hubs for a new class of merchants.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 708.11,
+   "end": 711.11,
+   "text": "These merchants won their independence from feudal landowners,",
+   "gap_after": 0.54
+  },
+  {
+   "start": 711.65,
+   "end": 713.35,
+   "text": "forming self-governing cities.",
+   "gap_after": 1.08
+  },
+  {
+   "start": 714.43,
+   "end": 717.13,
+   "text": "This was most evident in Italy, where merchants",
+   "gap_after": 0.0
+  },
+  {
+   "start": 717.13,
+   "end": 719.07,
+   "text": "revived the Mediterranean trade.",
+   "gap_after": 1.44
+  },
+  {
+   "start": 720.51,
+   "end": 724.69,
+   "text": "As quality of life improved, art, architecture and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 724.69,
+   "end": 725.67,
+   "text": "music flourished.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 725.67,
+   "end": 729.59,
+   "text": "Europe was becoming increasingly literate, and the first",
+   "gap_after": 0.0
+  },
+  {
+   "start": 729.59,
+   "end": 732.59,
+   "text": "universities were founded under the auspices of the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 732.59,
+   "end": 732.97,
+   "text": "Church.",
+   "gap_after": 0.84
+  },
+  {
+   "start": 733.81,
+   "end": 737.69,
+   "text": "European intellectuals initiated a new renaissance, based on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 737.69,
+   "end": 740.51,
+   "text": "the rediscovery and revival of ancient knowledge.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 741.43,
+   "end": 744.37,
+   "text": "But Europeans were not only conquering internal frontiers,",
+   "gap_after": 0.36
+  },
+  {
+   "start": 744.73,
+   "end": 746.47,
+   "text": "they were also pushing outward.",
+   "gap_after": 5.64
+  },
+  {
+   "start": 752.11,
+   "end": 755.67,
+   "text": "During the Central Middle Ages, aristocrats from the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 755.67,
+   "end": 759.93,
+   "text": "Carolingian heartland conquered and colonized new territories, pushing",
+   "gap_after": 0.0
+  },
+  {
+   "start": 759.93,
+   "end": 761.89,
+   "text": "the boundaries of Western Christendom.",
+   "gap_after": 1.12
+  },
+  {
+   "start": 763.01,
+   "end": 766.31,
+   "text": "This process, described as the Europeanization of Europe,",
+   "gap_after": 0.6
+  },
+  {
+   "start": 766.91,
+   "end": 770.59,
+   "text": "resulted in an expanded and more homogenous civilization.",
+   "gap_after": 2.16
+  },
+  {
+   "start": 772.75,
+   "end": 776.37,
+   "text": "In 1066, William the Conqueror, Duke of Normandy,",
+   "gap_after": 0.46
+  },
+  {
+   "start": 776.83,
+   "end": 777.67,
+   "text": "invaded England.",
+   "gap_after": 0.68
+  },
+  {
+   "start": 778.35,
+   "end": 780.45,
+   "text": "In the Battle of Hastings, he delivered a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 780.45,
+   "end": 782.55,
+   "text": "decisive blow to the Anglo-Saxons.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 782.55,
+   "end": 786.51,
+   "text": "England was transformed into a Norman stronghold.",
+   "gap_after": 1.6
+  },
+  {
+   "start": 788.11,
+   "end": 790.63,
+   "text": "In Iberia, the Christian kingdoms of the north",
+   "gap_after": 0.0
+  },
+  {
+   "start": 790.63,
+   "end": 793.79,
+   "text": "fought the Muslims to their south, gradually extending",
+   "gap_after": 0.0
+  },
+  {
+   "start": 793.79,
+   "end": 795.53,
+   "text": "their control over the peninsula.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 796.49,
+   "end": 798.47,
+   "text": "This was viewed as a reconquest.",
+   "gap_after": 1.24
+  },
+  {
+   "start": 799.71,
+   "end": 803.29,
+   "text": "In southern Italy and Sicily, Norman warriors conquered",
+   "gap_after": 0.0
+  },
+  {
+   "start": 803.29,
+   "end": 805.71,
+   "text": "vast territories from the Byzantines and Muslims.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 806.49,
+   "end": 809.11,
+   "text": "They allied with the Pope and established another",
+   "gap_after": 0.0
+  },
+  {
+   "start": 809.11,
+   "end": 809.95,
+   "text": "Norman kingdom.",
+   "gap_after": 1.32
+  },
+  {
+   "start": 811.27,
+   "end": 815.95,
+   "text": "In Eastern Europe, German aristocrats and peasants gradually",
+   "gap_after": 0.0
+  },
+  {
+   "start": 815.95,
+   "end": 818.89,
+   "text": "moved eastward, settling on Slavic lands.",
+   "gap_after": 1.36
+  },
+  {
+   "start": 820.25,
+   "end": 823.51,
+   "text": "But Europeans were casting their gaze further still.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 824.15,
+   "end": 827.53,
+   "text": "In 1095, Pope Urban II called on Christian",
+   "gap_after": 0.0
+  },
+  {
+   "start": 827.53,
+   "end": 830.47,
+   "text": "warriors to liberate Jerusalem and other holy sites",
+   "gap_after": 0.0
+  },
+  {
+   "start": 830.47,
+   "end": 832.79,
+   "text": "from the hands of Muslim infidels.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 833.95,
+   "end": 837.49,
+   "text": "Crusader armies swarmed to the east, establishing several",
+   "gap_after": 0.0
+  },
+  {
+   "start": 837.49,
+   "end": 839.93,
+   "text": "states on the shores of the Mediterranean Sea.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 840.73,
+   "end": 843.27,
+   "text": "These states proved to be a weak western",
+   "gap_after": 0.0
+  },
+  {
+   "start": 843.27,
+   "end": 843.83,
+   "text": "outpost.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 844.57,
+   "end": 846.51,
+   "text": "Over the course of 200 years, they were",
+   "gap_after": 0.0
+  },
+  {
+   "start": 846.51,
+   "end": 848.27,
+   "text": "reconquered by Muslim forces.",
+   "gap_after": 0.98
+  },
+  {
+   "start": 849.25,
+   "end": 851.85,
+   "text": "Nevertheless, they signaled an important message.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 852.49,
+   "end": 854.23,
+   "text": "The Catholic Church had awakened.",
+   "gap_after": 5.75
+  },
+  {
+   "start": 859.98,
+   "end": 862.76,
+   "text": "In the early Middle Ages, the Pope was",
+   "gap_after": 0.0
+  },
+  {
+   "start": 862.76,
+   "end": 865.54,
+   "text": "weak, holding little influence outside Italy.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 866.26,
+   "end": 868.26,
+   "text": "The Church was a loose network of priests",
+   "gap_after": 0.0
+  },
+  {
+   "start": 868.26,
+   "end": 871.76,
+   "text": "and monks, appointed and controlled by local aristocrats.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 872.56,
+   "end": 875.76,
+   "text": "In the 10th and 11th centuries, a movement",
+   "gap_after": 0.0
+  },
+  {
+   "start": 875.76,
+   "end": 878.9,
+   "text": "emerged set on reforming the Church and society",
+   "gap_after": 0.0
+  },
+  {
+   "start": 878.9,
+   "end": 879.5,
+   "text": "as a whole.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 880.42,
+   "end": 882.9,
+   "text": "The reformers demanded to free the Church from",
+   "gap_after": 0.0
+  },
+  {
+   "start": 882.9,
+   "end": 885.46,
+   "text": "the world, to extract it from the influence",
+   "gap_after": 0.0
+  },
+  {
+   "start": 885.46,
+   "end": 887.9,
+   "text": "of kings and nobles, and rebuild it as",
+   "gap_after": 0.0
+  },
+  {
+   "start": 887.9,
+   "end": 888.86,
+   "text": "a papal monarchy.",
+   "gap_after": 1.46
+  },
+  {
+   "start": 890.32,
+   "end": 894.56,
+   "text": "Pope Gregory VII, an enthusiastic reformer, clashed with",
+   "gap_after": 0.0
+  },
+  {
+   "start": 894.56,
+   "end": 897.66,
+   "text": "the Holy Roman Emperor Henry IV over the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 897.66,
+   "end": 899.98,
+   "text": "authority of appointing bishops in the empire.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 899.98,
+   "end": 903.38,
+   "text": "The first round of conflict ended with Henry",
+   "gap_after": 0.0
+  },
+  {
+   "start": 903.38,
+   "end": 905.88,
+   "text": "waiting for three days in the snow outside",
+   "gap_after": 0.0
+  },
+  {
+   "start": 905.88,
+   "end": 908.8,
+   "text": "a fortress at Canossa, begging for the Pope's",
+   "gap_after": 0.0
+  },
+  {
+   "start": 908.8,
+   "end": 909.18,
+   "text": "forgiveness.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 910.08,
+   "end": 913.16,
+   "text": "The second round, however, ended as Henry invaded",
+   "gap_after": 0.0
+  },
+  {
+   "start": 913.16,
+   "end": 916.24,
+   "text": "and appointed his own Pope, forcing Gregory into",
+   "gap_after": 0.0
+  },
+  {
+   "start": 916.24,
+   "end": 916.66,
+   "text": "exile.",
+   "gap_after": 1.14
+  },
+  {
+   "start": 917.8,
+   "end": 919.98,
+   "text": "Although it seemed as if the Emperor had",
+   "gap_after": 0.0
+  },
+  {
+   "start": 919.98,
+   "end": 922.7,
+   "text": "won, in the 12th century it became clear",
+   "gap_after": 0.0
+  },
+  {
+   "start": 922.7,
+   "end": 925.06,
+   "text": "that the papacy and the reform were victorious.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 926.16,
+   "end": 929.4,
+   "text": "The Church had become a robust, centralized, hierarchical",
+   "gap_after": 0.0
+  },
+  {
+   "start": 929.4,
+   "end": 930.04,
+   "text": "organization.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 930.78,
+   "end": 934.14,
+   "text": "With elaborate administrative and legal systems and immense",
+   "gap_after": 0.0
+  },
+  {
+   "start": 934.14,
+   "end": 937.06,
+   "text": "resources, its power stretched across Europe.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 937.82,
+   "end": 939.52,
+   "text": "At the top of the pyramid was the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 939.52,
+   "end": 942.74,
+   "text": "Pope, ruling the Church as an absolute monarch.",
+   "gap_after": 1.46
+  },
+  {
+   "start": 944.2,
+   "end": 947.58,
+   "text": "As Popes grew stronger, kings were left envious.",
+   "gap_after": 0.7
+  },
+  {
+   "start": 948.28,
+   "end": 949.72,
+   "text": "Then they followed suit.",
+   "gap_after": 5.39
+  },
+  {
+   "start": 955.11,
+   "end": 958.25,
+   "text": "The power of medieval kings was constrained by",
+   "gap_after": 0.0
+  },
+  {
+   "start": 958.25,
+   "end": 959.53,
+   "text": "the armed aristocracy.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 959.53,
+   "end": 963.37,
+   "text": "During the Central Middle Ages, their numbers vastly",
+   "gap_after": 0.0
+  },
+  {
+   "start": 963.37,
+   "end": 967.05,
+   "text": "increased and castles were multiplied, with wood being",
+   "gap_after": 0.0
+  },
+  {
+   "start": 967.05,
+   "end": 970.25,
+   "text": "replaced by stone and designs getting bigger and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 970.25,
+   "end": 970.67,
+   "text": "stronger.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 971.63,
+   "end": 975.13,
+   "text": "Aristocratic lifestyle and culture underwent refinement with the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 975.13,
+   "end": 978.07,
+   "text": "advent of the Christian knight ideal and the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 978.07,
+   "end": 980.11,
+   "text": "code of conduct known as chivalry.",
+   "gap_after": 1.1
+  },
+  {
+   "start": 981.21,
+   "end": 984.15,
+   "text": "But at the same time, aristocrats in some",
+   "gap_after": 0.0
+  },
+  {
+   "start": 984.15,
+   "end": 986.87,
+   "text": "regions were faced with the emergence of stronger",
+   "gap_after": 0.0
+  },
+  {
+   "start": 986.87,
+   "end": 988.01,
+   "text": "kings and kingdoms.",
+   "gap_after": 1.52
+  },
+  {
+   "start": 989.53,
+   "end": 992.87,
+   "text": "In England, the Anglo-Norman dynasty formed a",
+   "gap_after": 0.0
+  },
+  {
+   "start": 992.87,
+   "end": 996.23,
+   "text": "small and consolidated state, free of the feudal",
+   "gap_after": 0.0
+  },
+  {
+   "start": 996.23,
+   "end": 997.95,
+   "text": "mess abundant on the continent.",
+   "gap_after": 1.26
+  },
+  {
+   "start": 999.21,
+   "end": 1002.07,
+   "text": "In Iberia, the reconquest of land from the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1002.07,
+   "end": 1006.29,
+   "text": "Muslims strengthened the Christian kings, enabling centralized states",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1006.29,
+   "end": 1006.99,
+   "text": "to emerge.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 1008.15,
+   "end": 1011.43,
+   "text": "In France, the kings of the Capetian dynasty",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1011.43,
+   "end": 1015.55,
+   "text": "gradually expanded their personal domains, enabling a functioning",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1015.55,
+   "end": 1017.21,
+   "text": "state to form there as well.",
+   "gap_after": 1.06
+  },
+  {
+   "start": 1018.27,
+   "end": 1021.41,
+   "text": "However, in the Holy Roman Empire, the exact",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1021.41,
+   "end": 1022.49,
+   "text": "opposite occurred.",
+   "gap_after": 0.859
+  },
+  {
+   "start": 1023.349,
+   "end": 1026.95,
+   "text": "The once mighty empire disintegrated, forming a mosaic",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1026.95,
+   "end": 1028.22,
+   "text": "of autonomous principalities.",
+   "gap_after": 1.49
+  },
+  {
+   "start": 1029.71,
+   "end": 1033.45,
+   "text": "Emperor Frederick Barbarossa attempted to restore the empire's",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1033.45,
+   "end": 1035.03,
+   "text": "former glory, but failed.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 1035.95,
+   "end": 1038.869,
+   "text": "The title of emperor, now bestowed by electors,",
+   "gap_after": 0.5
+  },
+  {
+   "start": 1039.369,
+   "end": 1040.43,
+   "text": "became an empty one.",
+   "gap_after": 1.76
+  },
+  {
+   "start": 1042.19,
+   "end": 1045.93,
+   "text": "The Central Middle Ages saw an agricultural revolution,",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1045.93,
+   "end": 1050.75,
+   "text": "urbanization, expansion, stronger popes, stronger kings, and vibrant",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1050.75,
+   "end": 1051.29,
+   "text": "culture.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 1052.07,
+   "end": 1056.13,
+   "text": "But around 1300, the climate worsened, growth halted,",
+   "gap_after": 0.16
+  },
+  {
+   "start": 1056.29,
+   "end": 1057.17,
+   "text": "and famine spread.",
+   "gap_after": 0.68
+  },
+  {
+   "start": 1057.85,
+   "end": 1059.77,
+   "text": "A great calamity was approaching.",
+   "gap_after": 7.96
+  },
+  {
+   "start": 1067.73,
+   "end": 1071.33,
+   "text": "The 14th century marks a watershed in European",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1071.33,
+   "end": 1071.85,
+   "text": "history.",
+   "gap_after": 0.74
+  },
+  {
+   "start": 1072.59,
+   "end": 1076.09,
+   "text": "In 1347, a global plague, now known as",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1076.09,
+   "end": 1078.11,
+   "text": "the Black Death, reached Europe.",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1078.11,
+   "end": 1081.79,
+   "text": "It rapidly spread across the continent, and within",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1081.79,
+   "end": 1084.63,
+   "text": "a few short years killed approximately one-third",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1084.63,
+   "end": 1085.53,
+   "text": "of the population.",
+   "gap_after": 0.92
+  },
+  {
+   "start": 1086.45,
+   "end": 1089.17,
+   "text": "It was an unprecedented demographic disaster.",
+   "gap_after": 0.76
+  },
+  {
+   "start": 1089.93,
+   "end": 1092.09,
+   "text": "Entire settlements were wiped off the map.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1093.09,
+   "end": 1096.03,
+   "text": "Recurrent outbreaks of the plague would continue striking",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1096.03,
+   "end": 1097.33,
+   "text": "Europe for centuries.",
+   "gap_after": 1.96
+  },
+  {
+   "start": 1099.29,
+   "end": 1103.21,
+   "text": "However, during the 14th and 15th centuries, Europe",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1103.21,
+   "end": 1103.71,
+   "text": "recovered.",
+   "gap_after": 0.64
+  },
+  {
+   "start": 1104.35,
+   "end": 1108.43,
+   "text": "And for some survivors, it was still grim.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 1109.31,
+   "end": 1112.87,
+   "text": "As the population dropped, land became widely available,",
+   "gap_after": 0.6
+  },
+  {
+   "start": 1113.47,
+   "end": 1115.49,
+   "text": "and the demand for labor rose dramatically.",
+   "gap_after": 0.96
+  },
+  {
+   "start": 1116.45,
+   "end": 1119.17,
+   "text": "The bargaining power of peasants and workers increased,",
+   "gap_after": 0.4
+  },
+  {
+   "start": 1119.57,
+   "end": 1121.37,
+   "text": "and they demanded improved conditions.",
+   "gap_after": 1.22
+  },
+  {
+   "start": 1122.59,
+   "end": 1125.97,
+   "text": "When elites refused, revolts erupted across Europe.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1126.97,
+   "end": 1129.07,
+   "text": "Nearly all of them were brutally suppressed.",
+   "gap_after": 0.9
+  },
+  {
+   "start": 1129.97,
+   "end": 1132.19,
+   "text": "Yet, in the long run, change was inevitable.",
+   "gap_after": 5.92
+  },
+  {
+   "start": 1138.11,
+   "end": 1139.05,
+   "text": "People demanded higher wages.",
+   "gap_after": 2.06
+  },
+  {
+   "start": 1141.11,
+   "end": 1142.89,
+   "text": "Out of the darkness of the great plague,",
+   "gap_after": 0.24
+  },
+  {
+   "start": 1143.13,
+   "end": 1144.25,
+   "text": "creativity emerged.",
+   "gap_after": 0.56
+  },
+  {
+   "start": 1144.81,
+   "end": 1147.59,
+   "text": "Technological innovation brought forth the wind and water",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1147.59,
+   "end": 1151.05,
+   "text": "mills, eyeglasses, new techniques for metal production and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1151.05,
+   "end": 1153.51,
+   "text": "processing, and, of course, the printing press.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1154.51,
+   "end": 1157.55,
+   "text": "In the quickly recovering cities, new cultural trends",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1157.55,
+   "end": 1158.11,
+   "text": "flourished.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 1158.83,
+   "end": 1161.83,
+   "text": "A new renaissance thrived in Italy, set on",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1161.83,
+   "end": 1165.01,
+   "text": "reviving and surpassing the cultural achievements of ancient",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1165.01,
+   "end": 1166.07,
+   "text": "Greece and Rome.",
+   "gap_after": 2.04
+  },
+  {
+   "start": 1168.11,
+   "end": 1169.63,
+   "text": "They developed a new outlook on the world",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1169.63,
+   "end": 1171.65,
+   "text": "and on man's place within it.",
+   "gap_after": 0.86
+  },
+  {
+   "start": 1172.51,
+   "end": 1175.21,
+   "text": "They defined the past millennium as dark ages,",
+   "gap_after": 0.64
+  },
+  {
+   "start": 1175.85,
+   "end": 1178.75,
+   "text": "and so positioned themselves as the transition between",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1178.75,
+   "end": 1180.53,
+   "text": "the medieval and modern world.",
+   "gap_after": 5.97
+  },
+  {
+   "start": 1186.5,
+   "end": 1189.86,
+   "text": "In the late 14th and 15th centuries, gunpowder",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1189.86,
+   "end": 1191.56,
+   "text": "transformed European warfare.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 1192.28,
+   "end": 1194.24,
+   "text": "The bravest knight could be shot down by",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1194.24,
+   "end": 1203.38,
+   "text": "simple infantrymen and the new infantry and artillery",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1203.38,
+   "end": 1206.32,
+   "text": "armies was a costly affair, which only kings",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1206.32,
+   "end": 1207.08,
+   "text": "could manage.",
+   "gap_after": 0.78
+  },
+  {
+   "start": 1207.86,
+   "end": 1209.88,
+   "text": "As they strove to monopolize the use of",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1209.88,
+   "end": 1213.48,
+   "text": "force within their territories, kings consolidated their power",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1213.48,
+   "end": 1216.4,
+   "text": "and asserted their authority over the aristocracy.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 1217.44,
+   "end": 1220.82,
+   "text": "These nobles, who lost their military superiority, began",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1220.82,
+   "end": 1223.68,
+   "text": "serving their rulers as administrators and courtiers.",
+   "gap_after": 0.72
+  },
+  {
+   "start": 1224.4,
+   "end": 1226.08,
+   "text": "The sovereign state was emerging.",
+   "gap_after": 5.78
+  },
+  {
+   "start": 1231.86,
+   "end": 1233.58,
+   "text": "It was constantly put to the test.",
+   "gap_after": 1.28
+  },
+  {
+   "start": 1234.86,
+   "end": 1237.32,
+   "text": "The Hundred Years' War, waged between England and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1237.32,
+   "end": 1239.82,
+   "text": "France, devastated the French countryside.",
+   "gap_after": 0.94
+  },
+  {
+   "start": 1240.76,
+   "end": 1243.04,
+   "text": "The war's course was reversed by a peasant",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1243.04,
+   "end": 1246.3,
+   "text": "girl, Joan of Arc, who rallied French troops",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1246.3,
+   "end": 1247.3,
+   "text": "against the English.",
+   "gap_after": 0.8
+  },
+  {
+   "start": 1248.1,
+   "end": 1250.4,
+   "text": "Eventually, England was pushed out of France.",
+   "gap_after": 1.6
+  },
+  {
+   "start": 1252.0,
+   "end": 1255.02,
+   "text": "In Iberia, the marriage of Ferdinand of Aragon",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1255.02,
+   "end": 1258.38,
+   "text": "and Isabella of Castile led to the emergence",
+   "gap_after": 3.48
+  },
+  {
+   "start": 1261.86,
+   "end": 1264.78,
+   "text": "of the conquered Granada, the last Muslim stronghold",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1264.78,
+   "end": 1265.6,
+   "text": "in the peninsula.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 1266.64,
+   "end": 1269.68,
+   "text": "These developments lay the foundations for the modern",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1269.68,
+   "end": 1272.46,
+   "text": "nation-states of England, France and Spain.",
+   "gap_after": 0.88
+  },
+  {
+   "start": 1273.34,
+   "end": 1275.98,
+   "text": "Other regions, such as Germany and Italy, would",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1275.98,
+   "end": 1278.48,
+   "text": "have to wait several centuries for their unification.",
+   "gap_after": 5.82
+  },
+  {
+   "start": 1284.3,
+   "end": 1286.7,
+   "text": "As the Middle Ages came to a close,",
+   "gap_after": 0.5
+  },
+  {
+   "start": 1287.2,
+   "end": 1296.94,
+   "text": "Europe had not only but almost shifted outward.",
+   "gap_after": 1.04
+  },
+  {
+   "start": 1297.98,
+   "end": 1301.5,
+   "text": "By 1500, Portugal had traversed Africa and the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1301.5,
+   "end": 1304.34,
+   "text": "Indian Ocean, opening up commercial routes to the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1304.34,
+   "end": 1308.02,
+   "text": "Far East, while Spain turned westward, crossing the",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1308.02,
+   "end": 1310.18,
+   "text": "Atlantic Ocean and reaching the Americas.",
+   "gap_after": 1.0
+  },
+  {
+   "start": 1311.18,
+   "end": 1315.26,
+   "text": "Columbus' voyage in 1492 is sometimes considered to",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1315.26,
+   "end": 1317.24,
+   "text": "mark the end of the Middle Ages and",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1317.24,
+   "end": 1318.76,
+   "text": "the beginning of the modern era.",
+   "gap_after": 1.16
+  },
+  {
+   "start": 1319.92,
+   "end": 1326.12,
+   "text": "Over the next centuries, European expansion has changed",
+   "gap_after": 0.0
+  },
+  {
+   "start": 1326.12,
+   "end": 1327.66,
+   "text": "the world we live in today.",
+   "gap_after": null
+  }
+ ]
+}
