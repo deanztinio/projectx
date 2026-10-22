@@ -55,8 +55,7 @@ dnz makes the thumbnails; Claude pitches the idea + 2-3 rough mockups (master pr
   is part of our own identity: pick it in the design test. (both thumbs)
 - Bright and saturated overall (mean brightness 133-149 of 255). No narrator face, no clickbait arrows
   or circles, no question marks, no extra words. (both thumbs)
-- First frame vs thumbnail: How-So does not copy the thumbnail into the first frame (REF-A 0:00).
-  The channel-1 rule "first frame matches the thumbnail" stays a candidate for dnz to decide.
+- First frame vs thumbnail: the first frame does NOT copy the thumbnail (REF-A 0:00; dnz 2026-10-22).
 
 ## Look
 ### Palette (sampled from the references)
@@ -198,7 +197,7 @@ dnz makes the thumbnails; Claude pitches the idea + 2-3 rough mockups (master pr
 - People and objects: real museum pieces, public domain or CC0 photos (Wikimedia Commons images
   download fine from the cloud; Met, Smithsonian and Cleveland sites are blocked here), cut out.
 - Paintings: public domain, darkened or tinted to match, slow pans. (REF-A 1:03, 18:53)
-- Third-party clips: none in the references, so none planned.
+- Third-party clips: none (dnz 2026-10-22).
 - Modern people: a labelled PHOTO SLOT for dnz (TECH_GOTCHAS).
 
 ## Sound
@@ -221,6 +220,18 @@ dnz makes the thumbnails; Claude pitches the idea + 2-3 rough mockups (master pr
   5. "Ancient Middle Eastern ambient, duduk and strings"
 - SFX and foley: not studied yet, by dnz's choice (2026-10-22). Rules from the master prompt apply.
 - NEVER: the same loud whoosh every few seconds.
+
+## Channel 1 lessons: dnz's verdict (dnz 2026-10-22, after the reference study)
+- KEEP: something meaningful always moves and the visuals illustrate the VO (REF-A/REF-B motion data).
+- KEEP: when a place is named, show it on the map (REF-A 3:05).
+- CHANGED: dates do NOT get their own beat; they live in the top-left date badge and on chapter cards (REF-A 0:20, REF-B 10:12).
+- KEEP: on-screen text never repeats the VO; it only names places, people, terms.
+- KEEP: never cut to a redrawn copy of the same scene; move the camera and animate the change (REF-A 10:31).
+- KEEP: chapter signposts + progress indicator (era bar, badge progress bar).
+- CHANGED: public-domain paintings get NO captions; only people get a name tag (REF-A 1:03, 4:01).
+- DROPPED: third-party clip slots (How-So uses no clips).
+- KEEP: say the topic in the first line (REF-A 0:00, REF-B 0:00); one bridge line at each chapter end (REF-A 7:58).
+- DROPPED: "first frame matches the thumbnail" and "lead with the hardest fact"; open on a moving map with a big-picture line (REF-A 0:00, REF-B 0:00).
 
 ## Never
 - The AI default slop look (see master prompt §9).
