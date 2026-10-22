@@ -1,0 +1,9 @@
+node_modules/
+out/
+renders/
+references/
+.env
+*.mp4
+*.mov
+*.wav
+*.mp3
