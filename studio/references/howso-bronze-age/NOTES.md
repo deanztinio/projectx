@@ -5,6 +5,12 @@ Source: https://www.youtube.com/watch?v=IpyAEDPa4Nw · PC copy: `D:\01 CLAUDE\PR
 · Channel: How-So (@How-So), about 90K subscribers, two creators
 · Views: 327K after about 2 months (dnz, from YouTube, 2026-10-22), so about 1x the channel median. Not an outlier yet, although it is their most polished video. The broad, famous topics did about 10x better (Medieval Europe 3.6M after 1 year, The Islamic World about 3.5M after 3 years). Part of the gap is age, but Bronze Age would need a very long tail to catch up. Topic choice matters as much as polish.
 
+## YouTube data (API, 2026-10-22 07:06 UTC)
+- 327,142 views, 6,774 likes (2.1% of views, the same like rate as REF-A), 400 comments. Published 2026-07-23 11:56 UTC (a Thursday). API length 22:11.
+- Description: one-sentence summary ("A bird's-eye view of the ancient Near East - from ... to the Bronze Age collapse."), the chapter list, "Main Sources", then "Music: Universal Production Music, Epidemic Sound" (so not Epidemic only this time).
+- Chapters in the description: 00:00 Intro, 00:52 Agricultural Revolution, 02:35 Urban Revolution and the Dawn of History, 06:51 Sumer and the Old Kingdom of Egypt, 09:48 Akkadian and Ur Empires, 12:32 Amorites and the Middle Kingdom of Egypt, 15:58 Age of Empires and the New Kingdom of Egypt, 19:32 Bronze Age Collapse, 21:28 The Way Ahead. That is a 52 s intro, a 1:43 prologue, the 6 era chapters this file counts, and a 43 s outro. It matches the era cards.
+- Sources: Van De Mieroop, A History of the Ancient Near East and A History of Ancient Egypt; Liverani, The Ancient Near East; Brill's Historical Atlas of the Ancient World (likely the reference for the maps).
+
 Studied 2026-10-22 at max effort. Compare with REF-A (`../howso-medieval/NOTES.md`): same system, newer and more 3D.
 
 ## Files in this folder

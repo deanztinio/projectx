@@ -211,7 +211,7 @@ dnz makes the thumbnails; Claude pitches the idea + 2-3 rough mockups (master pr
   the master prompt: -14 LUFS, -1.5 dBTP.
 - Music is dnz's. Style: continuous cinematic orchestral / ambient bed under the voice; at chapter
   cards it either swells briefly (REF-A 12:26, 17:39, 20:26) or drops to near silence (REF-B 6:50,
-  15:58). Epidemic Sound is what How-So credits.
+  15:58). Epidemic Sound is what How-So credits (REF-B also credits Universal Production Music).
 - Epidemic search prompts (short, generic):
   1. "Cinematic documentary underscore, slow build"
   2. "Ambient orchestral strings, history documentary"

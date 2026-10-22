@@ -5,6 +5,13 @@ Source: https://www.youtube.com/watch?v=8VPPQAcac6U · PC copy: `D:\01 CLAUDE\PR
 · Channel: How-So (@How-So), about 90K subscribers, run by "two guys handcrafting these videos" (their own reply on the Islamic World video)
 · Views: 3.6M after about 1 year (dnz, from YouTube, 2026-10-22). 1of10 outlier score: **11.2x** (found by the First video research thread; my channel search missed it). Against the channel's 5 public long videos (median about 327K views) this video is about **11x**. It is the channel's biggest video.
 
+## YouTube data (API, 2026-10-22 07:06 UTC)
+- 3,631,807 views, 74,612 likes (2.1% of views), 3,242 comments. Published 2025-08-25 12:50 UTC (a Monday). API length 22:25.
+- Description: a one-sentence summary of the arc ("The entire story of the European Middle Ages in one short video - from ... to ..."), then the chapter list, then "Select sources and further reading", then "Music and sound effects: epidemicsound.com".
+- Chapters in the description: 00:00 Intro, 00:19 Romans, Christians, Barbarians, 02:43 Germanic Kingdoms, 03:53 Heirs of Rome, 05:16 Carolingian Empire, 06:36 Disintegration, 07:59 Rise of Feudalism, 09:28 Changing Tides, 10:56 Growth, 12:27 Expansion, 14:15 The Church, 15:50 Nobles and Kings, 17:42 Black Death, 19:41 Warfare and State, 21:19 The Way Ahead. That is a 19 s intro, a 2:24 prologue, the 12 numbered chapters this file counts, and a 1 min outro. It matches the chapter cards.
+- Sources: Bennett, Medieval Europe: A Short History; Rosenwein, A Short History of the Middle Ages; Bartlett, The Making of Europe; Bloch, Feudal Society; one Hebrew book (Kleinberg). So the script is built from 4-5 standard survey books.
+- Sister video for comparison: "The Islamic World: 1000 Years in 18 Minutes" (MpcgXTnd_74), 3,472,356 views, published 2023-08-02, length 18:55, same description layout (summary, chapters, 5 sources, Epidemic Sound + one composer credit).
+
 Studied 2026-10-22 at max effort. dnz's brief: copy everything from this channel except the logo and the voice.
 
 ## Files in this folder
