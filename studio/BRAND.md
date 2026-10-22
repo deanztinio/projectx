@@ -17,9 +17,10 @@ the voice and the channel name are our own. (dnz 2026-10-22)
   effect, on maps that move. (dnz 2026-10-22: "I feel like I really understand because of the
   animation in the map")
 - Title format: **"<Era or region>: <N> Years in <M> Minutes"**. (REF-A, REF-B titles. Their two big format
-  videos got about 3.5M views each; their plain titles got 35K-117K.)
-- Topic lesson: broad, famous eras win. Medieval Europe about 3.6M and The Islamic World about 3.5M,
-  but The Bronze Age (more polished, narrower topic) about 0.3M. (REF-B header)
+  videos got about 3.5M views each; their plain titles got 35K-117K.) Thumbnail rules: see Packaging.
+- Topic lesson: broad, famous eras win. Medieval Europe 3.6M after 1 year and The Islamic World
+  about 3.5M, but The Bronze Age (more polished, narrower topic) 327K after 2 months. Part of the gap
+  is age, most of it is topic. (dnz 2026-10-22 view counts, REF-B header)
 - Format: 16:9, 1920x1080, 30 fps (both references are 30 fps; REF-B is uploaded in 4K, consider 4K
   finals later). Runtime about 22 min for a "20 Minutes" title (REF-A 22:24, REF-B 22:10).
   1 upload per week (master prompt).
@@ -32,6 +33,30 @@ the voice and the channel name are our own. (dnz 2026-10-22)
 | --- | --- | --- | --- |
 | REF-A | How-So, "Medieval Europe: 1000 Years in 20 Minutes" (2025, about 3.6M views, about 11x the channel median) | Everything: relief map + fills, cutouts, chapter cards with the era bar, date badge, transitions, pacing, script voice | Their logo, voice and handle |
 | REF-B | How-So, "The Bronze Age: 2000 Years in 20 Minutes" (2026, 4K, newest) | Everything: badge with progress bar + tags, multi-row timeline bar, native-script name tags, term labels, 3D terrain and dioramas, epilogue + next-video teaser, end card | Their logo, voice and handle; their typo ("Greate Powers" 16:43) |
+
+## Packaging (title + thumbnail)
+dnz makes the thumbnails; Claude pitches the idea + 2-3 rough mockups (master prompt §7).
+- Title: "<Era or region>: <N> Years in <M> Minutes". The real runtime can run 2-3 min over the
+  number in the title. (REF-A 22:24, REF-B 22:10)
+- Thumbnail title = the subject only ("MEDIEVAL EUROPE", "THE BRONZE AGE"), huge white serif caps
+  across the top: 87-92% of the width, cap height 10-11% of the height, heavy dark shadow.
+  EB Garamond 600-800 (free on Google Fonts for dnz's PC; bundled here with weight 800). An optional
+  small date range under it. (REF-A thumb, REF-B thumb)
+- Background: our own relief map of the region with the story drawn on it (a glow, white arrows).
+  (REF-A thumb = the 12:39 expansion map)
+- One or two huge real figures (painting or museum statue), cut out, 70-90% of the height. Two
+  civilizations = one on each side, facing each other, each in its region colour. A face that looks
+  at the viewer or points at the map. (REF-A thumb, REF-B thumb)
+- A row of small figures marching along the bottom; the video's own sprites (pyramids, ziggurat) in
+  the middle ground. (REF-A thumb, REF-B thumb vs REF-B 2:35)
+- Fire on at least one edge; warm (orange, gold) against cool (teal, blue). (both thumbs)
+- A bright coloured border around the whole image, about 10-20 px at 1280x720: one colour (cyan
+  #00B3DB) or a left-to-right gradient matching the two sides (#FC9B01 to #24A9F7). Our border colour
+  is part of our own identity: pick it in the design test. (both thumbs)
+- Bright and saturated overall (mean brightness 133-149 of 255). No narrator face, no clickbait arrows
+  or circles, no question marks, no extra words. (both thumbs)
+- First frame vs thumbnail: How-So does not copy the thumbnail into the first frame (REF-A 0:00).
+  The channel-1 rule "first frame matches the thumbnail" stays a candidate for dnz to decide.
 
 ## Look
 ### Palette (sampled from the references)

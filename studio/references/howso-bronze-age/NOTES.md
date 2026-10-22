@@ -3,7 +3,7 @@
 Source: https://www.youtube.com/watch?v=IpyAEDPa4Nw · PC copy: `D:\01 CLAUDE\PROJECT X\The Bronze Age 2000 Years in 20 Minutes.mkv`
 · Cloud copy: this folder (joined from 6 parts, SHA256 matches the PC file) · Length: 22:10 (1330.6 s), **3840x2160 (4K)**, 30 fps · Published 23 Jul 2026
 · Channel: How-So (@How-So), about 90K subscribers, two creators
-· Views: about 319K (web scrape, Oct 2026), so about 1x the channel median. Not an outlier yet, although it is their most polished video. The broad, famous topics did 10x better (Medieval Europe about 3.6M, The Islamic World about 3.5M). Topic choice matters as much as polish.
+· Views: 327K after about 2 months (dnz, from YouTube, 2026-10-22), so about 1x the channel median. Not an outlier yet, although it is their most polished video. The broad, famous topics did about 10x better (Medieval Europe 3.6M after 1 year, The Islamic World about 3.5M after 3 years). Part of the gap is age, but Bronze Age would need a very long tail to catch up. Topic choice matters as much as polish.
 
 Studied 2026-10-22 at max effort. Compare with REF-A (`../howso-medieval/NOTES.md`): same system, newer and more 3D.
 
@@ -112,7 +112,18 @@ Measured at 4 fps (`data/motion.txt`):
 ## 10. Packaging
 - Title: "The Bronze Age: 2000 Years in 20 Minutes", the same "<Subject>: <N> Years in <M> Minutes" pattern as REF-A. Runtime 22:10.
 - Uploaded in 4K.
-- Thumbnail: not studied yet (YouTube images are blocked from the cloud).
+- Thumbnail (`thumbnail.jpg`): "THE BRONZE AGE" in very bold white serif caps across the top (87% of the width, cap height 82 px = 11% of the height, close to EB Garamond 800), "3200 - 1200 BCE" small under it. Background: the video's relief map of the Near East. Split: left half warm (gold, orange fire) = Egypt, right half cool (blue glow, blue flames) = Mesopotamia, the same colour code as the video. Heroes: Tutankhamun's black-and-gold guardian statue (left) and the alabaster statue of Ebih-Il with lapis eyes looking straight at the viewer (right), each about 70-80% of the height. Middle: the video's white pyramids (left) and a ziggurat (right). Bottom: rows of small relief figures, the same cutouts as the era card at 2:35 (dancers left, offering bearers right). Border that runs from orange (#FC9B01) on the left to blue (#24A9F7) on the right, about 15-20 px. Colours: #615037, #2E2014, #908772, #DCBB7F, #D98C28, #E7EAE3, #4AA6E1; mean brightness 149/255, saturation 122/255.
+- **Thumbnail pattern (both thumbnails):**
+  1. The title is the subject only ("MEDIEVAL EUROPE", "THE BRONZE AGE"), huge white serif caps across the top: 87-92% of the width, cap height 10-11% of the image height, dark drop shadow. The "N Years in M Minutes" part is only in the YouTube title.
+  2. The background is the channel's own relief map of the region, with the story drawn on it (a glow, arrows).
+  3. One or two huge real figures (a painting or museum statue), cut out, 70-90% of the image height. With two civilizations, one on each side, facing each other, each in its region colour.
+  4. A row of small figures marches along the bottom (manuscript knights, relief figures).
+  5. Fire on at least one edge, warm against cool (orange fire and gold against teal or blue).
+  6. A bright coloured border around the whole image.
+  7. Built from the video's own assets: the same map, cutouts and sprites.
+  8. No narrator face, no clickbait arrows or circles, no question marks, no other words.
+- The first frame of the video does NOT copy the thumbnail (REF-B opens on an empty map that fills with civilizations; the thumbnail is a posed split composition). The channel-1 rule "first frame matches the thumbnail" is still only a candidate.
+- `thumbnail.jpg` in this folder is the 1280x720 thumbnail (screenshot from dnz, 2026-10-22).
 
 ## 11. dnz likes / dislikes
 - Likes (dnz 2026-10-22, for the channel overall): premium feel, engaging script, map animation that makes it easy to understand.

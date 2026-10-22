@@ -19,7 +19,8 @@ const brand = (family: string, slug: string, weight: string, style: 'normal' | '
 const faces: Face[] = [
   { family: 'Inter', weight: '400', style: 'normal', file: 'fonts/inter-latin-400-normal.woff2' },
   { family: 'Inter', weight: '700', style: 'normal', file: 'fonts/inter-latin-700-normal.woff2' },
-  ...(['400', '500', '600', '700'] as const).flatMap((w) => brand('EB Garamond', 'eb-garamond', w, 'normal')),
+  // 800 = thumbnail titles (REF-B thumbnail)
+  ...(['400', '500', '600', '700', '800'] as const).flatMap((w) => brand('EB Garamond', 'eb-garamond', w, 'normal')),
   ...(['400', '500'] as const).flatMap((w) => brand('EB Garamond', 'eb-garamond', w, 'italic')),
   ...(['400', '500'] as const).flatMap((w) => brand('Crimson Pro', 'crimson-pro', w, 'normal')),
   ...(['400', '500'] as const).flatMap((w) => brand('Crimson Pro', 'crimson-pro', w, 'italic')),
