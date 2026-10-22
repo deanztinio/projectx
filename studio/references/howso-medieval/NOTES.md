@@ -18,6 +18,7 @@ Studied 2026-10-22 at max effort. dnz's brief: copy everything from this channel
 | `data/transcript_timed.md` | Every sentence with start time, word count, length and the pause after it. |
 | `data/srt_analysis.json`, `data/cuts.json`, `data/motion.txt`, `data/loudness.txt`, `data/palette_sheet.png` | Raw numbers behind this file. |
 | `type/` | Font matching images (reference crop on top, candidates under it). |
+| `data/anim_*.jpg`, `data/first5s_strip.jpg` | Frame strips (4-5 fps, timecode from the strip start) of key animations: label build (0:20), chapter card + lattice wipe (2:42), cutout slide-in (2:52), cutout + caption (3:59). |
 | Tools | `studio/tools/refstudy/` regenerates all of this for a new reference. |
 
 The SRT is an automatic TurboScribe transcript. It has small errors (for example 21:24 "had not only but almost shifted outward").

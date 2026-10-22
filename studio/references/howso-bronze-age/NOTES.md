@@ -8,7 +8,7 @@ Source: https://www.youtube.com/watch?v=IpyAEDPa4Nw · PC copy: `D:\01 CLAUDE\PR
 Studied 2026-10-22 at max effort. Compare with REF-A (`../howso-medieval/NOTES.md`): same system, newer and more 3D.
 
 ## Files in this folder
-Same layout as REF-A: `frames/` (1 fps, 960 wide, file number = second), `cuts/`, `sheets/` (30 s each), `intro/` (first 5 s at 10 fps), `data/` (visual_log.md, transcript_timed.md, srt_analysis.json, cuts.json, motion.txt, loudness.txt, palette_sheet.png, badges.png), `type/`. The full-resolution 4K video is here for any frame you need sharp.
+Same layout as REF-A: `frames/` (1 fps, 960 wide, file number = second), `cuts/`, `sheets/` (30 s each), `intro/` (first 5 s at 10 fps), `data/` (visual_log.md, transcript_timed.md, srt_analysis.json, cuts.json, motion.txt, loudness.txt, palette_sheet.png, badges.png, and frame strips of key animations: `anim_term_label_0330.jpg`, `anim_nametag_1011.jpg`, `anim_empire_fill_label_1012.jpg`, `first5s_strip.jpg`), `type/`. The full-resolution 4K video is here for any frame you need sharp.
 
 ## 1. First 5 seconds, second by second
 | t | What's on screen | Text | Motion | Sound |
