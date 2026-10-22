@@ -31,7 +31,7 @@ the voice and the channel name are our own. (dnz 2026-10-22)
 ## References
 | ID | Video | What we take from it | What we don't |
 | --- | --- | --- | --- |
-| REF-A | How-So, "Medieval Europe: 1000 Years in 20 Minutes" (2025, about 3.6M views, about 11x the channel median) | Everything: relief map + fills, cutouts, chapter cards with the era bar, date badge, transitions, pacing, script voice | Their logo, voice and handle |
+| REF-A | How-So, "Medieval Europe: 1000 Years in 20 Minutes" (2025, 3.6M views, 11.2x on 1of10) | Everything: relief map + fills, cutouts, chapter cards with the era bar, date badge, transitions, pacing, script voice | Their logo, voice and handle |
 | REF-B | How-So, "The Bronze Age: 2000 Years in 20 Minutes" (2026, 4K, newest) | Everything: badge with progress bar + tags, multi-row timeline bar, native-script name tags, term labels, 3D terrain and dioramas, epilogue + next-video teaser, end card | Their logo, voice and handle; their typo ("Greate Powers" 16:43) |
 
 ## Packaging (title + thumbnail)

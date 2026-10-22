@@ -3,7 +3,7 @@
 Source: https://www.youtube.com/watch?v=8VPPQAcac6U · PC copy: `D:\01 CLAUDE\PROJECT X\Medieval Europe 1000 Years in 20 Minutes.mkv`
 · Cloud copy: this folder · Length: 22:24 (1344.6 s), 1920x1080, 30 fps · Published 25 Aug 2025
 · Channel: How-So (@How-So), about 90K subscribers, run by "two guys handcrafting these videos" (their own reply on the Islamic World video)
-· Views: 3.6M after about 1 year (dnz, from YouTube, 2026-10-22). 1of10 does not index How-So, so there is no official outlier score. Against the channel's 5 public long videos (median about 327K views) this video is about **11x**. It is the channel's biggest video.
+· Views: 3.6M after about 1 year (dnz, from YouTube, 2026-10-22). 1of10 outlier score: **11.2x** (found by the First video research thread; my channel search missed it). Against the channel's 5 public long videos (median about 327K views) this video is about **11x**. It is the channel's biggest video.
 
 Studied 2026-10-22 at max effort. dnz's brief: copy everything from this channel except the logo and the voice.
 
