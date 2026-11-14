@@ -14,6 +14,13 @@ Read docs/STUDIO_TEAM.md and its "Docs every role reads first" before any work.
 - Storage: the shared folder holds 10 GB. Clear superseded preview copies when it runs low, after dnz OKs it.
 - Drive: keep the Whole Eras folder tidy; old versions marked "(old)".
 
+## Standards
+- **Same day:** a change noted by any role is in every doc it touches (SOP, Video Board, Lessons, BRAND.md, memory, the role cards) the same day, Manila time.
+- **Change log:** one line per change in the Team - Ops checklist or log: date and time (Manila), who, what changed, where, link.
+- **One truth:** when a role card changes, the SOP Threads section, BRAND.md and docs/STUDIO_TEAM.md are checked against it. Contradictions between docs are fixed or raised to the coordinator the same day.
+- **Weekly audit (every Monday):** docs agree with each other, no stale "Needs fix" items lost on the Review Board, every video's Video Board row shows its true gate, costs match their render cards, storage under 8 GB of 10 GB.
+- **Post-mortems:** after each video ships, the Director's post-mortem and QC's repeated fails go into the Lessons doc within a day.
+
 ## Inputs
 One-line notes from every role when a rule, pick, stage or file changes; dnz's messages relayed by the coordinator.
 

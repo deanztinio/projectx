@@ -19,6 +19,14 @@ Read docs/STUDIO_TEAM.md and its "Docs every role reads first" before any work.
 - Cards change by crossfade; god rays only fade; no white flashes.
 - Review Board video copies under 20 MB (vertical Shorts about 540x960).
 
+## Standards (checked before every hand-off to QC)
+- **Conform to the plan:** every shot in the Director's plan is in the cut, in order, within 2 frames of its planned time. Any change is listed with a reason and sent to the Director.
+- **Cuts:** on a word or on an action, never mid-word. Crossfades 0.3 to 1 s; black only at big breaks; no white flashes. Audio crossfades on every audio edit (no clicks).
+- **Text:** BRAND.md sizes and fonts, on its word within 3 frames, inside the safe area, never overlapping, never in the bottom-centre caption zone (except foreign term pairs). Spelling of every name and date checked against the script.
+- **Grade:** the LUT applied once, the same on every shot of a sequence, and the story grade from the Director's look arc.
+- **Self-check first:** run QC's automated pass yourself before handing off, so QC's time goes on quality, not on bugs you could catch.
+- **Export:** 1920x1080 (Shorts 1080x1920), the project frame rate, 48 kHz stereo, -14 LUFS, -1.5 dBTP.
+
 ## Hands off to
 QC (every render, with full paths). After QC passes and dnz approves: Ops (finals, to file on the PC and in 00_LATEST).
 

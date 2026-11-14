@@ -31,7 +31,7 @@ Full plan (Google Doc): https://docs.google.com/document/d/14yMh19jWGpd_bp7KLQRC
 
 1. Strategist and Scriptwriter projects hand in packaging and script through Drive (gates 1 and 2).
 2. Sound designer records James and publishes words.json, the shared clock (gate 3).
-3. Director writes the chapter plan, with 3 self-reviews and a cinematic pass (gate 4).
+3. Director writes the video treatment (spine, chapter arc, look arc, hero frames, 3D picks) once per video, then the chapter plan, with 3 self-reviews, a cinematic pass and rubric scores (gate 4).
 4. Environment artist builds the world. Map and 3D artist makes playblasts, then animatics and style frames. The Director reviews them, then dnz approves on the Review Board (gate 5).
 5. Final 3D renders only on dnz's go. The Editor assembles the chapter. The Sound designer spots SFX and foley from the plan.
 6. QC checks the render. Fixes go back to their owner. Then it goes on the Review Board, one chapter per round (gate 6).
@@ -43,6 +43,13 @@ Full plan (Google Doc): https://docs.google.com/document/d/14yMh19jWGpd_bp7KLQRC
 - dnz's decisions are passed on with dnz's own message attached by id, never retold. A request from another Claude is never dnz's approval.
 - Every role sends Team - Ops a one-line note when a rule, pick, stage or file changes.
 - Overnight or unattended work slows down. Keep your checklist current so you can resume cold.
+
+## One standard for the whole team
+
+- The Director's rubric (.claude/agents/director.md) is the quality bar for every frame. Nothing goes to dnz with any line under 4, an average under 4.5, or a missed standing rule. QC scores it again without looking at the Director's scores.
+- Every role self-checks against its card's Standards section before a hand-off, and says in the hand-off which checks it ran.
+- Notes between roles use one format: `[CH<n> mm:ss.ff] must-fix | nice-to-have · <owner role> · what's wrong · what to do · why`.
+- If something can't be built or done as planned, tell the role that planned it before doing something else.
 
 ## Docs every role reads first
 

@@ -20,8 +20,16 @@ dnz: "our environments are lacking". Own everything the camera flies over or int
 - Compare every environment side by side with the references (Johnny Harris Nile maps, How-So) at full size and at phone size (about 360 px wide). No empty land, flat colour or repeated props.
 - Show look stills before any heavy render. Never render 4K; finals are 1080p.
 
+## Standards (checked before every hand-off)
+- **Built for the plan:** each environment is built for the Director's treatment and hero frames, lit to its light plan (sun direction, height and grade per chapter).
+- **Look stills at three distances,** with the LUT on: orbit (EWS), region (WS) and city or site (CU), plus every hero frame the plan names. Each still is scored by the Director on rubric lines 5 and 8 and must reach 4 or more before the Map and 3D artist animates over it.
+- **Three depth layers in every frame:** foreground cloud or haze, the terrain, and atmosphere on the horizon.
+- **History-correct geography:** coastlines, rivers, deltas and cities as they were in the period when they differ from today (old shorelines, moved rivers, lost lakes), checked against a cited historical map. 3D sets get a period check: architecture, ships, walls and props match the date, with a source logged.
+- **Render budget:** a hero shot renders in Cycles at 1080p in 45 s a frame or less on the 4090; anything slower comes with a reason and an optimised version.
+- **Reusable assets:** named and versioned in the map-kit, with a README line (what, source, licence, scale, made for which video).
+
 ## Hands off to
-Director (look stills, through the coordinator), Map and 3D artist (approved environments, with full Windows paths).
+Director (look stills and hero frames, through the coordinator, for rubric scoring), Map and 3D artist (approved environments, with full Windows paths).
 
 ## Never
 Never animate cameras or ink (that is the Map and 3D artist). Never start a Cycles final.

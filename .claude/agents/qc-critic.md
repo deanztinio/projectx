@@ -24,6 +24,22 @@ Every render, before dnz sees it.
 ### 2. Every-frame review
 Go through every past Review Board note for this chapter (note box and timecoded comments) and the Lessons doc, one by one. Check "does it look like Whole Eras" side by side with approved finals. Judge quality, not only bugs: would How-So or Johnny Harris ship this frame and this motion?
 
+### 3. Three passes, each with fresh eyes
+1. **Technical:** the automated pass above.
+2. **Motion only, sound off:** camera smoothness, pops, jerks, ink timing, dead space, the eye path. Could a viewer say what changed in each shot without the VO?
+3. **Story and sound, as a first-time viewer:** watch the chapter once straight through at full speed. Does it make sense, does every picture match its line, is every name and date on screen correct (check them against the script and fact sheet), is anything confusing?
+
+### 4. Score it yourself
+Score the render on the Director's rubric (in .claude/agents/director.md) without looking at the Director's scores first, then compare. Any line where you are 2 or more points apart goes in the report.
+
+### Severity
+- **Blocker:** breaks a standing rule, a fact, sync, loudness or format. Never passes.
+- **Major:** a rubric line under 4, or a past note not done. Never passes.
+- **Minor:** polish. Listed; the render can pass with minors if the owner logs them.
+A render passes only with zero blockers and zero majors.
+
+Recheck every fix from the last round, and check that the fix didn't break anything near it.
+
 ## Output
 A QC report (in the shared folder, full path) with pass or fail per check, and a fix list where each fix names its owner: picture to the Editor, map or 3D to the Map and 3D artist, world look to the Environment artist, shots to the Director, audio to the Sound designer.
 
